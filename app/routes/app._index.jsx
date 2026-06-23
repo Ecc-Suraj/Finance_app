@@ -13,8 +13,8 @@ export default function ReportsPage() {
   const checkReportReady = async (reportType, since) => {
     const readyUrl = `/api/reports/download?type=${encodeURIComponent(
       reportType,
-    )}&since=${encodeURIComponent(since)}&check=1`;
-    const response = await fetch(readyUrl, { method: "GET" });
+    )}&since=${encodeURIComponent(since)}&check=1&poll=${Date.now()}`;
+    const response = await fetch(readyUrl, { method: "GET", cache: "no-store" });
 
     if (response.ok) {
       return { ok: true };
@@ -22,6 +22,34 @@ export default function ReportsPage() {
 
     const err = await response.json().catch(() => null);
     return { ok: false, error: err?.error || err?.message };
+  };
+
+  const waitForReportReady = async (reportType, since) => {
+    const maxAttempts = 60;
+    const delayMs = 5000;
+    let lastError;
+
+    for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+      const ready = await checkReportReady(reportType, since);
+
+      if (ready.ok) {
+        setDownloadReady(true);
+        setStatusMessage("Report generated. You can now download it.");
+        return true;
+      }
+
+      lastError = ready.error;
+      if (attempt % 6 === 0 && lastError) {
+        setStatusMessage(`Report is generating. Last check: ${lastError}`);
+      }
+      await sleep(delayMs);
+    }
+
+    setStatusMessage(
+      lastError ||
+        "Still waiting for the download link. Please check status again in a moment.",
+    );
+    return false;
   };
 
   const handleGenerate = async () => {
@@ -48,32 +76,26 @@ export default function ReportsPage() {
       const since = data.dispatchedAt || new Date().toISOString();
       setGeneratedSince(since);
       setStatusMessage("Report is generating. Waiting for the download link...");
-
-      const maxAttempts = 30;
-      const delayMs = 5000;
-      let lastError;
-
-      for (let attempt = 1; attempt <= maxAttempts; attempt++) {
-        const ready = await checkReportReady(selectedReport, since);
-
-        if (ready.ok) {
-          setDownloadReady(true);
-          setStatusMessage("Report generated. You can now download it.");
-          return;
-        }
-
-        lastError = ready.error;
-        await sleep(delayMs);
-      }
-
-      throw new Error(
-        lastError ||
-          "Report is still not ready. Please try generating it again in a minute.",
-      );
+      await waitForReportReady(selectedReport, since);
     } catch (error) {
       console.error(error);
       setStatusMessage("");
       alert(error.message || "There was an error dispatching the workflow.");
+    } finally {
+      setIsGenerating(false);
+    }
+  };
+
+  const handleCheckStatus = async () => {
+    if (!selectedReport || !generatedSince) return;
+
+    try {
+      setIsGenerating(true);
+      setStatusMessage("Checking for the download link...");
+      await waitForReportReady(selectedReport, generatedSince);
+    } catch (error) {
+      console.error(error);
+      alert(error.message || "There was an error checking the report status.");
     } finally {
       setIsGenerating(false);
     }
@@ -88,7 +110,10 @@ export default function ReportsPage() {
 
     try {
       setIsDownloading(true);
-      const response = await fetch(downloadUrl, { method: "GET" });
+      const response = await fetch(downloadUrl, {
+        method: "GET",
+        cache: "no-store",
+      });
 
       if (!response.ok) {
         const err = await response.json().catch(() => null);
@@ -157,10 +182,16 @@ export default function ReportsPage() {
       <div style={{ display: "flex", gap: "0.5rem" }}>
         <button
           type="button"
-          onClick={handleGenerate}
+          onClick={
+            generatedSince && !downloadReady ? handleCheckStatus : handleGenerate
+          }
           disabled={!selectedReport || isGenerating}
         >
-          {isGenerating ? "Generating..." : "Generate"}
+          {isGenerating
+            ? "Generating..."
+            : generatedSince && !downloadReady
+              ? "Check status"
+              : "Generate"}
         </button>
 
         <button

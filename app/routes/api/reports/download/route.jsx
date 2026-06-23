@@ -41,11 +41,12 @@ export const loader = async ({ request }) => {
     const runsResponse = await fetch(
       `https://api.github.com/repos/${owner}/${repo}/actions/workflows/${encodeURIComponent(
         workflowFile,
-      )}/runs?status=completed&conclusion=success&per_page=10`,
+      )}/runs?event=workflow_dispatch&per_page=20`,
       {
         headers: {
           Authorization: `Bearer ${token}`,
           Accept: "application/vnd.github+json",
+          "Cache-Control": "no-cache",
         },
       },
     );
@@ -56,48 +57,87 @@ export const loader = async ({ request }) => {
 
     const runsData = await runsResponse.json();
     const sinceTime = since ? new Date(since).getTime() : 0;
-    const latestRun = runsData.workflow_runs?.find((run) => {
+    const earliestRunTime = sinceTime - 10 * 60 * 1000;
+    const candidateRuns = (runsData.workflow_runs || []).filter((run) => {
       if (!Number.isFinite(sinceTime) || sinceTime <= 0) return true;
 
       const runCreatedAt = new Date(run.created_at).getTime();
-      return Number.isFinite(runCreatedAt) && runCreatedAt >= sinceTime;
+      return Number.isFinite(runCreatedAt) && runCreatedAt >= earliestRunTime;
     });
 
-    if (!latestRun) {
+    if (!candidateRuns.length) {
       return new Response(
-        JSON.stringify({ error: "Report workflow is still running" }),
+        JSON.stringify({ error: "No recent workflow run found yet" }),
         {
           status: 404,
-          headers: { "Content-Type": "application/json" },
+          headers: {
+            "Content-Type": "application/json",
+            "Cache-Control": "no-store",
+          },
         },
       );
     }
 
-    const artifactsResponse = await fetch(
-      `https://api.github.com/repos/${owner}/${repo}/actions/runs/${latestRun.id}/artifacts`,
-      {
-        headers: {
-          Authorization: `Bearer ${token}`,
-          Accept: "application/vnd.github+json",
-        },
-      },
-    );
+    let latestPendingRun;
+    let latestFailedRun;
+    let latestReadyRun;
+    let artifact;
 
-    if (!artifactsResponse.ok) {
-      throw new Error(`Failed to fetch artifacts: ${artifactsResponse.status}`);
+    for (const run of candidateRuns) {
+      if (run.status !== "completed") {
+        latestPendingRun ||= run;
+        continue;
+      }
+
+      if (run.conclusion !== "success") {
+        latestFailedRun ||= run;
+        continue;
+      }
+
+      const artifactsResponse = await fetch(
+        `https://api.github.com/repos/${owner}/${repo}/actions/runs/${run.id}/artifacts?per_page=20`,
+        {
+          headers: {
+            Authorization: `Bearer ${token}`,
+            Accept: "application/vnd.github+json",
+            "Cache-Control": "no-cache",
+          },
+        },
+      );
+
+      if (!artifactsResponse.ok) {
+        throw new Error(
+          `Failed to fetch artifacts: ${artifactsResponse.status}`,
+        );
+      }
+
+      const artifactsData = await artifactsResponse.json();
+      artifact = artifactsData.artifacts?.find(
+        (item) => !item.expired && item.archive_download_url,
+      );
+
+      if (artifact) {
+        latestReadyRun = run;
+        break;
+      }
     }
 
-    const artifactsData = await artifactsResponse.json();
-    const artifact = artifactsData.artifacts?.find(
-      (item) => !item.expired && item.archive_download_url,
-    );
+    if (!latestReadyRun || !artifact) {
+      const error =
+        latestPendingRun
+          ? `Workflow is ${latestPendingRun.status}`
+          : latestFailedRun
+            ? `Workflow finished with ${latestFailedRun.conclusion}`
+            : "Download artifact is not ready yet";
 
-    if (!artifact) {
       return new Response(
-        JSON.stringify({ error: "Download artifact is not ready yet" }),
+        JSON.stringify({ error }),
         {
-          status: 404,
-          headers: { "Content-Type": "application/json" },
+          status: latestPendingRun ? 202 : 404,
+          headers: {
+            "Content-Type": "application/json",
+            "Cache-Control": "no-store",
+          },
         },
       );
     }
@@ -107,11 +147,14 @@ export const loader = async ({ request }) => {
         JSON.stringify({
           ready: true,
           artifactName: artifact.name,
-          runId: latestRun.id,
+          runId: latestReadyRun.id,
         }),
         {
           status: 200,
-          headers: { "Content-Type": "application/json" },
+          headers: {
+            "Content-Type": "application/json",
+            "Cache-Control": "no-store",
+          },
         },
       );
     }
@@ -120,6 +163,7 @@ export const loader = async ({ request }) => {
       headers: {
         Authorization: `Bearer ${token}`,
         Accept: "application/vnd.github+json",
+        "Cache-Control": "no-cache",
       },
     });
 
@@ -137,12 +181,16 @@ export const loader = async ({ request }) => {
       headers: {
         "Content-Type": "application/zip",
         "Content-Disposition": `attachment; filename="${filename}.zip"`,
+        "Cache-Control": "no-store",
       },
     });
   } catch (error) {
     return new Response(JSON.stringify({ error: error.message }), {
       status: 500,
-      headers: { "Content-Type": "application/json" },
+      headers: {
+        "Content-Type": "application/json",
+        "Cache-Control": "no-store",
+      },
     });
   }
 };
