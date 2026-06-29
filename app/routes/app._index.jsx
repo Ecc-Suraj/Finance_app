@@ -22,12 +22,6 @@ export default function ReportsPage() {
     endDate &&
     startDate > endDate;
 
-  const isInventoryDateRangeInvalid =
-    selectedReport === "inventory" &&
-    startDate &&
-    endDate &&
-    startDate > endDate;
-
   const checkReportReady = async (reportType, since) => {
     const readyUrl = `/api/reports/download?type=${encodeURIComponent(
       reportType,
