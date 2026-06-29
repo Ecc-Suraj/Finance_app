@@ -2,7 +2,7 @@
 
 client_id = "efcedb28869744270f65373a73a61907"
 name = "Freprots"
-application_url = "https://finance-app-backup.onrender.com"
+application_url = "https://finance-app-backup-production.up.railway.app"
 embedded = true
 
 [access_scopes]
@@ -46,8 +46,8 @@ api_version = "2026-07"
 
 [auth]
 redirect_urls = [ 
-  "https://finance-app-backup.onrender.com/auth/callback",
-  "https://finance-app-backup.onrender.com/api/auth"
+  "https://finance-app-backup-production.up.railway.app/auth/callback",
+  "https://finance-app-backup-production.up.railway.app/api/auth"
   ]
 
 [build]
