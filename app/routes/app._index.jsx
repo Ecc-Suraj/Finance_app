@@ -75,7 +75,7 @@ export default function ReportsPage() {
       setGeneratedSince("");
       setStatusMessage("Starting report generation...");
 
-      if (isInventoryDateRangeInvalid) {
+      if (isDateRangeInvalid) {
         throw new Error("Start date must be on or before end date.");
       }
 
