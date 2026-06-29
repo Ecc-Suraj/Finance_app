@@ -12,12 +12,14 @@ export default function ReportsPage() {
   const [generatedSince, setGeneratedSince] = React.useState("");
   const [statusMessage, setStatusMessage] = React.useState("");
 
-  const isInventoryDateRangeIncomplete =
-    selectedReport === "inventory" &&
+  const dateRangeReports = ["inventory", "sales"];
+
+  const isDateRangeIncomplete =
+    dateRangeReports.includes(selectedReport) &&
     ((startDate && !endDate) || (!startDate && endDate));
 
-  const isInventoryDateRangeInvalid =
-    selectedReport === "inventory" &&
+  const isDateRangeInvalid =
+    dateRangeReports.includes(selectedReport) &&
     startDate &&
     endDate &&
     startDate > endDate;
@@ -78,7 +80,7 @@ export default function ReportsPage() {
       }
 
       const payload = { workflow: selectedReport };
-      if (selectedReport === "inventory") {
+      if (dateRangeReports.includes(selectedReport)) {
         if (startDate) {
           payload.startDate = startDate;
           payload.start_date = startDate;
@@ -209,7 +211,7 @@ export default function ReportsPage() {
         </select>
       </div>
 
-      {selectedReport === "inventory" && (
+      {dateRangeReports.includes(selectedReport) && (
         <div style={{ marginBottom: "1rem" }}>
           <label htmlFor="start-date" style={{ display: "block" }}>
             Start date
@@ -242,12 +244,12 @@ export default function ReportsPage() {
             }}
             style={{ marginTop: "0.5rem", width: "100%", padding: "0.25rem" }}
           />
-          {isInventoryDateRangeInvalid && (
+          {isDateRangeInvalid && (
             <p style={{ marginTop: "0.5rem", color: "#b91c1c" }}>
               Start date must be on or before end date.
             </p>
           )}
-          {isInventoryDateRangeIncomplete && (
+          {isDateRangeIncomplete && (
             <p style={{ marginTop: "0.5rem", color: "#b91c1c" }}>
               Please enter both start and end date, or leave both blank.
             </p>
@@ -264,7 +266,7 @@ export default function ReportsPage() {
           disabled={
             !selectedReport ||
             isGenerating ||
-            (selectedReport === "inventory" && isInventoryDateRangeIncomplete)
+            (dateRangeReports.includes(selectedReport) && isDateRangeIncomplete)
           }
         >
           {isGenerating

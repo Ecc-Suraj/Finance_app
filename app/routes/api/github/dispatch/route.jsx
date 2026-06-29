@@ -120,7 +120,12 @@ export const action = async ({ request }) => {
     const body = { ref: "main" };
     // Only include workflow_dispatch inputs for workflows that declare them.
     // Prevent sending unexpected inputs that cause GitHub to return 422.
-    const workflowsWithInputs = new Set(["ar-aging-export.yml", "ar-aging-export"]);
+    const workflowsWithInputs = new Set([
+      "ar-aging-export.yml",
+      "ar-aging-export",
+      "shopify-export.yml",
+      "shopify-export",
+    ]);
     if (Object.keys(inputs).length && workflowsWithInputs.has(workflowFile)) {
       body.inputs = inputs;
     }
