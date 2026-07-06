@@ -13,12 +13,10 @@ export default function ReportsPage() {
   const [statusMessage, setStatusMessage] = React.useState("");
 
   const dateRangeReports = [
-    "inventory",
-    "sales",
-    "refund",
-    "Products",
+    "AR_report",
+    "Invoice",
+    "Refund",
     "Payment",
-    "customers",
   ];
 
   const isDateRangeIncomplete =
@@ -212,12 +210,12 @@ export default function ReportsPage() {
           }}
         >
           <option value="">Select a report</option>
-          <option value="sales">Order Report</option>
-          <option value="inventory">Ar report</option>
-          <option value="refund">Refund report</option>
+          <option value="Invoice">Order Report</option>
+          <option value="AR_report">Ar report</option>
+          <option value="Refund">Refund report</option>
           <option value="Products">Product Master</option>
           <option value="Payment">Payment report</option>
-          <option value="customers">Partner Master</option>
+          <option value="Partners">Partner Master</option>
         </select>
       </div>
 

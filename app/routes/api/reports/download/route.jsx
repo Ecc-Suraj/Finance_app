@@ -28,12 +28,12 @@ export const loader = async ({ request }) => {
   }
 
   const workflowFileMap = {
-    sales: "shopify-export.yml",
-    inventory: "ar-aging-export.yml",
-    customers: "shopify-export.yml",
-    refund: "refund-export.yml",
-    Payment: "payment-export.yml",
-    Products: "product-export.yml"
+    Invoice: "shopify-export.yml",
+    AR_report: "ar-aging-export.yml",
+    Refund: "refund-export.yml",
+    Payment: "payment_report.yml",
+    Products: "product_master_report.yml",
+    Partners: "partner_master_report.yml",
   };
 
   const workflowFile = workflowFileMap[reportType] || `${reportType}.yml`;

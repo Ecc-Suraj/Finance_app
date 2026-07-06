@@ -38,19 +38,19 @@ export const action = async ({ request }) => {
     test: "test.yml",
     all: ["build.yml", "deploy.yml", "test.yml"],
 
-    sales: "shopify-export.yml",
-    inventory: "ar-aging-export.yml",
-    refund: "refund-export.yml",
-    Payment: "payment-export.yml",
-    Products: "product-export.yml",
-    customers: "customer-export.yml",
+    Invoice: "shopify-export.yml",
+    AR_report: "ar-aging-export.yml",
+    Refund: "refund-export.yml",
+    Payment: "payment_report.yml",
+    Products: "product_master_report.yml",
+    Partners: "partner_master_report.yml",
 
     "ar-aging-export": "ar-aging-export.yml",
     "shopify-export": "shopify-export.yml",
     "refund-export": "refund-export.yml",
-    "payment-export": "payment-export.yml",
-    "product-export": "product-export.yml",
-    "customer-export": "customer-export.yml",
+    "payment-export": "payment_report.yml",
+    "product-export": "product_master_report.yml",
+    "customer-export": "partner_master_report.yml",
   };
 
   let target = workflowMap[workflow];
@@ -67,15 +67,14 @@ const dispatchWorkflow = async (workflowFile) => {
   const inputs = {};
 
   const startDateValue = startDate || start_date || body?.["start-date"];
-
   const endDateValue = endDate || end_date || body?.["end-date"];
 
   if (startDateValue) {
-    inputs["start-date"] = startDateValue;
+    inputs.startDate = startDateValue;
   }
 
   if (endDateValue) {
-    inputs["end-date"] = endDateValue;
+    inputs.endDate = endDateValue;
   }
 
   console.log("Dispatching workflow:", workflowFile);

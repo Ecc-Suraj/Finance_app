@@ -84,9 +84,9 @@ export const action = async ({ request }) => {
     build: "build.yml",
     deploy: "deploy.yml",
     test: "test.yml",
-    sales: "shopify-export.yml",
-    inventory: "ar-aging-export.yml",
-    customers: "shopify-export.yml",
+    Invoice: "shopify-export.yml",
+    AR_report: "ar-aging-export.yml",
+    Partners: "shopify-export.yml",
     "ar-aging-export": "ar-aging-export.yml",
     "shopify-export": "shopify-export.yml",
   };
