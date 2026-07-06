@@ -37,11 +37,20 @@ export const action = async ({ request }) => {
     deploy: "deploy.yml",
     test: "test.yml",
     all: ["build.yml", "deploy.yml", "test.yml"],
+
     sales: "shopify-export.yml",
     inventory: "ar-aging-export.yml",
-    customers: "shopify-export.yml",
+    refund: "refund-export.yml",
+    Payment: "payment-export.yml",
+    Products: "product-export.yml",
+    customers: "customer-export.yml",
+
     "ar-aging-export": "ar-aging-export.yml",
     "shopify-export": "shopify-export.yml",
+    "refund-export": "refund-export.yml",
+    "payment-export": "payment-export.yml",
+    "product-export": "product-export.yml",
+    "customer-export": "customer-export.yml",
   };
 
   let target = workflowMap[workflow];
@@ -54,88 +63,52 @@ export const action = async ({ request }) => {
     }
   }
 
-  const dispatchWorkflow = async (workflowFile) => {
-    const inputs = {};
-    const startDateValue = startDate || start_date;
-    const endDateValue = endDate || end_date;
+const dispatchWorkflow = async (workflowFile) => {
+  const inputs = {};
 
-    if (startDateValue) {
-      inputs["start-date"] = startDateValue;
-      inputs.start_date = startDateValue;
-      inputs.startDate = startDateValue;
-    }
-    if (endDateValue) {
-      inputs["end-date"] = endDateValue;
-      inputs.end_date = endDateValue;
-      inputs.endDate = endDateValue;
-    }
+  const startDateValue = startDate || start_date || body?.["start-date"];
 
-    const body = { ref: "main" };
+  const endDateValue = endDate || end_date || body?.["end-date"];
 
-    // Only include workflow_dispatch inputs for workflows that declare them.
-    // Some workflows (in this repo or remote) may not accept inputs and
-    // GitHub will reject dispatches that include unexpected inputs (422).
-    const workflowsWithInputs = new Set([
-      "ar-aging-export.yml",
-      "ar-aging-export",
-      "shopify-export.yml",
-      "shopify-export",
-    ]);
-    if (Object.keys(inputs).length && workflowsWithInputs.has(workflowFile)) {
-      body.inputs = inputs;
-    }
+  if (startDateValue) {
+    inputs["start-date"] = startDateValue;
+  }
 
-    const response = await fetch(
-      `https://api.github.com/repos/${owner}/${repo}/actions/workflows/${encodeURIComponent(
-        workflowFile,
-      )}/dispatches`,
-      {
-        method: "POST",
-        headers: {
-          Authorization: `Bearer ${token}`,
-          Accept: "application/vnd.github+json",
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify(body),
-      },
-    );
+  if (endDateValue) {
+    inputs["end-date"] = endDateValue;
+  }
 
-    if (!response.ok) {
-      const text = await response.text().catch(() => "");
+  console.log("Dispatching workflow:", workflowFile);
+  console.log("Inputs:", inputs);
 
-      // If inputs were unexpected, retry once without inputs so the workflow still runs.
-      if (response.status === 422 && /Unexpected inputs provided/.test(text)) {
-        const fallbackBody = { ref: "main" };
-        const fallbackResponse = await fetch(
-          `https://api.github.com/repos/${owner}/${repo}/actions/workflows/${encodeURIComponent(
-            workflowFile,
-          )}/dispatches`,
-          {
-            method: "POST",
-            headers: {
-              Authorization: `Bearer ${token}`,
-              Accept: "application/vnd.github+json",
-              "Content-Type": "application/json",
-            },
-            body: JSON.stringify(fallbackBody),
-          },
-        );
-
-        if (!fallbackResponse.ok) {
-          const fbText = await fallbackResponse.text().catch(() => "");
-          throw new Error(
-            `GitHub workflow dispatch failed for ${workflowFile} (fallback): ${fallbackResponse.status} ${fbText}`,
-          );
-        }
-
-        return;
-      }
-
-      throw new Error(
-        `GitHub workflow dispatch failed for ${workflowFile}: ${response.status} ${text}`,
-      );
-    }
+  const requestBody = {
+    ref: "main",
+    inputs,
   };
+
+  const response = await fetch(
+    `https://api.github.com/repos/${owner}/${repo}/actions/workflows/${encodeURIComponent(
+      workflowFile,
+    )}/dispatches`,
+    {
+      method: "POST",
+      headers: {
+        Authorization: `Bearer ${token}`,
+        Accept: "application/vnd.github+json",
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(requestBody),
+    },
+  );
+
+  if (!response.ok) {
+    const text = await response.text();
+
+    throw new Error(
+      `GitHub workflow dispatch failed for ${workflowFile}: ${response.status} ${text}`,
+    );
+  }
+}; 
 
   try {
     const dispatchedAt = new Date().toISOString();

@@ -99,7 +99,7 @@ export default function ReportsPage() {
           payload["end-date"] = endDate;
         }
       }
-
+      console.log("Dispatch payload:", payload);
       const response = await fetch("/api/github/dispatch", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
