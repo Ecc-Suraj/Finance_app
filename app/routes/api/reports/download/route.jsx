@@ -31,8 +31,9 @@ export const loader = async ({ request }) => {
     sales: "shopify-export.yml",
     inventory: "ar-aging-export.yml",
     customers: "shopify-export.yml",
-    "ar-aging-export": "ar-aging-export.yml",
-    "shopify-export": "shopify-export.yml",
+    refund: "refund-export.yml",
+    Payment: "payment-export.yml",
+    Products: "product-export.yml"
   };
 
   const workflowFile = workflowFileMap[reportType] || `${reportType}.yml`;
