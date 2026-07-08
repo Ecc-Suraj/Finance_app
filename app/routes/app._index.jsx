@@ -192,7 +192,7 @@ export default function ReportsPage() {
 
   return (
     <div style={{ padding: "1.5rem", maxWidth: 480 }}>
-      <h1 style={{ marginBottom: "1rem" }}>Finance Reports</h1>
+      <h1 style={{ marginBottom: "1rem" }}>Generate Reports</h1>
 
       <div style={{ marginBottom: "1rem" }}>
         <label htmlFor="report-select" style={{ display: "block" }}>
