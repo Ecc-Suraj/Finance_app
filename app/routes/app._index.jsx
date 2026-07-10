@@ -43,9 +43,9 @@ export default function ReportsPage() {
     },
 
     product_master: {
-      generate: "/api/product-report",
-      download: "/api/product-download",
-      filename: "product_master.csv",
+      generate: "/api/product-master",
+      download: "/api/product-master-download",
+      filename: "product_master_report.csv",
       requiresDates: false,
       successMessage: "Product Master generated successfully.",
     },

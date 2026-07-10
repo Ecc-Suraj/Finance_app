@@ -201,26 +201,31 @@ def download_partner_report():
 # PRODUCT MASTER
 # =====================================================
 
+from fastapi import HTTPException
+import traceback
+
 @app.post("/product-master")
 def product_master():
+    try:
+        filename = generate_product_master_report()
 
-    filename =  generate_product_master_report()
+        return {
+            "status": "success",
+            "file": filename
+        }
 
-    return {
-        "status": "success",
-        "file": filename
-    }
+    except Exception as e:
+        traceback.print_exc()      # Prints full traceback in terminal
+        raise HTTPException(status_code=500, detail=str(e))
 
 
 @app.get("/download-product-master")
-def download_product_report():
+def download_product_master():
 
     filename = "product_master_report.csv"
 
     if not os.path.exists(filename):
-        return {
-            "error": "Report not found."
-        }
+        return {"error": "Report not found."}
 
     return FileResponse(
         path=filename,

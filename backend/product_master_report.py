@@ -6,8 +6,8 @@ import csv
 import time
 import requests
 
-SHOP = os.getenv("SHOPIFY_STORE")
-TOKEN = os.getenv("SHOPIFY_ACCESS_TOKEN")
+SHOP=os.getenv("SHOPIFY_STORE")
+TOKEN=os.getenv("SHOPIFY_ACCESS_TOKEN")
 
 if not SHOP:
     raise Exception("SHOPIFY_STORE secret not found")
@@ -15,11 +15,11 @@ if not SHOP:
 if not TOKEN:
     raise Exception("SHOPIFY_ACCESS_TOKEN secret not found")
 
-URL = f"https://{SHOP}/admin/api/2025-10/graphql.json"
+URL=f"https://{SHOP}/admin/api/2025-10/graphql.json"
 
-HEADERS = {
-    "X-Shopify-Access-Token": TOKEN,
-    "Content-Type": "application/json"
+HEADERS={
+    "X-Shopify-Access-Token":TOKEN,
+    "Content-Type":"application/json"
 }
 
 
@@ -27,23 +27,23 @@ HEADERS = {
 # Generic GraphQL Function
 # ---------------------------------------------------------
 
-def graphql(query, variables=None):
+def graphql(query,variables=None):
 
-    response = requests.post(
+    response=requests.post(
         URL,
         headers=HEADERS,
         json={
-            "query": query,
-            "variables": variables or {}
+            "query":query,
+            "variables":variables or {}
         }
     )
 
-    if response.status_code != 200:
+    if response.status_code!=200:
         raise Exception(
             f"HTTP Error {response.status_code}: {response.text}"
         )
 
-    data = response.json()
+    data=response.json()
 
     if "errors" in data:
         raise Exception(data["errors"])
@@ -56,6 +56,101 @@ def graphql(query, variables=None):
 # ---------------------------------------------------------
 
 PRODUCT_QUERY = """
+query GetProducts($cursor: String) {
+
+  products(
+    first: 250,
+    after: $cursor,
+    query: "status:ACTIVE"
+  ) {
+
+    pageInfo {
+      hasNextPage
+      endCursor
+    }
+
+    nodes {
+
+      id
+
+      title
+
+      productCode: metafield(
+        namespace: "custom"
+        key: "product_code"
+      ) {
+        id
+        value
+      }
+
+      productTypeMeta: metafield(
+        namespace: "custom"
+        key: "ec_council_product_type"
+      ) {
+        id
+        value
+      }
+
+      productCategoryMeta: metafield(
+        namespace: "custom"
+        key: "ec_council_product_category"
+      ) {
+        id
+        value
+      }
+
+      variants(first: 1) {
+        nodes {
+          id
+        }
+      }
+
+    }
+
+  }
+
+}
+"""
+# ---------------------------------------------------------
+# FETCH ALL CATALOGS
+# ---------------------------------------------------------
+
+CATALOG_QUERY = """
+{
+
+  catalogs(first:100){
+
+    nodes{
+
+      id
+
+      title
+
+      ... on CompanyLocationCatalog{
+
+        priceList{
+
+          id
+
+          name
+
+        }
+
+      }
+
+    }
+
+  }
+
+}
+"""
+
+
+# ---------------------------------------------------------
+# PRICE LIST QUERY
+# ---------------------------------------------------------
+
+PRICE_LIST_QUERY = """
 query GetPriceList(
     $priceListId: ID!,
     $cursor: String
@@ -146,15 +241,115 @@ def fetch_price_list(price_list_id):
 
     return prices
 
+
 def generate_product_master_report():
+
+    #
+    # FETCH PRODUCTS
+    #
+
     print("Fetching Products...")
+
+    all_products = []
+
+    cursor = None
+
+    while True:
+
+        data = graphql(
+            PRODUCT_QUERY,
+            {
+                "cursor": cursor
+            }
+        )
+
+        products = data["products"]["nodes"]
+
+        all_products.extend(products)
+
+        page_info = data["products"]["pageInfo"]
+
+        if not page_info["hasNextPage"]:
+            break
+
+        cursor = page_info["endCursor"]
+
+        time.sleep(0.3)
+
+    print(f"Products Found : {len(all_products)}")
+
+    #
+    # FETCH CATALOGS
+    #
+
+    print("Fetching Catalogs...")
+
+    catalog_data = graphql(CATALOG_QUERY)
+
+    catalogs = catalog_data["catalogs"]["nodes"]
+
+    USA_CATALOGS = {
+        "USA- Academia",
+        "USA- ATC",
+        "USA- Reseller"
+    }
+
+    CANADA_CATALOGS = {
+        "Canada- Academia",
+        "Canada- ATC",
+        "Canada- Reseller"
+    }
+
+    LATAM_CATALOGS = {
+        "LATAM- Academia"
+    }
+
+    usa_price_lists = []
+
+    canada_price_lists = []
+
+    latam_price_lists = []
+
+    for catalog in catalogs:
+
+        title = catalog["title"]
+
+        price_list = catalog.get("priceList")
+
+        if not price_list:
+            continue
+
+        if title in USA_CATALOGS:
+
+            usa_price_lists.append(price_list["id"])
+
+            print("USA :", title)
+
+        elif title in CANADA_CATALOGS:
+
+            canada_price_lists.append(price_list["id"])
+
+            print("Canada :", title)
+
+        elif title in LATAM_CATALOGS:
+
+            latam_price_lists.append(price_list["id"])
+
+            print("LATAM :", title)
+
+    print()
+
+    print("USA Price Lists :", len(usa_price_lists))
+    print("Canada Price Lists :", len(canada_price_lists))
+    print("LATAM Price Lists :", len(latam_price_lists))
+
+    print()
 
     usa_prices = {}
 
     canada_prices = {}
 
     latam_prices = {}
-
 
     print()
 
@@ -168,7 +363,6 @@ def generate_product_master_report():
 
         usa_prices.update(data)
 
-
     print()
 
     print("Loading Canada Catalog Prices...")
@@ -180,7 +374,6 @@ def generate_product_master_report():
         data = fetch_price_list(price_list_id)
 
         canada_prices.update(data)
-
 
     print()
 
@@ -194,7 +387,6 @@ def generate_product_master_report():
 
         latam_prices.update(data)
 
-
     print()
 
     print("------------------------------------")
@@ -203,7 +395,7 @@ def generate_product_master_report():
     print("LATAM Products :", len(latam_prices))
     print("------------------------------------")
 
-    # ---------------------------------------------------------
+        # ---------------------------------------------------------
     # EXPORT CSV
     # ---------------------------------------------------------
 
@@ -241,11 +433,11 @@ def generate_product_master_report():
             ).get("value", "")
 
             product_type = (
-                product.get("productType") or {}
+                product.get("productTypeMeta") or {}
             ).get("value", "")
 
             product_category = (
-                product.get("productCategory") or {}
+                product.get("productCategoryMeta") or {}
             ).get("value", "")
 
             variants = (
@@ -298,12 +490,14 @@ def generate_product_master_report():
 
             row_no += 1
 
-            print()
+    print()
 
-            print("Product Master Report Exported Successfully")
-            print("File : product_master_report.csv")
-        
-            return "product_master_report.csv"
+    print("-------------------------------------")
+    print("Product Master Report Exported Successfully")
+    print("File : product_master_report.csv")
+    print("-------------------------------------")
+
+    return "product_master_report.csv"
 
 
 if __name__ == "__main__":

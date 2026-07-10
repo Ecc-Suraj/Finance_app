@@ -1,0 +1,741 @@
+﻿S. No.,Shopify ID,Product Code,Product Name,Product Type,Product Category,USA Price,Canada Price,LATAM Price
+1,7793326817345,,Certified Penetration Testing Professional (CPENT) V2 Video Upgrade,,,200.0,200.0,200.0
+2,7793326850113,,"Certified Penetration Testing Professional (CPENT) V2 - e-Courseware Inclusive of Exam Voucher (RPS), CPENT Cyber Range for 90 Days and iLabs for 180 Days",,,1050.0,1050.0,1050.0
+3,7793326915649,,Certified Application Security Engineer (CASE) .NET V1 e-Courseware,,,180.0,180.0,180.0
+4,7793326981185,,Certified Penetration Testing Professional (CPENT) V2 iLabs,,,267.0,267.0,267.0
+5,7793327046721,,Certified Application Security Engineer (CASE) .NET V1 iLabs,,,165.0,99.0,99.0
+6,7793327079489,,Certified Application Security Engineer (CASE) .NET V1 e-Courseware with Exam Voucher (Onsite),,,305.0,305.0,305.0
+7,7793327112257,,Certified Application Security Engineer (CASE) .NET V1 e-Courseware with Exam Voucher (Onsite) & iLabs,,,445.0,379.0,379.0
+8,7793327145025,,Certified Application Security Engineer (CASE) .NET V1 e-Courseware with iLabs,,,254.0,254.0,254.0
+9,7793327177793,,Certified Application Security Engineer (CASE) .NET V1 e-Courseware with Exam Voucher (RPS) & iLabs,,,545.0,479.0,479.0
+10,7793327210561,,Certified Application Security Engineer (CASE) .NET V1 e-Courseware with Exam Voucher (RPS),,,405.0,405.0,405.0
+11,7793327308865,,Certified Application Security Engineer CASE JAVA V1 e-Courseware,,,180.0,180.0,180.0
+12,7793327374401,,Certified Application Security Engineer CASE JAVA V1 e-Courseware with Exam Voucher (Onsite),,,305.0,305.0,305.0
+13,7793327407169,,Certified Application Security Engineer CASE JAVA V1 iLabs,,,165.0,99.0,99.0
+14,7793327439937,,Certified Application Security Engineer CASE JAVA V1 e-Courseware with iLabs,,,320.0,254.0,254.0
+15,7793327472705,,Certified Application Security Engineer CASE JAVA V1 e-Courseware with Exam Voucher (RPS) & iLabs,,,545.0,479.0,479.0
+16,7793327505473,,Certified Application Security Engineer CASE JAVA V1 e-Courseware with Exam Voucher (Onsite) & iLabs,,,445.0,379.0,379.0
+17,7793327538241,,Certified Application Security Engineer CASE JAVA V1 e-Courseware with Exam Voucher (RPS),,,405.0,405.0,405.0
+18,7793327571009,,EC-Council Disaster Recovery Professional (EDRP) V3 e-Courseware,,,247.5,247.5,247.5
+19,7793327702081,,EC-Council Disaster Recovery Professional (EDRP) V3 e-Courseware with Exam Voucher (Onsite),,,522.5,522.5,522.5
+20,7793327734849,,EC-Council Disaster Recovery Professional (EDRP) V3 e-Courseware with iLabs,,,421.5,421.5,421.5
+21,7793327767617,,EC-Council Disaster Recovery Professional (EDRP) V3 e-Courseware with Exam Voucher (Onsite) & iLabs,,,696.5,696.5,696.5
+22,7793327800385,,EC-Council Disaster Recovery Professional (EDRP) V3 iLabs,,,199.0,199.0,199.0
+23,7793327833153,,EC-Council Disaster Recovery Professional (EDRP) V3 e-Courseware with Exam Voucher (RPS),,,622.5,622.5,622.5
+24,7793327898689,,Certified SOC Analyst (CSA) V2 e-Courseware,,,180.0,180.0,180.0
+25,7793327964225,,Certified SOC Analyst (CSA) V2 iLabs,,,165.0,99.0,99.0
+26,7793327996993,,EC-Council Disaster Recovery Professional (EDRP) V3 e-Courseware with Exam Voucher (RPS) & iLabs,,,796.5,796.5,796.5
+27,7793328029761,,Certified SOC Analyst (CSA) V2 e-Courseware with Exam Voucher (Onsite),,,305.0,305.0,305.0
+28,7793328062529,,Certified SOC Analyst (CSA) V2 e-Courseware with Exam Voucher (RPS),,,405.0,405.0,405.0
+29,7793328095297,,Certified SOC Analyst (CSA) V2 e-Courseware with iLabs,,,320.0,254.0,254.0
+30,7793328128065,,Certified SOC Analyst (CSA) V2 e-Courseware with Exam Voucher (Onsite) & iLabs,,,445.0,379.0,379.0
+31,7793328160833,,Certified SOC Analyst (CSA) V2 e-Courseware with Exam Voucher (RPS) & iLabs,,,545.0,479.0,479.0
+32,7793328259137,,EC-Council Certified Encryption Specialist (ECES) V3 e-Courseware,,,180.0,180.0,180.0
+33,7793328324673,,EC-Council Certified Encryption Specialist (ECES) V3 e-Courseware Exam Voucher (Onsite),,,305.0,305.0,305.0
+34,7793328357441,,EC-Council Certified Encryption Specialist (ECES) V3 e-Courseware with Exam Voucher (RPS),,,405.0,405.0,405.0
+35,7793328390209,,EC-Council Certified Encryption Specialist (ECES) V3 e-Courseware Exam Voucher (Onsite) & iLabs,,,479.0,379.0,379.0
+36,7793328422977,,EC-Council Certified Encryption Specialist (ECES) V3 e-Courseware with Exam Voucher (RPS) & iLabs,,,579.0,479.0,479.0
+37,7793328455745,,EC-Council Certified Encryption Specialist (ECES) V3 e-Courseware with iLabs,,,354.0,254.0,254.0
+38,7793328488513,,EC-Council Certified Encryption Specialist (ECES) V3 iLabs,,,199.0,99.0,99.0
+39,7793328554049,,Certified Blockchain Professional (BFC - Blockchain Fintech) V2 for FinTech Professionals - e-Courseware Inclusive of Exam Voucher (Onsite),,,374.0,374.0,374.0
+40,7793328586817,,EC-Council Security Specialist (ECSS) V10 iLabs,,,125.0,125.0,125.0
+41,7793328652353,,Certified Blockchain Professional (BBLC - Blockchain Business Leader) V2 for Business Leaders - e-Courseware Inclusive of Exam Voucher (Onsite),,,374.0,374.0,374.0
+42,7793328717889,,EC-Council Security Specialist (ECSS) V10 e-Courseware with Exam Voucher (RPS),,,590.0,590.0,590.0
+43,7793328750657,,Certified Blockchain Professional (BDC - Blockchain Developer) V2 for Blockchain for Developers - e-Courseware Inclusive of Exam Voucher (Onsite),,,535.0,535.0,535.0
+44,7793328783425,,"EC-Council Security Specialist (ECSS) V10 e-Courseware, Exam Voucher (Onsite)",,,490.0,490.0,490.0
+45,7793328947265,,Certified Project Manager (CPM) e-Courseware Exam Voucher (Onsite),,,568.0,568.0,568.0
+46,7793329176641,,ICS/SCADA e-Courseware with Exam Voucher (RPS),,,822.0,822.0,822.0
+47,7793329242177,,ICS/SCADA iLabs,,,125.0,125.0,125.0
+48,7793329274945,,ICS/SCADA e-Courseware with Exam Voucher (Onsite),,,735.0,735.0,735.0
+49,7793329307713,,Certified Cybersecurity Technician (CCT) V1 Courseware with Exam Voucher (RPS),,,312.0,312.0,312.0
+50,7793329340481,,Certified Cybersecurity Technician (CCT) V1 e-Courseware,,,49.99,49.99,49.99
+51,7793329373249,,Certified Cybersecurity Technician (CCT) V1 Exam Prep,,,99.0,99.0,99.0
+52,7793329438785,,Certified Cybersecurity Technician (CCT) V1 e-Courseware + Lab + Certification Exam (RPS),,,447.0,349.0,349.0
+53,7793329471553,,EC-Council Certified DevSecOps Engineer (ECDE) V2 e-Courseware,,,200.0,200.0,200.0
+54,7793329537089,,Certified Cybersecurity Technician (CCT) V1 iLabs,,,199.0,99.0,99.0
+55,7793329602625,,EC-Council Certified DevSecOps Engineer (ECDE) V2 e-Courseware with Exam Voucher (Onsite),,,425.0,425.0,425.0
+56,7793329635393,,EC-Council Certified DevSecOps Engineer (ECDE) V2 e-Courseware with Exam Voucher (RPS),,,525.0,525.0,525.0
+57,7793329668161,,EC-Council Certified DevSecOps Engineer (ECDE) V2 e-Courseware with Exam Voucher (Onsite) & iLabs,,,599.0,599.0,599.0
+58,7793329700929,,EC-Council Certified DevSecOps Engineer (ECDE) V2 e-Courseware with Exam Voucher (RPS) & iLabs,,,699.0,699.0,699.0
+59,7793329733697,,EC-Council Certified DevSecOps Engineer (ECDE) V2 e-Courseware with iLabs,,,374.0,374.0,374.0
+60,7793329766465,,Certified Secure Computer User (CSCU) V3 e-Courseware with Exam Voucher (RPS),,,75.0,60.0,60.0
+61,7793329832001,,Certified Secure Computer User (CSCU) V3 e-Courseware with Exam Voucher (Onsite),,,45.0,60.0,60.0
+62,7793329864769,,Certified Secure Computer User (CSCU) V3 LABS,,,24.0,24.0,24.0
+63,7793329930305,,Certified Secure Computer User (CSCU) V3 Video Upgrade,,,29.0,29.0,29.0
+64,7793329963073,,Certified Secure Computer User (CSCU) V3 iLABS,,,36.0,36.0,36.0
+65,7793330028609,,EC-Council Certified Incident Handler (ECIH) V3 e-Courseware,,,180.0,180.0,180.0
+66,7793330225217,,CAE: EC-Council Certified Incident Handler (ECIH) Version 3 eBook w/ Labs + Exam Prep + ECC Exam Voucher (Onsite),,,379.0,379.0,379.0
+67,7793330257985,,CAE: EDRP Version 3 ECC Exam Voucher (Onsite),,,150.0,150.0,150.0
+68,7793330290753,,CAE: EC-Council Disaster Recovery Professional (EDRP) Version 3 eBook w/ Labs,,,229.0,229.0,229.0
+69,7793330323521,,CAE: EC-Council Disaster Recovery Professional (EDRP) Version 3 eBook w/ Labs + ECC Exam Voucher (Onsite),,,379.0,379.0,379.0
+70,7793330356289,,CAE: EC-Council Certified Incident Handler (ECIH) Version 3 eBook w/ Labs + Exam Prep,,,229.0,229.0,229.0
+71,7793330389057,,CAE: EC-Council Disaster Recovery Professional (EDRP) Version 3 eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctor),,,479.0,479.0,479.0
+72,7793330421825,,CAE: EC-Council Certified Incident Handler (ECIH) Version 3 eBook w/ Labs + Exam Prep + ECC Exam Voucher (w/ Remote Proctor),,,479.0,479.0,479.0
+73,7793330454593,,CAE: EDRP Version 3 Exam Voucher w/ Remote Proctor,,,250.0,250.0,250.0
+74,7793330487361,,CAE: Certified Application Security Engineer (CASE) .NET Version 1 eBook w/ Labs,,,229.0,229.0,229.0
+75,7793330520129,,CAE: Certified Application Security Engineer (CASE) .NET Version 1 eBook w/ Labs + ECC Exam Voucher (Onsite),,,379.0,379.0,379.0
+76,7793330552897,,CAE: Certified Application Security Engineer (CASE) .NET Version 1 eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctor),,,479.0,479.0,479.0
+77,7793330585665,,CAE: CASE.NET Version 1 ECC Exam Voucher (Onsite),,,150.0,150.0,150.0
+78,7793330618433,,CAE: Certified Application Security Engineer (CASE) Java Version 1 eBook w/ Labs,,,229.0,229.0,229.0
+79,7793330651201,,CAE: Certified Application Security Engineer (CASE) Java Version 1 eBook w/ Labs + ECC Exam Voucher (Onsite),,,379.0,379.0,379.0
+80,7793330683969,,CAE: Certified SOC Analyst (CSA) Version 1 eBook w/ Labs + ECC Exam Voucher (Onsite),,,379.0,379.0,379.0
+81,7793330716737,,CAE: CASE.NET Version 1 ECC Exam Voucher w/ Remote Proctor,,,250.0,250.0,250.0
+82,7793330749505,,CAE: Certified SOC Analyst (CSA) Version 1 eBook w/ Labs,,,229.0,229.0,229.0
+83,7793330782273,,CAE: CASE Java Version 1 ECC Exam Voucher (Onsite),,,150.0,150.0,150.0
+84,7793330815041,,CAE: CASE Java Version 1ECC Exam Voucher w/ Remote Proctor,,,250.0,250.0,250.0
+85,7793330847809,,CAE: Certified Application Security Engineer (CASE) Java Version 1 eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctor),,,479.0,479.0,479.0
+86,7793330880577,,CAE: Certified SOC Analyst (CSA) Version 1 eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctor),,,479.0,479.0,479.0
+87,7793330913345,,CAE: ICS/SCADA Version 1 eBook w/ Labs,,,229.0,229.0,229.0
+88,7793330946113,,CAE: CSA Version 1 ECC Exam Voucher w/ Remote Proctor,,,250.0,250.0,250.0
+89,7793330978881,,EC-Council Certified DevSecOps Engineer (ECDE) V2 iLabs,,,199.0,199.0,199.0
+90,7793331011649,,CAE: EC-Council Certified DevSecOps Engineer (ECDE) Version 1 (Volumes 1 - 3) eBook w/ Labs,,,229.0,229.0,229.0
+91,7793331044417,,CAE: ICS/SCADA Version 1 eBook w/ Labs + ECC Exam Voucher (Onsite),,,379.0,379.0,379.0
+92,7793331077185,,CAE: ICS/SCADA Version 1 eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctor),,,479.0,479.0,479.0
+93,7793331109953,,CAE: EC-Council Certified DevSecOps Engineer (ECDE) Version 1 (Volumes 1 - 3) eBook w/ Labs + ECC Exam Voucher (Onsite),,,379.0,379.0,379.0
+94,7793331142721,,CAE: ICS/SCADA Version 1 ECC Exam Voucher (Onsite),,,150.0,150.0,150.0
+95,7793331175489,,CAE: ECDE Version 1 ECC Exam Voucher (Onsite),,,150.0,150.0,150.0
+96,7793331208257,,CAE: Associate CCISO Version 3 Volume 1 eBook (Information Systems Governance),,,39.99,39.99,39.99
+97,7793331241025,,CAE: ECDE Version 1 ECC Exam Voucher w/ Remote Proctor,,,250.0,250.0,250.0
+98,7793331273793,,CAE: EC-Council Certified DevSecOps Engineer (ECDE) Version 1 (Volumes 1 - 3) eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,479.0,479.0,479.0
+99,7793331306561,,CAE: Associate CCISO Version 3 Volume 2 eBook (Information Systems Risk Controls and Auditing Management),,,39.99,39.99,39.99
+100,7793331339329,,CAE: Associate CCISO Version 3 Volume 4 eBook (Information Systems Core Competencies),,,39.99,39.99,39.99
+101,7793331372097,,"CAE: Associate CCISO Version 3 Volume 3 eBook (Information Systems Leadership, Projects and Operations)",,,39.99,39.99,39.99
+102,7793331404865,,CAE: Associate CCISO Version 3 Volume 5 eBook (Strategic Planning and Finance),,,39.99,39.99,39.99
+103,7793331437633,,CAE: Associate CCISO Version 3 Risk Management Video Add-on,,,49.99,49.99,49.99
+104,7793331470401,,C2SI: ICS/SCADA Version 1 eBook w/ Labs,,,199.0,199.0,199.0
+105,7793331568705,,C2SI: ICS/SCADA Version 1 eBook w/ Labs + ECC Exam Voucher (Onsite),,,349.0,349.0,349.0
+106,7793331601473,,C2SI: ICS/SCADA Version 1 Labs,,,99.0,99.0,99.0
+107,7793331634241,,CAE: CSA Version 1 ECC Exam Voucher (Onsite),,,150.0,150.0,150.0
+108,7793331667009,,ICS/SCADA Version 1 eBook w/ Labs,,,288.0,288.0,158.4
+109,7793331699777,,C2SI: ICS/SCADA Version 1 eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,449.0,449.0,449.0
+110,7793331732545,,ICS/SCADA Version 1 eBook w/ Labs + Video Lectures & ECC Exam Voucher (w/ Remote Proctoring Service),,,699.0,699.0,699.0
+111,7793331765313,,ICS/SCADA Version 1 eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,538.0,538.0,314.0
+112,7793331798081,,EC-Council Certified Encryption Specialist (ECES) Version 3 eBook,,,180.0,180.0,95.0
+113,7793331830849,,EC-Council Certified Incident Handler (ECIH) v3 Video Lectures,,,199.0,199.0,200.0
+114,7793331863617,,EC-Council Certified Incident Handler (ECIH) v3 Labs,,,99.0,99.0,99.0
+115,7793331896385,,C2SI: EC-Council Certified Incident Handler (ECIH) Version 3 eBook w/ Labs,,,199.0,199.0,199.0
+116,7793331929153,,C2SI: EC-Council Certified Incident Handler (ECIH) Version 3 eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,449.0,449.0,449.0
+117,7793331961921,,C2SI: EC-Council Certified Incident Handler (ECIH) Version 3 eBook w/ Labs + ECC Exam Voucher (Onsite),,,349.0,349.0,349.0
+118,7793331994689,,EC-Council Certified Encryption Specialist (ECES) Version 3 eBook w/ Labs,,,305.0,305.0,167.75
+119,7793332027457,,C2SI: EC-Council Certified Incident Handler (ECIH) Version 3 Voucher Add-On ECC Exam Voucher (Onsite),,,150.0,150.0,150.0
+120,7793332060225,,C2SI: EC-Council Certified Incident Handler (ECIH) Version 3 Add-On ECC Exam Voucher (w/ Remote Proctor Services),,,250.0,250.0,250.0
+121,7793332092993,,Certified Cloud Security Engineer (CCSE) v2 Academia Series eBook (Volumes 1 - 4),,,180.0,180.0,90.0
+122,7793332125761,,CCSE v2 Academia Series eBook (Volume 1: Data Security in Cloud),,,45.0,45.0,45.0
+123,7793332158529,,"CCSE v2 Academia Series eBook (Volume 2: Incident Detection, Response, and Forensic Investigation in Cloud)",,,45.0,45.0,45.0
+124,7793332191297,,"CCSE v2 Academia Series eBook (Volume 4: Business Continuity, Governance, and Compliance in Cloud)",,,45.0,45.0,45.0
+125,7793332224065,,Certified Cloud Security Engineer (CCSE) v2 eBook w/ Labs + ECC Exam Voucher (Onsite),,,405.0,405.0,204.0
+126,7793332256833,,Certified Cloud Security Engineer (CCSE) v2 Video Lectures,,,199.0,199.0,200.0
+127,7793332289601,,Certified Cloud Security Engineer (CCSE) v2 eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,555.0,555.0,304.0
+128,7793332322369,,CAE: ICS/SCADA Version 1 ECC Exam Voucher w/ Remote Proctor,,,250.0,250.0,250.0
+129,7793332355137,,C2SI: Certified Cloud Security Engineer (CCSE) v2 Voucher Add-On ECC Exam Voucher (Onsite),,,150.0,150.0,150.0
+130,7793332387905,,C2SI: Certified Cloud Security Engineer (CCSE) v2 (Volumes 1 - 4) eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,449.0,449.0,449.0
+131,7793332420673,,"CCSE v2 Academia Series eBook (Volume 3: Platform, Infrastructure, and Application Security in Cloud)",,,45.0,45.0,45.0
+132,7793332453441,,CAE: Certified Cloud Security Engineer (CCSE) v2 (Volumes 1 - 4) eBook w/ Labs + ECC Exam Voucher,,,379.0,379.0,379.0
+133,7793332486209,,C2SI: Certified Cloud Security Engineer (CCSE) v2 (Volumes 1 - 4) eBook w/ Labs + ECC Exam Voucher (Onsite),,,349.0,349.0,349.0
+134,7793332518977,,C2SI: Certified Cloud Security Engineer (CCSE) v2 (Volumes 1 - 4) eBook w/ Labs,,,199.0,199.0,199.0
+135,7793332551745,,CAE: Certified Cloud Security Engineer (CCSE) v2 (Volumes 1 - 4) eBook w/ Labs,,,229.0,229.0,229.0
+136,7793332584513,,C2SI: Certified Cloud Security Engineer (CCSE) v2 Add-On ECC Exam Voucher (w/ Remote Proctor Services),,,250.0,250.0,250.0
+137,7793332617281,,CCSE v2 Academia Series eBook (Volumes 3 & 4),,,90.0,90.0,90.0
+138,7793332650049,,CAE: Certified Cloud Security Engineer (CCSE) v2 (Volumes 1 - 4) eBook w/ Labs + Exam Voucher w/ Remote Proctoring Service,,,479.0,479.0,479.0
+139,7793332682817,,CCSE v2 Academia Series eBook (Volumes 1 & 2),,,90.0,90.0,90.0
+140,7793332715585,,CAE: Certified Cloud Security Engineer (CCSE) v2 (Volumes 1 & 2) eBook w/ Labs,,,125.0,125.0,125.0
+141,7793332748353,,CAE: Certified Cloud Security Engineer (CCSE) v2 (Volumes 3 & 4) eBook w/ Labs,,,125.0,125.0,125.0
+142,7793332781121,,CAE: Exam Prep: CSCU v3,,,19.99,19.99,19.99
+143,7793332813889,,EC-Council Certified Encryption Specialist (ECES) Version 3 Labs,,,99.0,99.0,68.75
+144,7793332846657,,Certified Application Security Engineer (CASE) Java Labs,,,99.0,99.0,54.45
+145,7793332879425,,Certified Application Security Engineer (CASE) .NET Labs,,,99.0,99.0,54.45
+146,7793332912193,,C2SI: EC-Council Academia Continuing Education Bundle: CSCU Version 3,,,99.0,99.0,99.0
+147,7793332944961,,C2SI: EC-Council Certified Encryption Specialist (ECES) Version 3 eBook w/ Labs,,,199.0,199.0,199.0
+148,7793332977729,,EC-Council Certified Incident Handler (ECIH) Version 3 Exam Prep,,,69.0,69.0,69.0
+149,7793333010497,,Exam Prep: Certified Secure Computer User (CSCU) Version 3,,,9.99,9.99,9.99
+150,7793333043265,,C2SI: EC-Council Academia Continuing Education Bundle: CSA Version 1,,,525.0,525.0,525.0
+151,7793333076033,,C2SI: EC-Council Academia Continuing Education Bundle: CND Version 2,,,550.0,550.0,550.0
+152,7793333108801,,C2SI: EC-Council Academia Continuing Education Bundle: ECES Version 3,,,500.0,500.0,500.0
+153,7793333141569,,C2SI: EC-Council Academia Continuing Education Bundle: CASE .NET Version 1,,,525.0,525.0,525.0
+154,7793333174337,,C2SI: EC-Council Academia Continuing Education Bundle: CASE Java Version 1,,,525.0,525.0,525.0
+155,7793333207105,,C2SI: EC-Council Academia Continuing Education Bundle: EDRP Version 3,,,525.0,525.0,525.0
+156,7793333239873,,C2SI: EC-Council Academia Continuing Education Bundle: ECDE Version 1,,,525.0,525.0,525.0
+157,7793333272641,,C2SI: EC-Council Academia Continuing Education Bundle: Associate CCISO Version 3,,,550.0,550.0,550.0
+158,7793333305409,,Certified Cloud Security Engineer (CCSE) Version 2 ECC Exam Voucher,,,250.0,250.0,90.0
+159,7793333370945,,"EC-Council Certified Incident Handler (ECIH) V3 e-Courseware,Exam Voucher (Onsite)",,,305.0,305.0,305.0
+160,7793333403713,,C2SI: EC-Council Academia Continuing Education Bundle: ICS/SCADA Version 1,,,525.0,525.0,525.0
+161,7793333436481,,C2SI: EC-Council Academia Continuing Education Bundle: CCISO Version 3,,,1299.0,1299.0,1299.0
+162,7793333469249,,EC-Council Certified Incident Handler (ECIH) V3 e-Courseware with RPS Exam Voucher,,,405.0,405.0,405.0
+163,7793333502017,,EC-Council Certified Incident Handler (ECIH) V3 e-Courseware Exam Voucher (Onsite) & iLabs,,,479.0,379.0,379.0
+164,7793333534785,,EC-Council Certified Incident Handler (ECIH) V3 e-Courseware with RPS Exam Voucher & iLabs,,,579.0,479.0,479.0
+165,7793333567553,,EC-Council Certified Incident Handler (ECIH) V3 e-Courseware with iLabs,,,354.0,254.0,254.0
+166,7793333600321,,C2SI: EC-Council Academia Continuing Education Bundle: CCT Version 1,,,405.0,405.0,405.0
+167,7793333633089,,Certified Cloud Security Engineer (CCSE) V2 e-Courseware,,,200.0,200.0,200.0
+168,7793333665857,,EC-Council Certified Incident Handler (ECIH) V3 iLabs,,,199.0,99.0,99.0
+169,7793333764161,,Certified Cloud Security Engineer (CCSE) v2 Labs,,,199.0,125.0,99.0
+170,7793333796929,,Certified Cloud Security Engineer (CCSE) V2 e-Courseware with Exam Voucher (Onsite),,,425.0,425.0,425.0
+171,7793333829697,,Certified Cloud Security Engineer (CCSE) V2 e-Courseware with iLabs,,,374.0,374.0,374.0
+172,7793333862465,,Certified Cloud Security Engineer (CCSE) V2 e-Courseware with Exam Voucher (RPS) & iLabs,,,699.0,699.0,699.0
+173,7793333895233,,Certified Cloud Security Engineer (CCSE) V2 e-Courseware with Exam Voucher (RPS),,,525.0,525.0,525.0
+174,7793334157377,,Certified Cloud Security Engineer (CCSE) V2 e-Courseware with Exam Voucher (Onsite) & iLabs,,,599.0,599.0,599.0
+175,7793334190145,,Computer Hacking Forensic Investigator (CHFI) V11 e-Courseware with Exam Voucher (RPS),,,650.0,650.0,650.0
+176,7793334222913,,Computer Hacking Forensic Investigator (CHFI) V11 e-Courseware,,,275.0,275.0,275.0
+177,7793334255681,,Certified Cloud Security Engineer (CCSE) V2 iLabs,,,125.0,125.0,125.0
+178,7793334288449,,Computer Hacking Forensic Investigator (CHFI) V11 Prep Exam Voucher,,,133.0,133.0,133.0
+179,7793334353985,,Computer Hacking Forensic Investigator (CHFI) V11 e-Courseware with Exam Voucher (RPS) & iLabs,,,824.0,824.0,824.0
+180,7793334386753,,Computer Hacking Forensic Investigator (CHFI) V11 e-Courseware with Exam Voucher (Onsite) & iLabs,,,724.0,724.0,724.0
+181,7793334419521,,Computer Hacking Forensic Investigator (CHFI) V11 iLabs,,,199.0,199.0,199.0
+182,7793334452289,,Computer Hacking Forensic Investigator (CHFI) V11 e-Courseware with Exam Voucher (Onsite),,,550.0,550.0,550.0
+183,7793334485057,,Computer Hacking Forensic Investigator (CHFI) V11 e-Courseware with iLabs,,,449.0,449.0,449.0
+184,7793334517825,,Certified Network Defender (CND) V3 e-Courseware,,,200.0,200.0,200.0
+185,7793334583361,,Certified Network Defender (CND) V3 Prep Exam Voucher,,,99.0,133.0,133.0
+186,7793334616129,,Certified Network Defender (CND) V3 Pearson VUE Voucher,,,450.0,450.0,450.0
+187,7793334714433,,Certified Network Defender (CND) V3 e-Courseware with Pearson VUE Voucher,,,624.0,625.0,625.0
+188,7793334747201,,Certified Network Defender (CND) V3 e-Courseware with Exam Voucher (RPS),,,525.0,525.0,525.0
+189,7793334779969,,Certified Network Defender (CND) V3 e-Courseware with Exam Voucher (Onsite),,,425.0,425.0,425.0
+190,7793334812737,,Certified Network Defender (CND) V3 e-Courseware with iLabs,,,374.0,374.0,374.0
+191,7793334845505,,Certified Network Defender (CND) V3 e-Courseware with Exam Voucher (Onsite) & iLabs,,,599.0,599.0,599.0
+192,7793334878273,,Certified Network Defender (CND) V3 e-Courseware with Exam Voucher (RPS) & iLabs,,,699.0,699.0,699.0
+193,7793334943809,,Certified Network Defender (CND) V3 iLabs,,,199.0,199.0,199.0
+194,7793334976577,,Certified Network Defender (CND) V3 e-Courseware with Pearson VUE Voucher & iLabs,,,799.0,799.0,799.0
+195,7793335042113,,Certified Threat Intelligence Analyst (CTIA) V2 e-Courseware,,,180.0,180.0,180.0
+196,7793335074881,,Certified Threat Intelligence Analyst (CTIA) V2 e-Courseware with Exam Voucher (Onsite),,,305.0,305.0,305.0
+197,7793335107649,,Certified Threat Intelligence Analyst (CTIA) V2 e-Courseware with iLabs,,,254.0,254.0,254.0
+198,7793335140417,,Certified Threat Intelligence Analyst (CTIA) V2 e-Courseware with Exam Voucher (RPS) & iLabs,,,499.0,479.0,479.0
+199,7793335173185,,Certified Threat Intelligence Analyst (CTIA) V2 e-Courseware with Exam Voucher (RPS),,,405.0,405.0,405.0
+200,7793335205953,,Certified Threat Intelligence Analyst (CTIA) V2 e-Courseware with Exam Voucher (Onsite) & iLabs,,,399.0,379.0,379.0
+201,7793335238721,,"Certified Ethical Hacker V13 E Courseware, Practical Exam Voucher",,,950.0,950.0,950.0
+202,7793335271489,,"Certified Ethical Hacker V13 E Courseware ,Exam Voucher,Ethical Hacking Video",,,760.0,847.0,847.0
+203,7793335304257,,Certified Ethical Hacker V13 iLabs(self study),,,133.0,133.0,133.0
+204,7793335337025,,Certified Ethical Hacker V13 Practical Exam Voucher,,,427.0,427.0,427.0
+205,7793335369793,,Certified Ethical Hacker V13 iLabs,,,159.0,159.0,159.0
+206,7793335468097,,Certified Threat Intelligence Analyst (CTIA) V2 iLabs,,,99.0,99.0,99.0
+207,7793335533633,,Certified Ethical Hacker V13 Exam Prep,,,119.0,119.0,119.0
+208,7793335566401,,"Certified Ethical Hacker V13 E Courseware ,Exam Voucher (RPS),Ethical Hacking Video",,,900.0,900.0,900.0
+209,7793335631937,,"Threat Intelligence Essentials (TIE) Vision 1 courseware, video, Exam Voucher (RPS), lab",,,199.0,199.0,199.0
+210,7793335697473,,"Certified Ethical Hacker V13 E Courseware ,VUE Exam Voucher,Ethical Hacking Video",,,900.0,900.0,900.0
+211,7793335730241,,"SOC Essentials (SCE) Vision 1 courseware, video, Exam Voucher (RPS), lab",,,199.0,199.0,199.0
+212,7793335763009,,"IoT Security Essentials (ISE) Vision 1 courseware, video, Exam Voucher (RPS), lab",,,199.0,199.0,199.0
+213,7793335795777,,"Network Defense Essentials (NDE) courseware, video, Exam Voucher (RPS), lab",,,199.0,199.0,199.0
+214,7793335828545,,"DevSecOps Essentials (DSE) Vision 1 courseware, video, Exam Voucher (RPS), lab",,,199.0,199.0,199.0
+215,7793335861313,,"Cloud Security Essentials (CSE) Vision 1 courseware, video, Exam Voucher (RPS), lab",,,199.0,199.0,199.0
+216,7793335894081,,"Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab",,,199.0,199.0,199.0
+217,7793335926849,,Certified Network Defender (CND)- Full Bundle,,,2014.0,2199.0,2014.0
+218,7793335959617,,Computer Hacking Forensic Investigator CHFI - Full Bundle,,,2014.0,2199.0,2014.0
+219,7793335992385,,"Ethical Hacking Essentials (EHE) courseware, video, Exam Voucher (RPS), lab",,,199.0,199.0,199.0
+220,7793336025153,,Certified Ethical Hacker CEH V13 - Full Bundle,,,2339.0,2199.0,2339.0
+221,7793336057921,,EC-Council Disaster Recovery Professional EDRP - Full Bundle,,,2014.0,2199.0,2014.0
+222,7793336090689,,Certified Cloud Security Engineer (CCSE) - Full Bundle,,,2014.0,2199.0,2014.0
+223,7793336123457,,Ethical Hacking Core Skills (EHCS) - Full Bundle,,,2014.0,999.0,2014.0
+224,7793336156225,,EC-Council Certified Encryption Specialist (ECES) - Full Bundle,,,1069.0,1399.0,1069.0
+225,7793336188993,,Certified Threat Intelligence Analyst (CTIA) - Full Bundle,,,1069.0,1399.0,1069.0
+226,7793336221761,,Certified Chief Information Security Officer (CCISO) - Full Bundle,,,2329.0,2499.0,2329.0
+227,7793336254529,,EC-Council Certified Incident Handler (ECIH) - Full Bundle,,,1069.0,1399.0,1069.0
+228,7793336287297,,Certified SOC Analyst (CSA) - Full Bundle,,,1069.0,1399.0,1069.0
+229,7793336320065,,CPM - Full Bundle,,,958.0,999.0,958.0
+230,7793336352833,,CASE .NET - Full Bundle,,,1069.0,1399.0,1069.0
+231,7793336385601,,CASE .Java - Full Bundle,,,1069.0,1399.0,1069.0
+232,7793336418369,,EC-Council Certified DevSecOps Engineer (ECDE) - Full Bundle,,,1069.0,1399.0,1069.0
+233,7793336451137,,Risk Management Approach & Practices - Full Bundle,,,1040.0,999.0,1040.0
+234,7793336483905,,Dark Web Forensics Deep Dive Workshop - Full Bundle,,,650.0,499.0,650.0
+235,7793336516673,,Malware & Memory Deep Dive Workshop - Full Bundle,,,650.0,499.0,650.0
+236,7793336549441,,CPENT Training Course - Full Bundle,,,2419.0,2199.0,2419.0
+237,7793336582209,,Industrial Control Systems / Supervisory Control and Data Acquisition (ICS/SCADA) - Full Bundle,,,1069.0,1399.0,1069.0
+238,7793336614977,,Web Application hacking - Full Bundle,,,1069.0,999.0,1069.0
+239,7793336647745,,Certified Threat Intelligence Analyst (CTIA) Version 2 Exam Voucher (Onsite Testing),,,150.0,150.0,95.0
+240,7793336680513,,Certified Cybersecurity Technician (CCT) - Full Bundle,,,1069.0,999.0,1069.0
+241,7793336713281,,C2SI: Certified Threat Intelligence Analyst (CTIA) Version 2 Add-On ECC Exam Voucher (w/ Remote Proctor Services),,,250.0,250.0,250.0
+242,7793336746049,,C2SI: Certified Threat Intelligence Analyst (CTIA) Version 2 Voucher Add-On ECC Exam Voucher (Onsite Testing),,,150.0,150.0,150.0
+243,7793336778817,,Certified Network Defender (CND) v3 Video Lectures,,,99.0,99.0,200.0
+244,7793336811585,,Certified Threat Intelligence Analyst (CTIA) Version 2 Exam Voucher (w/ Remote Proctoring Service),,,250.0,250.0,195.0
+245,7793336844353,,Certified Network Defender (CND) v3 Labs (Volumes 1 - 4),,,125.0,125.0,68.75
+246,7793336877121,,Certified Cloud Security Engineer (CCSE) Version 2 ECC Exam Voucher (w/ Remote Proctor Service),,,350.0,350.0,190.0
+247,7793336909889,,CAE: CTIA Version 1 ECC Exam Voucher (w/ Remote Proctor Services),,,250.0,250.0,250.0
+248,7793336942657,,CAE: CTIA Version 1 ECC Exam Voucher (Onsite Testing),,,150.0,150.0,150.0
+249,7793336975425,,Certified Network Defender (CND) v3 Exam Prep,,,69.0,69.0,69.0
+250,7793337008193,,CAE: Certified Threat Intelligence Analyst (CTIA) Version 2 eBook w/ Labs,,,229.0,229.0,229.0
+251,7793337040961,,Mobile Forensics Deep Dive Workshop - Full Bundle,,,650.0,499.0,650.0
+252,7793337073729,,CAE: Certified Network Defender (CND) v3 (Volumes 1 - 4) eBook w/ Labs +Exam Prep + ECC Exam Voucher,,,379.0,379.0,379.0
+253,7793337106497,,Certified Threat Intelligence Analyst (CTIA) Version 2  Exam Prep,,,69.0,69.0,69.0
+254,7793337139265,,CAE: Certified Threat Intelligence Analyst (CTIA) Version 2 eBook w/ Labs + ECC Exam Voucher (Onsite Testing),,,379.0,379.0,379.0
+255,7793337172033,,CAE: Certified Network Defender (CND) v3 (Volumes 1 - 4) eBook w/ Labs + Exam Prep + Exam Voucher w/ Remote Proctoring Service,,,479.0,479.0,479.0
+256,7793337204801,,C2SI: EC-Council Academia Continuing Education Bundle: CHFI Version 11,,,680.0,680.0,680.0
+257,7793337237569,,Computer Hacking Forensic Investigator (CHFI) v11 Exam Prep,,,69.0,69.0,69.0
+258,7793337270337,,Computer Hacking Forensic Investigator (CHFI) v11 Video Lectures,,,99.0,99.0,200.0
+259,7793337303105,,CAE: Certified Network Defender (CND) v3 (Volumes 1 - 4) eBook w/ Labs + Exam Prep,,,229.0,229.0,229.0
+260,7793337335873,,CAE: Certified Threat Intelligence Analyst (CTIA) Version 2 eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctor Services),,,479.0,479.0,479.0
+261,7793337368641,,CAE: Computer Hacking Forensic Investigator (CHFI) v11 (Volumes 1 - 4) eBook w/ Labs + Exam Prep,,,279.0,279.0,279.0
+262,7793337401409,,CAE: Computer Hacking Forensic Investigator (CHFI) v11 (Volumes 1 - 4) eBook w/ Labs + Exam Prep + Exam Voucher w/ Remote Proctoring Service,,,479.0,479.0,479.0
+263,7793337434177,,CAE: Computer Hacking Forensic Investigator (CHFI) v11 (Volumes 1 - 4) eBook w/ Labs +Exam Prep + ECC Exam Voucher,,,379.0,379.0,379.0
+264,7793337466945,,C2SI: Computer Hacking Forensic Investigator (CHFI) Version 11 (Volumes 3 & 4) eBook w/ Labs,,,125.0,125.0,125.0
+265,7793337499713,,C2SI: Certified Network Defender (CND) Version 3 (Volumes 1 & 2) eBook w/ Labs,,,100.0,100.0,100.0
+266,7793337532481,,C2SI: Computer Hacking Forensic Investigator (CHFI) Version 11 (Volumes 1 & 2) eBook w/ Labs,,,125.0,125.0,125.0
+267,7793337565249,,C2SI: EC-Council Certified Encryption Specialist (ECES) Version 3 eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctor Service),,,449.0,449.0,449.0
+268,7793337598017,,EC-Council Certified Encryption Specialist (ECES) Version 3 eBook w/ Labs + ECC Exam Voucher (Onsite),,,455.0,455.0,199.0
+269,7793337630785,,Certified Cybersecurity Technician (CCT) Version 1 eBook w/ Labs,,,148.99,148.99,89.0
+270,7793337663553,,C2SI: Certified Network Defender (CND) Version 3 (Volumes 1 - 4) eBook w/ Labs,,,199.0,199.0,199.0
+271,7793337696321,,C2SI: Certified Network Defender (CND) Version 3 (Volume 3 & 4) eBook w/ Labs,,,100.0,100.0,100.0
+272,7793337729089,,Certified Cybersecurity Technician (CCT)  eBook w/ Labs + ECC Exam Voucher (Onsite),,,299.0,299.0,169.0
+273,7793337761857,,C2SI: Certified Network Defender (CND) Version 3 (Volumes 1 - 4) eBook w/ Labs + ECC Exam Voucher (Onsite),,,349.0,349.0,349.0
+274,7793337794625,,C2SI: Certified Network Defender (CND) Version 3 (Volumes 1 - 4) eBook w/ Labs + ECC Exam Voucher (w/Remote Proctoring Service),,,449.0,449.0,449.0
+275,7793337827393,,EC-Council Certified Encryption Specialist (ECES) Version 3 eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctor Service),,,505.0,505.0,277.75
+276,7793337860161,,C2SI: Computer Hacking Forensic Investigator (CHFI) Version 11 (Volumes 1 - 4) eBook w/ Labs,,,249.0,249.0,249.0
+277,7793337892929,,C2SI: EC-Council Certified Encryption Specialist (ECES) Version 3 eBook w/ Labs + ECC Exam Voucher (Onsite),,,349.0,349.0,349.0
+278,7793337925697,,C2SI: Computer Hacking Forensics Investigator (CHFI) Version 11 (Volumes 1 through 4) eBook w/ Labs+ ECC Exam Voucher (Onsite),,,479.0,479.0,479.0
+279,7793337958465,,C2SI: EC-Council Disaster Recovery Professional (EDRP) Version 3 eBook w/ Labs,,,199.0,199.0,199.0
+280,7793337991233,,C2SI: Computer Hacking Forensics Investigator (CHFI) Version 11 (Volumes 1 through 4) eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,579.0,579.0,579.0
+281,7793338024001,,C2SI: EC-Council Disaster Recovery Professional (EDRP) Version 3 eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctor Service),,,449.0,449.0,449.0
+282,7793338056769,,C2SI: EC-Council Disaster Recovery Professional (EDRP) Version 3 eBook w/ Labs + ECC Exam Voucher (Onsite),,,349.0,349.0,349.0
+283,7793338089537,,C2SI: Certified Threat Intelligence Analyst (CTIA) Version 2 eBook w/ Labs + ECC Exam Voucher (Onsite Testing),,,349.0,349.0,349.0
+284,7793338122305,,C2SI: Certified Threat Intelligence Analyst (CTIA) Version 2 eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctor Service),,,449.0,449.0,449.0
+285,7793338155073,,C2SI: Certified Application Security Engineer (CASE) .Net Version 1 eBook w/ Labs,,,199.0,199.0,199.0
+286,7793338187841,,C2SI: Certified Threat Intelligence Analyst (CTIA) Version 2 eBook w/ Labs,,,199.0,199.0,199.0
+287,7793338220609,,C2SI: Certified Application Security Engineer (CASE) Java Version 1 eBook w/ Labs,,,199.0,199.0,199.0
+288,7793338253377,,C2SI: Certified Application Security Engineer (CASE) .Net Version 1 eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctor Service),,,449.0,449.0,449.0
+289,7793338286145,,C2SI: Certified Application Security Engineer(CASE) .Net Version 1 eBook w/ Labs + ECC Exam Voucher (Onsite),,,349.0,349.0,349.0
+290,7793338318913,,C2SI: Certified Application Security Engineer (CASE) Java Version 1 eBook w/ Labs + ECC Exam Voucher (Onsite),,,349.0,349.0,349.0
+291,7793338351681,,C2SI: Certified Application Security Engineer (CASE) Java Version 1 eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctor Service),,,449.0,449.0,449.0
+292,7793338384449,,Certified Network Defender (CND) Version 3 (Volumes 1 - 4) eBook w/ Labs,,,305.0,305.0,167.75
+293,7793338417217,,Certified Network Defender (CND) Version 3 (Volumes 1 - 4) eBook w/ Labs + ECC Exam Voucher (w/Remote Proctoring Service),,,555.0,555.0,304.0
+294,7793338449985,,Certified Secure Computer User (CSCU) Version 3 eBook + Labs,,,44.98,44.98,29.99
+295,7793338482753,,Certified Network Defender (CND) Version 3 (Volumes 1 - 4) eBook w/ Labs + ECC Exam Voucher (Onsite),,,555.0,555.0,204.0
+296,7793338515521,,Certified Cybersecurity Technician (CCT)  eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,349.0,349.0,269.0
+297,7793338548289,,Certified Network Defender (CND) Version 3 (Volumes 1 & 2) eBook w/ Labs,,,152.5,152.5,152.5
+298,7793338581057,,Certified Network Defender (CND) Version 3 (Volumes 3 & 4) eBook w/ Labs,,,152.5,152.5,152.5
+299,7793338613825,,Computer Hacking Forensics Investigator (CHFI) Version 11 (Volumes 1 through 4) eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,772.5,772.5,344.0
+300,7793338646593,,Computer Hacking Forensic Investigator (CHFI) Version 11 Labs,,,125.0,125.0,68.75
+301,7793338679361,,Computer Hacking Forensic Investigator (CHFI) Version 11 (Volumes 1 - 4) eBook w/ Labs,,,372.5,372.5,204.88
+302,7793338712129,,Computer Hacking Forensics Investigator (CHFI) Version 11 (Volumes 1 through 4) eBook w/ Labs+ ECC Exam Voucher (Onsite),,,672.5,672.5,244.0
+303,7793338744897,,EC-Council Disaster Recovery Professional (EDRP) Version 3 eBook w/ Labs,,,384.5,384.5,211.48
+304,7793338777665,,EC-Council Disaster Recovery Professional (EDRP) Version 3 Labs,,,125.0,125.0,68.75
+305,7793338810433,,Computer Hacking Forensic Investigator (CHFI) Version 11 (Volumes 1 & 2) eBook w/ Labs,,,186.25,186.25,186.25
+306,7793338843201,,EC-Council Disaster Recovery Professional (EDRP) Version 3 eBook w/ Labs + ECC Exam Voucher (Onsite),,,684.5,684.5,199.0
+307,7793338875969,,EC-Council Certified Incident Handler (ECIH) Version 3 eBook w/ Labs + ECC Exam Voucher (Onsite),,,438.0,438.0,199.0
+308,7793338908737,,EC-Council Certified Incident Handler (ECIH) Version 3 eBook w/ Labs,,,288.0,288.0,159.0
+309,7793338941505,,EC-Council Certified Incident Handler (ECIH) Version 3 eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,538.0,538.0,299.0
+310,7793338974273,,EC-Council Disaster Recovery Professional (EDRP) Version 3 eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctor Service),,,784.5,784.5,299.0
+311,7793339007041,,Computer Hacking Forensic Investigator (CHFI) Version 11 (Volumes 3 & 4) eBook w/ Labs,,,186.25,186.25,186.25
+312,7793339039809,,Certified Threat Intelligence Analyst (CTIA) Version 2 Labs,,,99.0,99.0,54.45
+313,7793339072577,,Certified Threat Intelligence Analyst (CTIA) Version 2 eBook w/ Labs,,,288.0,288.0,158.4
+314,7793339105345,,Certified Threat Intelligence Analyst (CTIA) Version 2 eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctor Service),,,538.0,538.0,299.0
+315,7793339138113,,Certified Threat Intelligence Analyst (CTIA) Version 2 eBook w/ Labs + ECC Exam Voucher (Onsite Testing),,,438.0,438.0,199.0
+316,7793339170881,,Certified Application Security Engineer (CASE) .Net Version 1 eBook w/ Labs,,,288.0,288.0,172.7
+317,7793339203649,,Certified Application Security Engineer (CASE) .Net Version 1 eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctor Service),,,538.0,538.0,299.0
+318,7793339236417,,Certified Application Security Engineer (CASE) Java Version 1 eBook w/ Labs + ECC Exam Voucher (Onsite),,,438.0,438.0,199.0
+319,7793339269185,,Certified Application Security Engineer(CASE) .Net Version 1 eBook w/ Labs + ECC Exam Voucher (Onsite),,,438.0,438.0,199.0
+320,7793339301953,,Certified Application Security Engineer (CASE) Java Version 1 eBook w/ Labs,,,288.0,288.0,158.4
+321,7793339334721,,Certified Application Security Engineer (CASE) Java Version 1 eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctor Service),,,538.0,538.0,299.0
+322,7793339367489,,ICS/SCADA Version 1 Labs,,,99.0,99.0,54.45
+323,7793339400257,,Certified SOC Analyst (CSA) eBook w/ Labs + ECC Exam Voucher (w/Remote Proctoring Service),,,538.0,538.0,299.0
+324,7793339433025,,Certified SOC Analyst (CSA) eBook w/ Labs,,,288.0,288.0,158.4
+325,7793339465793,,Certified SOC Analyst (CSA) eBook w/ Labs + ECC Exam Voucher (Onsite),,,438.0,438.0,199.0
+326,7793339498561,,Computer Hacking Forensics Investigator (CHFI) Version 11 eBook w/ Labs  (Volume 1: Computer Forensics Investigation Methodology),,,96.22,96.22,52.92
+327,7793339531329,,CAE: Certified Network Defender (CND) Version 3 (Volumes 1 & 2) eBook w/ Labs,,,125.0,125.0,125.0
+328,7793339564097,,Computer Hacking Forensics Investigator (CHFI) Version 11 eBook w/ Labs (Volume 2: Operating System Forensics),,,96.22,96.22,52.92
+329,7793339596865,,CAE: Certified Network Defender (CND) Version 3 (Volumes 3 & 4) eBook w/ Labs,,,125.0,125.0,125.0
+330,7793339629633,,"Computer Hacking Forensics Investigator (CHFI) Version 11 eBook w/ Labs(Volume 3: Network, Malware, and Web Forensics)",,,96.22,96.22,52.92
+331,7793339662401,,"Computer Hacking Forensics Investigator (CHFI) Version 11 eBook w/ Labs (Volume 4: Cloud, Email, Social Media, Mobile, and IoT Forensics)",,,96.22,96.22,52.92
+332,7793339695169,,ISE v1 CyberQv2 Labs w/ CTF (Pledge Rate Admin Fee),,,34.99,34.99,34.99
+333,7793339727937,,"ISE v1 eBook, Video Bundle (Pledge Scholarship)",,,9.99,9.99,10.0
+334,7793339760705,,"ISE v1 CyberQv2 Labs w/ CTF, Exam Prep, Exam Voucher - Onsite Testing (Pledge Rate Admin Fee)",,,49.99,49.99,49.99
+335,7793339793473,,"ISE v1 CyberQv2 Labs w/ CTF, Exam Prep, Exam Voucher - RPS Testing (Pledge Rate Admin Fee)",,,75.99,75.99,75.99
+336,7793339826241,,ISE v1 Exam Voucher - RPS Testing (Pledge Rate Admin Fee),,,49.99,49.99,49.99
+337,7793339859009,,TIE v1 CyberQv2 Labs w/ CTF (Pledge Rate Admin Fee),,,34.99,34.99,34.99
+338,7793339891777,,"TIE v1 CyberQv2 Labs w/ CTF, Exam Prep, Exam Voucher - Onsite Testing (Pledge Rate Admin Fee)",,,49.99,49.99,49.99
+339,7793339924545,,ISE v1 Exam Voucher - Onsite Testing (Pledge Rate Admin Fee),,,19.99,19.99,19.99
+340,7793339957313,,Certified Cloud Security Engineer (CCSE) Version 2 Exam Prep,,,69.0,69.0,69.0
+341,7793339990081,,"TIE v1 eBook, Video Bundle (Pledge Scholarship)",,,9.99,9.99,10.0
+342,7793340022849,,Certified Penetration Testing Professional (CPENT) Version 2 (Volumes 1 through 4) Labs,,,125.0,125.0,68.75
+343,7793340055617,,Certified Ethical Hacker (CEH) Version 13 Academia Series (Elite Bundle) w/ Onsite Testing,,,916.0,916.0,499.0
+344,7793340088385,,Certified Ethical Hacker (CEH) Version 13 Academia Series (Elite Bundle) w/ RPS,,,1016.0,1016.0,558.0
+345,7793340121153,,CPENT Version 2 (Volumes 1 & 2) eBook w/ Labs,,,209.0,209.0,209.0
+346,7793340153921,,Certified Penetration Testing Professional (CPENT) Version 2 Video Lecture Add-On,,,99.0,99.0,99.0
+347,7793340186689,,CPENT Version 2 (Volumes 3 & 4) eBook w/ Labs,,,209.0,209.0,209.0
+348,7793340219457,,C2SI: EC-Council Academia Continuing Education Bundle: CPENT Version 2,,,999.0,999.0,999.0
+349,7793340252225,,CPENT Version 2 ECC Exam Voucher (RPS),,,400.0,400.0,400.0
+350,7793340284993,,C2SI: CPENT Version 2 (Volumes 1 - 4) eBook w/ Labs + Cyber Range + ECC Exam Voucher (RPS),,,599.0,599.0,599.0
+351,7793340317761,,CPENT Version 2 (Volumes 1 through 4) eBook w/ Labs + Cyber Range,,,417.5,417.5,417.5
+352,7793340350529,,C2SI: CPENT Version 2 (Volumes 1 - 4) eBook w/ Labs + Cyber Range,,,249.0,249.0,249.0
+353,7793340383297,,C2SI: CPENT Version 2 (Volumes 3 & 4) eBook w/ Labs + Cyber Range,,,125.0,125.0,125.0
+354,7793340416065,,CAE: CPENT Version 2 (Volumes 1 - 4) eBook w/ Labs + Cyber Range,,,279.0,279.0,279.0
+355,7793340448833,,CAE: CPENT Version 2 (Volumes 1 - 4) eBook w/ Labs + Cyber Range + ECC Exam Voucher (RPS),,,699.0,699.0,699.0
+356,7793340481601,,CAE: CPENT Version 2 (Volumes 1 & 2) eBook w/ Labs + Cyber Range,,,149.0,149.0,149.0
+357,7793340514369,,CAE: CPENT Version 2 (Volumes 3 & 4) eBook w/ Labs + Cyber Range,,,149.0,149.0,149.0
+358,7793340547137,,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volumes 1 - 3) w/ Labs,,,288.0,288.0,119.0
+359,7793340579905,,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 Labs,,,99.0,99.0,99.0
+360,7793340612673,,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volume 1 - 3) w/ Labs + ECC Exam Voucher (Onsite),,,538.0,538.0,209.0
+361,7793340645441,,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 ECC Exam Voucher (Onsite),,,150.0,150.0,89.0
+362,7793340678209,,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volume 1 - 3) w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,638.0,638.0,309.0
+363,7793340710977,,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 ECC Exam Voucher (w/ Remote Proctoring Service),,,250.0,250.0,189.0
+364,7793340743745,,C2SI: EC-Council Certified DevSecOps Engineer (ECDE) Version 2 Voucher Add-On ECC Exam Voucher (Onsite),,,150.0,150.0,150.0
+365,7793340776513,,C2SI: EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volumes 1 - 3) w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,449.0,449.0,449.0
+366,7793340809281,,EC-Council Academia Continuing Education Bundle: ECDE Version 2,,,699.0,699.0,699.0
+367,7793340842049,,CAE: EC-Council Certified DevSecOps Engineer (ECDE) Version 2 (Volumes 1 - 3) eBook w/ Labs,,,229.0,229.0,229.0
+368,7793340874817,,C2SI: EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volumes 1 - 3) w/ Labs,,,199.0,199.0,199.0
+369,7793340907585,,C2SI: EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volumes 1 - 3) w/ Labs + ECC Exam Voucher (Onsite),,,349.0,349.0,349.0
+370,7793340940353,,CAE: EC-Council Certified DevSecOps Engineer (ECDE) Version 2 (Volumes 1 - 3) eBook w/ Labs + ECC Exam Voucher (Onsite),,,379.0,379.0,379.0
+371,7793340973121,,C2SI: EC-Council Certified DevSecOps Engineer (ECDE) Version 2 Add-On ECC Exam Voucher (w/ Remote Proctor Services),,,250.0,250.0,250.0
+372,7793341005889,,Certified SOC Analyst (CSA) Version 2 eBook w/ Labs,,,288.0,288.0,288.0
+373,7793341038657,,C2SI: Certified SOC Analyst (CSA) Version 2 eBook w/ Labs + ECC Exam Voucher (Onsite),,,349.0,349.0,349.0
+374,7793341071425,,CAE: EC-Council Certified DevSecOps Engineer (ECDE) Version 2 (Volumes 1 - 3) eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,479.0,479.0,479.0
+375,7793341104193,,CAE: Associate CCISO Version 3 eBook w/ ECC Exam Voucher (w/ Remote Proctor Service),,,349.0,349.0,349.0
+376,7793341136961,,C2SI: Certified SOC Analyst (CSA) Version 2 eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,449.0,449.0,449.0
+377,7793341169729,,Certified SOC Analyst (CSA) Version 2 Labs,,,99.0,99.0,54.45
+378,7793341202497,,CAE: Associate CCISO Version 3 eBook w/ ECC Exam Voucher (Onsite),,,249.0,249.0,249.0
+379,7793341235265,,CAE: ECDE Version 2 ECC Exam Voucher (Onsite),,,150.0,150.0,150.0
+380,7793341268033,,Certified SOC Analyst (CSA) Version 2 eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,638.0,638.0,638.0
+381,7793341300801,,Certified SOC Analyst (CSA) Version 2 ECC Exam Voucher (w/ Remote Proctoring Service),,,250.0,250.0,250.0
+382,7793341333569,,Certified SOC Analyst (CSA) Version 2 eBook w/ Labs + ECC Exam Voucher (Onsite),,,538.0,538.0,538.0
+383,7793341366337,,C2SI: Certified SOC Analyst (CSA) Version 2 eBook w/ Labs,,,199.0,199.0,199.0
+384,7793341399105,,C2SI: CPENT Version 2 (Volumes 1 & 2) eBook w/ Labs + Cyber Range,,,125.0,125.0,125.0
+385,7793341431873,,CAE: Certified SOC Analyst (CSA) Version 2 eBook w/ Labs,,,229.0,229.0,229.0
+386,7793341464641,,CAE: CSA Version 2 ECC Exam Voucher (Onsite),,,150.0,150.0,150.0
+387,7793341497409,,CAE: CSA Version 2 ECC Exam Voucher w/ Remote Proctor,,,250.0,250.0,250.0
+388,7793341530177,,Certified SOC Analyst (CSA) Version 2 ECC Exam Voucher (Onsite),,,150.0,150.0,150.0
+389,7793341562945,,C2SI: Certified SOC Analyst (CSA) Version 2 Add-On ECC Exam Voucher (w/ Remote Proctor Services),,,250.0,250.0,250.0
+390,7793341595713,,C2SI: Certified Penetration Testing Professional (CPENT) Version 2 Add-On ECC Exam Voucher (w/ Remote Proctor Services),,,650.0,650.0,650.0
+391,7793341628481,,CAE:  Certified Penetration Testing Professional (CPENT) Version 2 Add-On ECC Exam Voucher (w/ Remote Proctor Services),,,650.0,650.0,650.0
+392,7793341661249,,C2SI: Certified SOC Analyst (CSA) Version 2 Voucher Add-On ECC Exam Voucher (Onsite),,,150.0,150.0,150.0
+393,7793341694017,,CAE: Certified SOC Analyst (CSA) Version 2 eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,479.0,479.0,479.0
+394,7793341726785,,C2SI: EC-Council Academia Continuing Education Bundle: CSA Version 2,,,525.0,525.0,525.0
+395,7793341759553,,"DFE v1 eBook, Video Bundle",,,9.99,9.99,9.99
+396,7793341792321,,"EHE v1 eBook, Video Bundle",,,9.99,9.99,9.99
+397,7793341825089,,EC-Council Pro,,,249.0,249.0,249.0
+398,7793341857857,,CAE: Certified SOC Analyst (CSA) Version 2 eBook w/ Labs + ECC Exam Voucher (Onsite),,,379.0,379.0,379.0
+399,7793341890625,,CCISO Version 3 eBook w/ Associate CCISO Exam Voucher w/ RPS,,,499.0,499.0,499.0
+400,7793341923393,,EC-Council Pro+,,,329.0,329.0,329.0
+401,7793341956161,,Ethical Hacking Essentials (EHE) Versioin 1 (ECL) - Full Bundle,,,299.0,299.0,299.0
+402,7793341988929,,Network Defense Essentials (NDE) Versioin 1 (ECL) - Full Bundle,,,299.0,299.0,299.0
+403,7793342087233,,Digital Forensics Essentials (DFE) Versioin 1 (ECL) - Full Bundle,,,299.0,299.0,299.0
+404,7793342120001,,Certified  Ethical Hacker V13 Exam Prep,,,99.0,119.0,119.0
+405,7793342152769,,EC-Council Academia Continuing Education Bundle: CSA Version 2,,,699.0,699.0,699.0
+406,7793342218305,,"NDE v1 eBook, Video Bundle",,,9.99,9.99,9.99
+407,7793342251073,,"Certified Ethical Hacker V13 E Courseware ,Exam Voucher (RPS),Ethical Hacking Video",,,860.0,900.0,900.0
+408,7793342283841,,"Certified Ethical Hacker V13 E Courseware ,VUE Exam Voucher,Ethical Hacking Video",,,960.0,900.0,900.0
+409,7793342316609,,Certified Ethical Hacker V13 Practical Exam Voucher,,,550.0,427.0,427.0
+410,7793342414913,,Certified Blockchain for Business Leaders - Full Bundle,,,1069.0,1399.0,1069.0
+411,7793342447681,,"Certified Ethical Hacker V13 E Courseware, Practical Exam Voucher",,,950.0,950.0,950.0
+412,7793342480449,,Certified Ethical Hacker V13 iLabs (self study),,,133.0,133.0,133.0
+413,7793342513217,,Certified Blockchain for FinTech Professionals - Full Bundle,,,1069.0,1399.0,1069.0
+414,7793342545985,,Certified Ethical Hacker V13 iLabs,,,199.0,159.0,159.0
+415,7793342578753,,CSCUv3 - Full Bundle,,,159.0,149.0,159.0
+416,7793342611521,,Threat Intelligence Essentials (TIE) Version 1 (ECL) - Full Bundle,,,299.0,299.0,299.0
+417,7793342644289,,Cloud Security Essentials (CSE) Version 1 (ECL) - Full Bundle,,,299.0,299.0,299.0
+418,7793342677057,,Certified Blockchain for Developers - Full Bundle,,,2014.0,2199.0,2014.0
+419,7793342709825,,IoT Security Essentials (ISE) Version 1 (ECL) - Full Bundle,,,299.0,299.0,299.0
+420,7793342742593,,DevSecOps Essentials (DSE) Version 1 (ECL) - Full Bundle,,,299.0,299.0,299.0
+421,7793342775361,,SOC Essentials (SCE) Version 1 (ECL) - Full Bundle,,,299.0,299.0,299.0
+422,7793342840897,,Digital Forensics Essentials (DFE) Version 1 (ECL) - Full Bundle,,,299.0,299.0,299.0
+423,7793342873665,,Network Defense Essentials (NDE) Version 1 (ECL) - Full Bundle,,,299.0,299.0,299.0
+424,7793342906433,,Ethical Hacking Essentials (EHE) Version 1 (ECL) - Full Bundle,,,299.0,299.0,299.0
+425,7793342939201,,Certified Blockchain Professional (BBLC - Blockchain Business Leader) V2 for Business Leaders - e-Courseware Inclusive of Exam Voucher (RPS),,,460.96,460.96,460.96
+426,7793343004737,,Certified Blockchain Professional (BFC - Blockchain Fintech) V2 for FinTech Professionals - e-Courseware Inclusive of Exam Voucher (RPS),,,460.96,460.96,460.96
+427,7793343037505,,Computer Hacking Forensic Investigator (CHFI) V11 e-Courseware with Exam Voucher (Vue),,,725.0,725.0,725.0
+428,7793343070273,,Certified Blockchain Professional (BDC - Blockchain Developer) V2 for Blockchain for Developers - e-Courseware Inclusive of Exam Voucher (RPS),,,621.76,621.76,621.76
+429,7793343103041,,"Certified Ethical Hacker V13 E Courseware ,Exam Voucher (Onsite),iLabs,Exam Retake (1),Ethical Hacking Video,CEH Engage,Global CEH Challenge,CEH Practical.",,,1055.6,1055.6,1055.6
+430,7793343135809,,Computer Hacking Forensic Investigator (CHFI) V11 e-Courseware with Exam Voucher (Vue) & iLabs,,,887.4,887.4,887.4
+431,7793343168577,,"Certified Ethical Hacker V13 E Courseware ,Exam Voucher (Vue),iLabs,Exam Retake (1),Ethical Hacking Video,CEH Engage,Global CEH Challenge,CEH Practical.",,,1158.84,1158.84,1158.84
+432,7793343201345,,"Certified Ethical Hacker V13 E Courseware ,Exam Voucher (RPS),iLabs,Exam Retake (1),Ethical Hacking Video,CEH Engage,Global CEH Challenge,CEH Practical.",,,1158.84,1158.84,1158.84
+433,7793343234113,,EC-Council Academia Continuing Education Bundle: CSCU Version 3,,,99.0,99.0,99.0
+434,7793343266881,,C2SI: EC-Council Academia Continuing Education Bundle: CSCU Version 3,,,99.0,99.0,99.0
+435,7793343299649,,C2SI: EC-Council Academia Continuing Education Bundle: ECES Version 3,,,500.0,500.0,500.0
+436,7793343332417,,C2SI: EC-Council Academia Continuing Education Bundle: CCT Version 1,,,405.0,405.0,405.0
+437,7793343365185,,EC-Council Academia Continuing Education Bundle: ECES Version 3,,,555.0,555.0,555.0
+438,7793343397953,,EC-Council Academia Continuing Education Bundle: CCT Version 1,,,425.0,425.0,425.0
+439,7793343430721,,EC-Council Academia Continuing Education Bundle: CEH Version 13 Elite Edition,,,1175.0,1175.0,1175.0
+440,7793343463489,,C2SI: EC-Council Academia Continuing Education Bundle: CEH Version 13 Elite Edition,,,678.0,678.0,678.0
+441,7793343496257,,C2SI: EC-Council Academia Continuing Education Bundle: CND Version 3,,,550.0,550.0,550.0
+442,7793343529025,,EC-Council Academia Continuing Education Bundle: CND Version 3,,,755.0,755.0,755.0
+443,7793343561793,,EC-Council Academia Continuing Education Bundle: CHFI Version 11,,,972.0,972.0,972.0
+444,7793343594561,,C2SI: EC-Council Academia Continuing Education Bundle: CHFI Version 11,,,680.0,680.0,680.0
+445,7793343627329,,EC-Council Academia Continuing Education Bundle: EDRP Version 3,,,860.0,860.0,860.0
+446,7793343660097,,C2SI: EC-Council Academia Continuing Education Bundle: EDRP Version 3,,,525.0,525.0,525.0
+447,7793343692865,,EC-Council Academia Continuing Education Bundle: ECIH Version 3,,,615.0,615.0,615.0
+448,7793343725633,,EC-Council Academia Continuing Education Bundle: CTIA Version 2,,,699.0,699.0,699.0
+449,7793343758401,,C2SI: EC-Council Academia Continuing Education Bundle: ECIH Version 3,,,525.0,525.0,525.0
+450,7793343791169,,C2SI: EC-Council Academia Continuing Education Bundle: CTIA Version 2,,,525.0,525.0,525.0
+451,7793343823937,,EC-Council Academia Continuing Education Bundle: CASE Java Version 1,,,615.0,615.0,615.0
+452,7793343856705,,C2SI: EC-Council Academia Continuing Education Bundle: CASE Java Version 1,,,525.0,525.0,525.0
+453,7793343889473,,C2SI: EC-Council Academia Continuing Education Bundle: CSA Version 1,,,525.0,525.0,525.0
+454,7793343922241,,EC-Council Academia Continuing Education Bundle: ICS/SCADA Version 1,,,615.0,615.0,615.0
+455,7793343955009,,EC-Council Academia Continuing Education Bundle: CASE .NET Version 1,,,615.0,615.0,615.0
+456,7793343987777,,C2SI: EC-Council Academia Continuing Education Bundle: CASE .NET Version 1,,,525.0,525.0,525.0
+457,7793344020545,,C2SI: EC-Council Academia Continuing Education Bundle: CCSE Version 2,,,550.0,550.0,550.0
+458,7793344053313,,EC-Council Academia Continuing Education Bundle: CCSE Version 2,,,655.0,655.0,655.0
+459,7793344086081,,C2SI: EC-Council Academia Continuing Education Bundle: ECDE Version 1,,,525.0,525.0,525.0
+460,7793344118849,,EC-Council Academia Continuing Education Bundle: ECDE Version 1,,,615.0,615.0,615.0
+461,7793344151617,,EC-Council Academia Continuing Education Bundle: CPENT Version 2,,,1175.0,1175.0,1175.0
+462,7793344184385,,C2SI: EC-Council Academia Continuing Education Bundle: CPENT Version 2,,,999.0,999.0,999.0
+463,7793344217153,,EC-Council Academia Continuing Education Bundle: Associate CCISO Version 3,,,600.0,600.0,600.0
+464,7793344249921,,C2SI: EC-Council Academia Continuing Education Bundle: CCISO Version 3,,,1299.0,1299.0,1299.0
+465,7793344282689,,EC-Council Academia Continuing Education Bundle: NDE Version 1,,,99.0,99.0,99.0
+466,7793344315457,,C2SI: EC-Council Academia Continuing Education Bundle: Associate CCISO Version 3,,,550.0,550.0,550.0
+467,7793344348225,,EC-Council Academia Continuing Education Bundle: EHE Version 1,,,99.0,99.0,99.0
+468,7793344380993,,EC-Council Academia Continuing Education Bundle: DFE Version 1,,,99.0,99.0,99.0
+469,7793344413761,,EC-Council Academia Continuing Education Bundle: CCISO Version 3,,,1349.0,1349.0,1349.0
+470,7793344446529,,EC-Council Academia Continuing Education Bundle: ISE Version 1,,,99.0,99.0,99.0
+471,7793344479297,,EC-Council Academia Continuing Education Bundle: TIE Version 1,,,99.0,99.0,99.0
+472,7793344512065,,EC-Council Academia Continuing Education Bundle: DSE Version 1,,,99.0,99.0,99.0
+473,7793344544833,,Certified Network Defender (CND) Exam Voucher (Onsite),,,250.0,250.0,90.0
+474,7793344577601,,Computer Hacking Forensic Investigator (CHFI) Exam Voucher (Onsite Testing),,,300.0,300.0,90.0
+475,7793344610369,,EC-Council Disaster Recovery Professional (EDRP) Version 3 ECC Exam Voucher (Onsite),,,300.0,300.0,95.0
+476,7793344643137,,EC-Council Academia Continuing Education Bundle: CSE Version 1,,,99.0,99.0,99.0
+477,7793344675905,,EC-Council Academia Continuing Education Bundle: SCE Version 1,,,99.0,99.0,99.0
+478,7793344708673,,Certified Application Security Engineer (CASE) .NET Version 1 Video Lectures,,,199.0,199.0,200.0
+479,7793344741441,,Certified Application Security Engineer (CASE) Java Version 1 Video Lectures,,,199.0,199.0,200.0
+480,7793344774209,,EC-Council Certified Encryption Specialist (ECES) Version 3 ECC Exam Voucher (Onsite),,,150.0,150.0,80.0
+481,7793344806977,,CCISO Version 3 eBook,,,500.0,500.0,275.0
+482,7793344839745,,EC-Council Academia Continuing Education Bundle: CSA Version 1,,,615.0,615.0,615.0
+483,7793344872513,,CEH Practical Exam Voucher,,,400.0,400.0,199.0
+484,7793344905281,,C2SI: EC-Council Academia Continuing Education Bundle: ICS/SCADA Version 1,,,525.0,525.0,525.0
+485,7793344938049,,CCISO Version 3 eBook w/ Associate CCISO Exam Voucher,,,700.0,700.0,700.0
+486,7793344970817,,Certified Cybersecurity Technician (CCT) Version 1 eBook,,,49.99,49.99,49.0
+487,7793345003585,,Certified Ethical Hacker (CEH) Exam Voucher w/ Remote Proctor Services (RPS),,,400.0,400.0,219.0
+488,7793345036353,,Certified Cybersecurity Technician (CCT) ECC Exam Center Voucher (w. Remote Proctor Service),,,249.0,249.0,189.0
+489,7793345069121,,Digital Forensics Essentials (DFE) - Labs,,,34.99,34.99,34.99
+490,7793345101889,,Ethical Hacking Essentials (EHE) - Labs,,,34.99,34.99,34.99
+491,7793345134657,,Digital Forensics Essentials (DFE) Exam Prep,,,9.99,9.99,9.99
+492,7793345167425,,Network Defense Essentials (NDE) Exam Prep,,,9.99,9.99,9.99
+493,7793345200193,,Certified Cybersecurity Technician (CCT) ECC Exam Center Voucher (Onsite),,,199.0,199.0,89.0
+494,7793345232961,,Ethical Hacking Essentials (EHE) Exam Prep,,,9.99,9.99,9.99
+495,7793345265729,,Digital Forensics Essentials ECC Exam Voucher (Onsite),,,49.99,49.99,49.99
+496,7793345298497,,Ethical Hacking Essentials (EHE) ECC Exam Voucher w/ RPS,,,49.99,49.99,49.99
+497,7793345331265,,Network Defense Essentials ECC Exam Voucher (Onsite),,,19.99,19.99,19.99
+498,7793345364033,,Digital Forensics Essentials (DFE) ECC Exam Voucher w/ RPS,,,49.99,49.99,49.99
+499,7793345396801,,Ethical Hacking Essentials ECC Exam Voucher (Onsite),,,19.99,19.99,19.99
+500,7793345429569,,CCISO Version 3 eBook w/ CCISO Exam Voucher,,,700.0,700.0,700.0
+501,7793345462337,,Network Defense Essentials (NDE) ECC Exam Voucher w/ RPS,,,49.99,49.99,49.99
+502,7793345495105,,C2SI: EC-Council Disaster Recovery Professional (EDRP) Version 3 Voucher Add-On ECC Exam Voucher (Onsite),,,150.0,150.0,150.0
+503,7793345527873,,C2SI: Certified Ethical Hacker (CEH) Voucher Add-On ECC Exam Voucher (w/ Remote Proctor Services),,,330.0,330.0,330.0
+504,7793345560641,,Certified Network Defender (CND) ECC Exam Voucher (w/ Remote Proctor Service),,,250.0,250.0,190.0
+505,7793345593409,,C2SI: Certified Ethical Hacker (CEH) Voucher Add-On ECC Exam Voucher (Onsite),,,230.0,230.0,230.0
+506,7793345626177,,C2SI: Certified Application Security Engineer (CASE) .NET Version 1 Voucher Add-On ECC Exam Voucher (Onsite),,,150.0,150.0,150.0
+507,7793345658945,,C2SI: EC-Council Disaster Recovery Professional (EDRP) Version 3 Add-On ECC Exam Voucher (w/ Remote Proctor Services),,,250.0,250.0,250.0
+508,7793345691713,,C2SI: EC-Council Certified Encryption Specialist (ECES) Version 3 Voucher Add-On ECC Exam Voucher (Onsite),,,150.0,150.0,150.0
+509,7793345724481,,C2SI: EC-Council Certified Encryption Specialist (ECES) Version 3 Add-On ECC Exam Voucher (w/ Remote Proctor Services),,,250.0,250.0,250.0
+510,7793345757249,,TIE v1 Exam Voucher - Onsite Testing (Pledge Rate Admin Fee),,,19.99,19.99,19.99
+511,7793345790017,,TIE v1 Exam Voucher - RPS Testing (Pledge Rate Admin Fee),,,49.99,49.99,49.99
+512,7793345822785,,"CSE v1 CyberQv2 Labs, Exam Prep, Exam Voucher - Onsite Testing (Pledge Rate Admin Fee)",,,49.99,49.99,49.99
+513,7793345855553,,CSE v1 Exam Voucher - Onsite Testing (Pledge Rate Admin Fee),,,19.99,19.99,19.99
+514,7793345888321,,"TIE v1 CyberQv2 Labs w/ CTF, Exam Prep, Exam Voucher - RPS Testing (Pledge Rate Admin Fee)",,,75.99,75.99,75.99
+515,7793345921089,,"CSE v1 eBook, Video Bundle (Pledge Scholarship)",,,9.99,9.99,10.0
+516,7793345953857,,C2SI: Certified Application Security Engineer (CASE) .NET Version 1 Voucher Add-On ECC Exam Voucher (w/ Remote Proctor Services),,,250.0,250.0,250.0
+517,7793345986625,,"CSE v1 CyberQv2 Labs, Exam Prep, Exam Voucher - RPS Testing (Pledge Rate Admin Fee)",,,75.99,75.99,75.99
+518,7793346019393,,CSE v1 Exam Voucher - RPS Testing (Pledge Rate Admin Fee),,,49.99,49.99,49.99
+519,7793346052161,,"DSE v1 eBook, Video Bundle (Pledge Scholarship)",,,9.99,9.99,10.0
+520,7793346084929,,DSE v1 CyberQv2 Labs (Pledge Rate Admin Fee),,,34.99,34.99,34.99
+521,7793346117697,,CSE v1 CyberQv2 Labs (Pledge Rate Admin Fee),,,34.99,34.99,34.99
+522,7793346150465,,"DSE v1 CyberQv2 Labs, Exam Prep, Exam Voucher - Onsite Testing (Pledge Rate Admin Fee)",,,49.99,49.99,49.99
+523,7793346183233,,DSE v1 Exam Voucher - RPS Testing (Pledge Rate Admin Fee),,,49.99,49.99,49.99
+524,7793346216001,,"DSE v1 CyberQv2 Labs, Exam Prep, Exam Voucher - RPS Testing (Pledge Rate Admin Fee)",,,75.99,75.99,75.99
+525,7793346248769,,DSE v1 Exam Voucher - Onsite Testing (Pledge Rate Admin Fee),,,19.99,19.99,19.99
+526,7793346281537,,"SCE v1 eBook, Video Bundle (Pledge Scholarship)",,,9.99,9.99,10.0
+527,7793346314305,,SCE v1 CyberQv2 Labs w/ CTF (Pledge Rate Admin Fee),,,34.99,34.99,34.99
+528,7793346347073,,"SCE v1 CyberQv2 Labs w/ CTF, Exam Prep, Exam Voucher - RPS Testing (Pledge Rate Admin Fee)",,,75.99,75.99,75.99
+529,7793346379841,,"SCE v1 CyberQv2 Labs w/ CTF, Exam Prep, Exam Voucher - Onsite Testing (Pledge Rate Admin Fee)",,,49.99,49.99,49.99
+530,7793346412609,,SCE v1 Exam Voucher - Onsite Testing (Pledge Rate Admin Fee),,,19.99,19.99,19.99
+531,7793346445377,,NDE v1 CyberQv2 Labs w/ CTF (Pledge Rate Admin Fee),,,34.99,34.99,34.99
+532,7793346478145,,"NDE v1 eBook, Video Bundle (Pledge Scholarship)",,,9.99,9.99,10.0
+533,7793346510913,,"NDE v1 CyberQv2 Labs w/ CTF, Exam Prep, Exam Voucher - Onsite Testing (Pledge Rate Admin Fee)",,,49.99,49.99,49.99
+534,7793346543681,,"NDE v1 CyberQv2 Labs w/ CTF, Exam Prep, Exam Voucher - RPS Testing (Pledge Rate Admin Fee)",,,75.99,75.99,75.99
+535,7793346576449,,SCE v1 Exam Voucher - RPS Testing (Pledge Rate Admin Fee),,,49.99,49.99,49.99
+536,7793346609217,,EHE v1 CyberQv2 Labs w/ CTF (Pledge Rate Admin Fee),,,34.99,34.99,34.99
+537,7793346641985,,NDE v1 Exam Voucher - Onsite Testing (Pledge Rate Admin Fee),,,19.99,19.99,19.99
+538,7793346674753,,NDE v1 Exam Voucher - RPS Testing (Pledge Rate Admin Fee),,,49.99,49.99,49.99
+539,7793346707521,,"EHE v1 CyberQv2 Labs w/ CTF, Exam Prep, Exam Voucher - Onsite Testing (Pledge Rate Admin Fee)",,,49.99,49.99,49.99
+540,7793346740289,,"EHE v1 eBook, Video Bundle (Pledge Scholarship)",,,9.99,9.99,10.0
+541,7793346773057,,"DFE v1 eBook, Video Bundle (Pledge Scholarship)",,,9.99,9.99,10.0
+542,7793346805825,,"DFE v1 CyberQv2 Labs w/ CTF, Exam Prep, Exam Voucher - Onsite Testing (Pledge Rate Admin Fee)",,,49.99,49.99,49.99
+543,7793346838593,,"EHE v1 CyberQv2 Labs w/ CTF, Exam Prep, Exam Voucher - RPS Testing (Pledge Rate Admin Fee)",,,75.99,75.99,75.99
+544,7793346871361,,"DFE v1 CyberQv2 Labs w/ CTF, Exam Prep, Exam Voucher - RPS Testing (Pledge Rate Admin Fee)",,,75.99,75.99,75.99
+545,7793346904129,,EHE v1 Exam Voucher - RPS Testing (Pledge Rate Admin Fee),,,49.99,49.99,49.99
+546,7793346936897,,EHE v1 Exam Voucher - Onsite Testing (Pledge Rate Admin Fee),,,19.99,19.99,19.99
+547,7793346969665,,"ISE v1 eBook, Video Bundle",,,34.99,34.99,34.99
+548,7793347002433,,DFE v1 Exam Voucher - RPS Testing (Pledge Rate Admin Fee),,,49.99,49.99,49.99
+549,7793347035201,,ISE v1 CyberQv2 Labs w/ CTF,,,34.99,34.99,34.99
+550,7793347067969,,Exam Prep: ICS/SCADA Version 1,,,69.0,69.0,69.0
+551,7793347100737,,"ISE v1 CyberQv2 Labs w/ CTF, Exam Prep, Exam Voucher - Onsite Testing",,,49.99,49.99,49.99
+552,7793347133505,,DFE v1 CyberQv2 Labs w/ CTF (Pledge Rate Admin Fee),,,34.99,34.99,34.99
+553,7793347166273,,C2SI: ICS/SCADA Version 1 eBook w/ Labs + ECC Exam Voucher (Onsite),,,349.0,349.0,349.0
+554,7793347199041,,"ISE v1 CyberQv2 Labs w/ CTF, Exam Prep, Exam Voucher - RPS Testing",,,75.99,75.99,75.99
+555,7793347231809,,ISE v1 Exam Voucher - Onsite Testing,,,19.99,19.99,19.99
+556,7793347264577,,DFE v1 Exam Voucher - Onsite Testing (Pledge Rate Admin Fee),,,19.99,19.99,19.99
+557,7793347297345,,ISE v1 Exam Voucher - RPS Testing,,,49.99,49.99,49.99
+558,7793347330113,,"TIE v1 eBook, Video Bundle",,,9.99,9.99,9.99
+559,7793347362881,,TIE v1 CyberQv2 Labs w/ CTF,,,34.99,34.99,34.99
+560,7793347395649,,"TIE v1 CyberQv2 Labs w/ CTF, Exam Prep, Exam Voucher - RPS Testing",,,75.99,75.99,75.99
+561,7793347428417,,TIE v1 Exam Voucher - Onsite Testing,,,19.99,19.99,19.99
+562,7793347461185,,"TIE v1 CyberQv2 Labs w/ CTF, Exam Prep, Exam Voucher - Onsite Testing",,,49.99,49.99,49.99
+563,7793347493953,,TIE v1 Exam Voucher - RPS Testing,,,49.99,49.99,49.99
+564,7793347526721,,"CSE v1 CyberQv2 Labs, Exam Prep, Exam Voucher - Onsite Testing",,,49.99,49.99,49.99
+565,7793347559489,,CSE v1 CyberQv2 Labs,,,34.99,34.99,34.99
+566,7793347592257,,CSE v1 Exam Voucher - Onsite Testing,,,19.99,19.99,19.99
+567,7793347625025,,"CSE v1 eBook, Video Bundle",,,34.99,34.99,34.99
+568,7793347657793,,CSE v1 Exam Voucher - RPS Testing,,,49.99,49.99,49.99
+569,7793347690561,,DSE v1 CyberQv2 Labs,,,34.99,34.99,34.99
+570,7793347723329,,"CSE v1 CyberQv2 Labs, Exam Prep, Exam Voucher - RPS Testing",,,75.99,75.99,75.99
+571,7793347756097,,"DSE v1 CyberQv2 Labs Exam Prep, Exam Voucher - Onsite Testing",,,49.99,49.99,49.99
+572,7793347788865,,"DSE v1 eBook, Video Bundle",,,34.99,34.99,34.99
+573,7793347821633,,DSE v1 Exam Voucher - Onsite Testing,,,19.99,19.99,19.99
+574,7793347854401,,"DSE v1 CyberQv2 Labs, Exam Prep, Exam Voucher - RPS Testing",,,75.99,75.99,75.99
+575,7793347887169,,DSE v1 Exam Voucher - RPS Testing,,,49.99,49.99,49.99
+576,7793347919937,,SCE v1 CyberQv2 Labs w/ CTF,,,34.99,34.99,34.99
+577,7793347952705,,"SCE v1 eBook, Video Bundle",,,34.99,34.99,34.99
+578,7793347985473,,SCE v1 Exam Voucher - RPS Testing,,,49.99,49.99,49.99
+579,7793348018241,,"SCE v1 CyberQv2 Labs w/ CTF, Exam Prep, Exam Voucher - RPS Testing",,,75.99,75.99,75.99
+580,7793348051009,,SCE v1 Exam Voucher - Onsite Testing,,,19.99,19.99,19.99
+581,7793348083777,,CAE: Associate CCISO Version 3 Volumes 1 - 5,,,199.95,199.95,199.95
+582,7793348116545,,Certified Network Defender (CND) v3 Labs,,,125.0,125.0,125.0
+583,7793348149313,,"SCE v1 CyberQv2 Labs w/ CTF, Exam Prep, Exam Voucher - Onsite Testing",,,49.99,49.99,49.99
+584,7793348182081,,Certified Ethical Hacker (CEH) Version 13 Labs,,,125.0,125.0,69.0
+585,7793348214849,,Certified Ethical Hacker (CEH) Version 13 Labs (Volumes 1),,,34.99,34.99,29.0
+586,7793348247617,,Certified Ethical Hacker (CEH) Version 13 Exam Prep,,,69.0,69.0,38.0
+587,7793348345921,,Certified Ethical Hacker (CEH) Version 13 Video Lecture Add-On,,,99.0,99.0,200.0
+588,7793348378689,,Certified Ethical Hacker (CEH) Version 13 (Volumes 1 & 2) eBook w/ Labs,,,209.0,209.0,209.0
+589,7793348411457,,Certified Ethical Hacker (CEH) Version 13 Labs (Volumes 3),,,34.99,34.99,29.0
+590,7793348444225,,Certified Ethical Hacker (CEH) Version 13 (Volumes 3 & 4) eBook w/ Labs,,,209.0,209.0,209.0
+591,7793348476993,,Certified Ethical Hacker (CEH) Version 13 (Volumes 1 through 4) eBook w/ Labs,,,417.5,417.5,229.0
+592,7793348509761,,Certified Ethical Hacker (CEH) Version 13 (Volumes 1 through 4) eBook w/ Labs + ECC Exam Voucher,,,717.5,717.5,399.0
+593,7793348542529,,Certified Ethical Hacker (CEH) Version 13 (Volumes 1 through 4) eBook w/ Labs +  ECC Exam Voucher (RPS),,,817.5,817.5,458.0
+594,7793348575297,,C2SI: EC-Council Academia Continuing Education Bundle: CEH Version 13 Elite Edition,,,999.0,999.0,999.0
+595,7793348608065,,Certified Ethical Hacker (CEH) Version 13 Labs (Volumes 2),,,34.99,34.99,29.0
+596,7793348640833,,C2SI: CEH Version 13 (Volumes 1 - 4) eBook w/ Labs + ECC Exam Voucher,,,479.0,479.0,479.0
+597,7793348673601,,C2SI: CEH Version 13 (Volumes 1 - 4) eBook w/ Labs,,,249.0,249.0,249.0
+598,7793348706369,,Certified Ethical Hacker (CEH) Version 13 Labs (Volumes 4),,,34.99,34.99,29.0
+599,7793348739137,,C2SI: CEH Version 13 (Volumes 1 & 2) eBook w/ Labs,,,125.0,125.0,125.0
+600,7793348771905,,CAE: CEH Version 13 (Volumes 1 - 4) eBook w/ Labs + Exam Prep,,,279.0,279.0,279.0
+601,7793348804673,,CAE: CEH Version 13 (Volumes 1 - 4) eBook w/ Labs + Exam Prep + ECC Exam Voucher (RPS),,,528.0,528.0,528.0
+602,7793348837441,,C2SI: CEH Version 13 (Volumes 1 - 4) eBook w/ Labs + ECC Exam Voucher (RPS),,,579.0,579.0,579.0
+603,7793348870209,,CAE: CEH Version 13 (Volumes 1 - 4) eBook w/ Labs + Exam Prep + ECC Exam Voucher w/ Retake,,,429.0,429.0,429.0
+604,7793348902977,,CAE: CEH Version 13 (Volumes 3 & 4) eBook w/ Labs,,,149.0,149.0,149.0
+605,7793348935745,,C2SI: CEH Version 13 (Volumes 3 & 4) eBook w/ Labs,,,125.0,125.0,125.0
+606,7793348968513,,Certified Ethical Hacker (CEH) Version 13 (Volumes 1 through 4) eBook w/ ECC Exam Voucher (RPS),,,692.5,692.5,692.5
+607,7793349001281,,Certified Ethical Hacker (CEH) Version 13 (Volumes 1 through 4) eBook w/ ECC Exam Voucher,,,592.5,592.5,592.5
+608,7793349034049,,C2SI: Certified Application Security Engineer (CASE) Java Version 1 Voucher Add-On ECC Exam Voucher (Onsite),,,150.0,150.0,150.0
+609,7793349066817,,CAE: CEH Version 13 (Volumes 1 & 2) eBook w/ Labs,,,149.0,149.0,149.0
+610,7793349099585,,C2SI: Certified SOC Analyst (CSA) Version 1 Voucher Add-On ECC Exam Voucher (Onsite),,,150.0,150.0,150.0
+611,7793349132353,,C2SI: Certified SOC Analyst (CSA) Version 1 Voucher Add-On ECC Exam Voucher (w/ Remote Proctor Services),,,250.0,250.0,250.0
+612,7793349165121,,C2SI: ICS/SCADA Version 1 Voucher Add-On ECC Exam Voucher (w/ Remote Proctor Services),,,250.0,250.0,250.0
+613,7793349197889,,Certified Secure Computer User (CSCU) Version 3 eBook w/ ECC Exam Voucher,,,44.99,44.99,44.99
+614,7793349230657,,Certified Secure Computer User (CSCU) Version 3 eBook w/ ECC Exam Voucher w/ RPS,,,74.99,74.99,74.99
+615,7793349263425,,C2SI: Certified Application Security Engineer (CASE) Java Version 1 Voucher Add-On ECC Exam Voucher (w/ Remote Proctor Services),,,250.0,250.0,250.0
+616,7793349296193,,C2SI: Certified Secure Computer User (CSCU) Version 3 eBook,,,19.99,19.99,19.99
+617,7793349328961,,C2SI: Certified Secure Computer User (CSCU) Version 3 eBook + ECC Exam Voucher,,,39.99,39.99,39.99
+618,7793349361729,,C2SI: ICS/SCADA Version 1 Voucher Add-On ECC Exam Voucher (Onsite),,,150.0,150.0,150.0
+619,7793349394497,,Certified Chief Information Security Officer (CCISO) Version 3 Exam Voucher,,,300.0,300.0,300.0
+620,7793349427265,,EC-Council Certified Encryption Specialist (ECES) Version 3 ECC Exam Voucher (w/ Remote Proctor Service),,,200.0,200.0,180.0
+621,7793349460033,,EC-Council Disaster Recovery Professional (EDRP) v3 ECC Exam Voucher w/ RPS,,,400.0,400.0,195.0
+622,7793349492801,,C2SI: Certified Secure Computer User (CSCU) Version 3 eBook + ECC Exam Voucher (w/ Remote Proctoring Service),,,64.99,64.99,64.99
+623,7793349525569,,Computer Hacking Forensic Investigator (CHFI) ECC Exam Voucher (w/ Remote Proctor Service),,,400.0,400.0,190.0
+624,7793349558337,,Certified Threat Intelligence Analyst (CTIA) Version 2 ECC Exam Voucher (w/ Remote Proctoring Service),,,250.0,250.0,250.0
+625,7793349591105,,Certified Application Security Engineer (CASE) .NET ECC Exam Voucher,,,150.0,150.0,95.0
+626,7793349623873,,Certified Application Security Engineer (CASE) Java ECC Exam Voucher,,,150.0,150.0,95.0
+627,7793349656641,,EC-Council Disaster Recovery Professional (EDRP) Version 3 eBook + ECC Exam Voucher,,,684.5,684.5,115.0
+628,7793349689409,,Certified Application Security Engineer (CASE) .NET ECC Exam Voucher w/ Remote Proctoring Service,,,250.0,250.0,195.0
+629,7793349722177,,Certified Application Security Engineer (CASE) Java ECC Exam Voucher w/ Remote Proctoring Service,,,250.0,250.0,195.0
+630,7793349754945,,ICS/SCADA ECC Exam Voucher,,,150.0,150.0,90.0
+631,7793349787713,,ICS/SCADA ECC Exam Voucher (w/ Remote Proctoring Service),,,250.0,250.0,190.0
+632,7793349820481,,Certified Chief Information Security Officer (CCISO) Version 3 eBook + ECC Exam Voucher (w/ Remote Proctoring Service),,,700.0,700.0,700.0
+633,7793349853249,,Certified SOC Analyst (CSA) ECC Exam Voucher (w/ Remote Proctor Service),,,250.0,250.0,195.0
+634,7793349886017,,Certified SOC Analyst (CSA) Version 1 ECC Exam Voucher (Onsite),,,150.0,150.0,95.0
+635,7793349918785,,Certified Chief Information Security Officer (CCISO) Version 3 Exam Voucher w/ Remote Proctoring Service,,,700.0,700.0,700.0
+636,7793349951553,,C2SI: Certified Cybersecurity Technician (CCT) Version 1 Voucher Add-On ECC Exam Voucher (w/ Remote Proctor Services),,,220.0,220.0,220.0
+637,7793349984321,,C2SI: Certified Chief Information Security Officer (CCISO) Version 3 eBook + ECC Exam Voucher (Onsite),,,350.0,350.0,350.0
+638,7793350017089,,C2SI: Certified Cybersecurity Technician (CCT) Version 1 Voucher Add-On ECC Exam Voucher (Onsite),,,120.0,120.0,120.0
+639,7793350049857,,Network Defense Essentials (NDE) Labs + Exam Prep w/ ECC Exam Voucher w/ RPS,,,75.99,75.99,75.99
+640,7793350082625,,Network Defense Essentials (NDE) Labs + Exam Prep w/ ECC Exam Voucher,,,49.99,49.99,49.99
+641,7793350115393,,Ethical Hacking Essentials (EHE) Labs + Exam Prep w/ ECC Exam Voucher,,,49.99,49.99,49.99
+642,7793350148161,,Certified Application Security Engineer (CASE) .NET ECC Exam Voucher,,,150.0,150.0,150.0
+643,7793350180929,,Digital Forensics Essentials (DFE) Labs + Exam Prep w/ ECC Exam Voucher,,,49.99,49.99,49.99
+644,7793350213697,,Ethical Hacking Essentials (EHE) Labs + Exam prep w/ ECC Exam Voucher w/ RPS,,,75.99,75.99,75.99
+645,7793350246465,,C2SI: Certified Chief Information Security Officer (CCISO) Version 3 eBook + ECC Exam Voucher (w/ Remote Proctoring Service),,,400.0,400.0,400.0
+646,7793350279233,,Certified Secure Computer User (CSCU) Version 3 Labs,,,19.99,19.99,29.99
+647,7793350312001,,Certified Secure Computer User (CSCU) Version 3 eBook,,,19.99,19.99,19.99
+648,7793350344769,,C2SI: Certified Secure Computer User (CSCU) Version 3 Voucher Add-On ECC Exam Voucher (w/ Remote Proctor Services),,,45.0,45.0,45.0
+649,7793350377537,,C2SI: Certified Secure Computer User (CSCU) Version 3 Voucher Add-On ECC Exam Voucher,,,19.99,19.99,19.99
+650,7793350410305,,Digital Forensics Essentials (DFE) Labs + Exam Prep w/ ECC Exam Voucher w/ RPS,,,75.99,75.99,75.99
+651,7793350443073,,Certified Secure Computer User (CSCU) Version 3 ECC Exam Voucher (w/ Remote Proctoring Service),,,55.0,55.0,55.0
+652,7793350475841,,Certified Ethical Hacker (CEH) Exam Voucher (Onsite Testing),,,299.0,299.0,169.0
+653,7793350508609,,C2SI: EC-Council Certified DevSecOps Engineer (ECDE) eBook (Volumes 1 - 3) w/ Labs,,,199.0,199.0,199.0
+654,7793350541377,,Certified Secure Computer User (CSCU) Version 3 ECC Exam Voucher,,,25.0,25.0,25.0
+655,7793350574145,,C2SI: EC-Council Certified DevSecOps Engineer (ECDE) Voucher Add-On ECC Exam Voucher (Onsite),,,150.0,150.0,150.0
+656,7793350606913,,C2SI: EC-Council Certified DevSecOps Engineer (ECDE) eBook (Volumes 1 - 3) w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,449.0,449.0,449.0
+657,7793350639681,,"Associate CCISOv3 Volume 3 eBook (Information Systems Leadership, Projects and Operations)",,,49.99,49.99,49.99
+658,7793350672449,,C2SI: EC-Council Certified DevSecOps Engineer (ECDE) Add-On ECC Exam Voucher (w/ Remote Proctor Services),,,250.0,250.0,250.0
+659,7793350705217,,Associate CCISOv3 Volume 4 eBook (Information Systems Core Competencies),,,49.99,49.99,49.99
+660,7793350737985,,Associate CCISOv3 Volume 5 eBook (Strategic Planning and Finance),,,49.99,49.99,49.99
+661,7793350770753,,C2SI: EC-Council Certified DevSecOps Engineer (ECDE) eBook (Volumes 1 - 3) w/ Labs + ECC Exam Voucher (Onsite),,,349.0,349.0,349.0
+662,7793350803521,,Associate CCISOv3 Risk Management Video Add-on,,,69.99,69.99,69.99
+663,7793350836289,,Associate CCISOv3 Volume 1 eBook (Information Systems Governance),,,49.99,49.99,49.99
+664,7793350869057,,Certified Cybersecurity Technician (CCT) v1 - Labs,,,125.0,125.0,45.0
+665,7793350901825,,Associate CCISOv3 Volume 2 eBook (Information Systems Risk Controls and Auditing Management),,,49.99,49.99,49.99
+666,7793350934593,,Associate CCISOv3 ECC Exam Voucher w/ RPS,,,250.0,250.0,250.0
+667,7793350967361,,C2SI: Associate CCISOv3 Volume 1 eBook (Information Systems Governance),,,29.99,29.99,29.99
+668,7793351000129,,C2SI: Associate CCISOv3 Volume 4 eBook (Information Systems Core Competencies),,,29.99,29.99,29.99
+669,7793351065665,,Associate CCISOv3 ECC Exam Voucher (Onsite),,,150.0,150.0,150.0
+670,7793351131201,,C2SI: Associate CCISOv3 Risk Management Video Add-on,,,49.99,49.99,49.99
+671,7793351163969,,C2SI: Certified Cybersecurity Technician (CCT)  eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,329.0,329.0,329.0
+672,7793351196737,,C2SI: Associate CCISOv3 Volumes 1 - 5 eBook,,,150.0,150.0,150.0
+673,7793351229505,,C2SI: Certified Cybersecurity Technician (CCT)  eBook w/ Labs + ECC Exam Voucher (Onsite),,,249.0,249.0,249.0
+674,7793351262273,,C2SI: Associate CCISOv3 Volume 2 eBook (Information Systems Risk Controls and Auditing Management),,,29.99,29.99,29.99
+675,7793351295041,,C2SI: Certified Cybersecurity Technician (CCT) Version 1 eBook w/ Labs,,,129.0,129.0,129.0
+676,7793351327809,,"C2SI: Associate CCISOv3 Volume 3 eBook (Information Systems Leadership, Projects and Operations)",,,29.99,29.99,29.99
+677,7793351360577,,Certified Secure Computer User (CSCU) Version 3 eBook + Labs w/ ECC Exam Voucher w/ RPS,,,94.99,94.99,94.98
+678,7793351393345,,C2SI: Associate CCISOv3 Volume 5 eBook (Strategic Planning and Finance),,,29.99,29.99,29.99
+679,7793351426113,,Certified Secure Computer User (CSCU) Version 3 Video Upgrade,,,24.99,24.99,24.99
+680,7793351458881,,Certified Secure Computer User (CSCU) Version 3 eBook + Labs w/ ECC Exam Voucher,,,64.99,64.99,74.98
+681,7793351491649,,C2SI: Certified Secure Computer User (CSCU) Version 3 eBook + Labs w/ ECC Exam Voucher,,,59.99,59.99,59.99
+682,7793351524417,,C2SI: Certified SOC Analyst (CSA) eBook w/ Labs,,,199.0,199.0,199.0
+683,7793351557185,,C2SI: Certified SOC Analyst (CSA) eBook w/ Labs + ECC Exam Voucher (Onsite),,,349.0,349.0,349.0
+684,7793351589953,,C2SI: Certified SOC Analyst (CSA) eBook w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,449.0,449.0,449.0
+685,7793351622721,,C2SI: ICS/SCADA Version 1 eBook w/ Labs,,,199.0,199.0,199.0
+686,7793351655489,,C2SI: Certified Secure Computer User (CSCU) Version 3 eBook + Labs w/ ECC Exam Voucher w/ RPS,,,89.99,89.99,89.99
+687,7793351688257,,Associate CCISOv3 Volumes 1 - 5 eBook,,,249.95,249.95,249.95
+688,7793351721025,,C2SI: Certified Secure Computer User (CSCU) Version 3 eBook + Labs w/ ECC Exam Voucher w/ RPS,,,89.99,89.99,89.99
+689,7793351753793,,CAE: Certified Secure Computer User (CSCU) Version 3 eBook w/ Labs + Exam Prep,,,34.99,34.99,34.99
+690,7793351786561,,CAE: Certified Secure Computer User (CSCU) Version 3 eBook w/ Labs + Exam Prep + ECC Exam Voucher (Onsite),,,59.99,59.99,59.99
+691,7793351819329,,CAE: Certified Secure Computer User (CSCU) Version 3 eBook w/ Labs + Exam Prep + ECC Exam Voucher w/ Remote Proctor,,,89.99,89.99,89.99
+692,7793351852097,,CAE: CSCU Version 3 ECC Exam Voucher w/ Remote Proctor,,,49.99,49.99,49.99
+693,7793351884865,,CAE: EC-Council Certified Encryption Specialist (ECES) Version 3 eBook w/ Labs,,,229.0,229.0,229.0
+694,7793351917633,,C2SI: Certified Secure Computer User (CSCU) Version 3 eBook + Labs,,,34.99,34.99,34.99
+695,7793351950401,,CAE: EC-Council Certified Encryption Specialist (ECES) Version 3 eBook w/ Labs + ECC Exam Voucher (Onsite),,,379.0,379.0,379.0
+696,7793351983169,,CAE: EC-Council Certified Encryption Specialist (ECES) Version 3 eBook w/ Labs + ECC Exam Voucher w/ Remote Proctor,,,479.0,479.0,479.0
+697,7793352015937,,CAE: ECES Version 3 ECC Exam Voucher (Onsite),,,150.0,150.0,150.0
+698,7793352048705,,CAE: ECES Version 3 ECC Exam Voucher w/ Remote Proctor,,,250.0,250.0,250.0
+699,7793352081473,,CAE: Certified Cybersecurity Technician (CCT) Version 1 eBook w/ Labs + ECC Exam Voucher (Onsite),,,279.0,279.0,279.0
+700,7793352114241,,CAE: CSCU Version 3 ECC Exam Voucher (Onsite),,,19.99,19.99,19.99
+701,7793352147009,,CAE: Certified Cybersecurity Technician (CCT) Version 1 eBook w/ Labs,,,129.0,129.0,129.0
+702,7793352179777,,CAE: CCT Version 1 ECC Exam Voucher (Onsite),,,150.0,150.0,150.0
+703,7793352212545,,CAE: CCT Version 1 ECC Exam Voucher w/ Remote Proctor,,,200.0,200.0,200.0
+704,7793352245313,,CAE: Certified Cybersecurity Technician (CCT) Version 1 eBook w/ Labs + ECC Exam Voucher w/ Remote Proctor,,,329.0,329.0,329.0
+705,7793352278081,,CAE: CEH ECC Exam Voucher w/ Remote Proctor,,,250.0,250.0,250.0
+706,7793352310849,,CAE: CEH ECC Exam Voucher (Onsite),,,150.0,150.0,150.0
+707,7913450045505,,ATC Renewal Product,,,250.0,250.0,250.0
+708,7920215425089,CASEJAVA101,"Certified Application Security Engineer (CASE) JAVA Version 1 - Includes 1 Year Access To Videos, e-Courseware And 6 Months iLabs Access",,,999.0,999.0,999.0
+709,7920215457857,CASENET0101,"Certified Application Security Engineer (CASE) .NET Version 1 - Includes 1 Year Access To Videos, e-Courseware And 6 Months iLabs Access",,,999.0,999.0,999.0
+710,7920215523393,CODERED007303,EC Council Pro + Add-on,,,500.0,500.0,500.0
+711,7920215556161,CCSE0000102,"Certified Cloud Security Engineer (CCSE) Version 2 - Includes 1 Year Access To Videos, e-Courseware And 6 Months iLabs Access",,,1699.0,1699.0,1699.0
+712,7920215621697,CCT00000101,"Certified Cybersecurity Technician (CCT) Version 1 - Includes 1 Year Access To Videos, e-Courseware And 6 Months iLabs Access",,,599.0,599.0,599.0
+713,7920215687233,CEH00000113,"Certified Ethical Hacker (CEH) Version 13 - Includes 1 Year Access To Videos, e-Courseware And 6 Months iLabs Access",,,1699.0,1699.0,1699.0
+714,7920215720001,CHFI0000111,"Computer Hacking Forensic Investigator (CHFI) Version 11 - Includes 1 Year Access To Videos, e-Courseware And 6 Months iLabs Access",,,1699.0,1699.0,1699.0
+715,7920215785537,CND00000103,"Certified Network Defender (CND) Version 3 - Includes 1 Year Access To Videos, e-Courseware And 6 Months iLabs Access",,,1699.0,1699.0,1699.0
+716,7920215818305,CSA00000102,"Certified SOC Analyst (CSA) Version 2 - Includes 1 Year Access To Videos, e-Courseware And 6 Months iLabs Access",,,999.0,999.0,999.0
+717,7920215883841,ECES0000103,"EC-Council Certified Encryption Specialist (ECES) Version 3 - Includes 1 Year Access To Videos, e-Courseware And 6 Months iLabs Access",,,1150.0,1150.0,1150.0
+718,7920215916609,ECIH0000103,"EC-Council Certified Incident Handler (ECIH) Version 3 - Includes 1 Year Access To Videos, e-Courseware And 6 Months iLabs Access",,,999.0,999.0,999.0
+719,7920215949377,EHCS0000101,"Ethical Hacking Core Skills (EHCS) Version 1 - Includes 1 Year Access To Videos, e-Courseware And 6 Months iLabs Access",,,1699.0,1699.0,1699.0
+720,7920216014913,ICSSCADA101,"Industrial Control Systems / Supervisory Control and Data Acquisition (ICS/SCADA) Version 1 - Includes 1 Year Access To Videos, e-Courseware And 6 Months iLabs Access",,,999.0,999.0,999.0
+721,7920216047681,CPENT00000407,Certified Penetration Testing Professional (CPENT) - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,,,500.0,500.0,500.0
+722,7920216113217,CASENET000407,Certified Application Security Engineer (CASE) .NET - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,,,400.0,400.0,400.0
+723,7920216145985,CASEJAVA00407,Certified Application Security Engineer (CASE) JAVA - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,,,400.0,400.0,400.0
+724,7920216178753,CSA0000000407,Certified SOC Analyst (CSA) - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,,,400.0,400.0,400.0
+725,7920216244289,ECES000000407,EC-Council Certified Encryption Specialist (ECES) - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,,,249.0,249.0,249.0
+726,7920216277057,ICSSCADA00407,Industrial Control Systems / Supervisory Control and Data Acquisition (ICS/SCADA) - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,,,400.0,400.0,400.0
+727,7920216342593,CCT0000000407,Certified Cybersecurity Technician (CCT) - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,,,400.0,400.0,400.0
+728,7920216375361,ECDE000000407,EC-Council Certified DevSecOps Engineer (ECDE) - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,,,400.0,400.0,400.0
+729,7920216408129,ECIH000000407,EC-Council Cerified Incident Handler (ECIH) - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,,,400.0,400.0,400.0
+730,7920216473665,CCSE000000407,Certified Cloud Security Engineer (CCSE) - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,,,500.0,500.0,500.0
+731,7920216506433,CHFI000000407,Computer Hacking Forensic Investigator (CHFI) - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,,,500.0,500.0,500.0
+732,7920216571969,CND0000000407,Certified Network Defender (CND) - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,,,500.0,500.0,500.0
+733,7920216637505,CTIA000000407,Certified Threat Intelligence Analyst (CTIA) - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,,,400.0,400.0,400.0
+734,7920216703041,CCISO00000407,Certified Chief Information Security Officer (CCISO) - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,,,500.0,500.0,500.0
+735,7920216735809,CEH0000000407,"Certified Ethical Hacker (CEH) - Includes 1 ANSI ECC Voucher w/RPS, 1 Free ANSI ECC Voucher w/RPS Retake, 1 Practical Voucher And 1 Free Retake Practical Voucher",,,500.0,500.0,500.0
+736,7920216801345,CCISO00010461,Certified Chief Information Security Officer (CCISO) Version 4 - Includes 1 Year Access To Videos And e-Courseware,,,1999.0,1999.0,1999.0
+737,7920216834113,CAIPM00010161,"Certified AI Program Manager (CAIPM) Version 1 - Includes 1 Year Access To Videos, e-Courseware And 6 Months iLabs Access",,,999.0,999.0,999.0
+738,7920216899649,COASP00010161,"Certified Offensive AI Security Professional (COAISP) Version 1 - Includes 1 Year Access To Videos, e-Courseware And 6 Months iLabs Access",,,1699.0,1699.0,1699.0
+739,7920216965185,CRAGE00010161,"Certified Responsible AI Governance & Ethics Professional (C-RAGE) Version 1 - Includes 1 Year Access To Videos, e-Courseware And 6 Months iLabs Access",,,999.0,999.0,999.0
+740,7920216997953,AIE0000010164,Artificial Intelligence Essentials (AIE) Version 1 iLearn Kit,prodduct type,product category,299.0,299.0,299.0
