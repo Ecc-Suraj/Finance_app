@@ -1,209 +1,307 @@
 import React from "react";
 
-const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
-
 export default function ReportsPage() {
+  const REPORT_CONFIG = {
+    payment: {
+      generate: "/api/payment-report",
+      download: "/api/payment-download",
+      filename: "payment_report.csv",
+      requiresDates: true,
+      successMessage: "Payment Report generated successfully.",
+    },
+
+    order_report: {
+      generate: "/api/order-report",
+      download: "/api/order-download",
+      filename: "order_report.csv",
+      requiresDates: true,
+      successMessage: "Order Report generated successfully.",
+    },
+
+    ar_report: {
+      generate: "/api/ar-report",
+      download: "/api/ar-download",
+      filename: "ar_aging_report.csv",
+      requiresDates: true,
+      successMessage: "AR Report generated successfully.",
+    },
+
+    refund_report: {
+      generate: "/api/refund-report",
+      download: "/api/refund-download",
+      filename: "refund_report.csv",
+      requiresDates: true,
+      successMessage: "Refund Report generated successfully.",
+    },
+
+    partner_master: {
+      generate: "/api/partner-master",
+      download: "/api/partner-master-download",
+      filename: "partner_master_report.csv",
+      requiresDates: false,
+      successMessage: "Partner Master generated successfully.",
+    },
+
+    product_master: {
+      generate: "/api/product-report",
+      download: "/api/product-download",
+      filename: "product_master.csv",
+      requiresDates: false,
+      successMessage: "Product Master generated successfully.",
+    },
+  };
+
   const [selectedReport, setSelectedReport] = React.useState("");
+
   const [isGenerating, setIsGenerating] = React.useState(false);
-  const [isDownloading, setIsDownloading] = React.useState(false);
+
   const [downloadReady, setDownloadReady] = React.useState(false);
-  const [generatedSince, setGeneratedSince] = React.useState("");
+
   const [statusMessage, setStatusMessage] = React.useState("");
 
-  const checkReportReady = async (reportType, since) => {
-    const readyUrl = `/api/reports/download?type=${encodeURIComponent(
-      reportType,
-    )}&since=${encodeURIComponent(since)}&check=1&poll=${Date.now()}`;
-    const response = await fetch(readyUrl, { method: "GET", cache: "no-store" });
+  const [startDate, setStartDate] = React.useState("");
 
-    if (response.ok) {
-      return { ok: true };
-    }
-
-    const err = await response.json().catch(() => null);
-    return { ok: false, error: err?.error || err?.message };
-  };
-
-  const waitForReportReady = async (reportType, since) => {
-    const maxAttempts = 60;
-    const delayMs = 5000;
-    let lastError;
-
-    for (let attempt = 1; attempt <= maxAttempts; attempt++) {
-      const ready = await checkReportReady(reportType, since);
-
-      if (ready.ok) {
-        setDownloadReady(true);
-        setStatusMessage("Report generated. You can now download it.");
-        return true;
-      }
-
-      lastError = ready.error;
-      if (attempt % 6 === 0 && lastError) {
-        setStatusMessage(`Report is generating. Last check: ${lastError}`);
-      }
-      await sleep(delayMs);
-    }
-
-    setStatusMessage(
-      lastError ||
-        "Still waiting for the download link. Please check status again in a moment.",
-    );
-    return false;
-  };
+  const [endDate, setEndDate] = React.useState("");
 
   const handleGenerate = async () => {
-    if (!selectedReport) return;
+    if (!selectedReport) {
+      return;
+    }
+
+    const config = REPORT_CONFIG[selectedReport];
+
+    if (!config) {
+      alert("Invalid report selected.");
+      return;
+    }
+
+    if (config.requiresDates) {
+      if (!startDate || !endDate) {
+        alert("Please select both Start Date and End Date.");
+        return;
+      }
+
+      if (startDate > endDate) {
+        alert("Start Date cannot be greater than End Date.");
+        return;
+      }
+    }
+
+    setDownloadReady(false);
+
+    setStatusMessage("");
 
     try {
       setIsGenerating(true);
-      setDownloadReady(false);
-      setGeneratedSince("");
-      setStatusMessage("Starting report generation...");
 
-      const response = await fetch("/api/github/dispatch", {
+      const body = config.requiresDates
+        ? {
+            startDate,
+            endDate,
+          }
+        : {};
+
+      const response = await fetch(config.generate, {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ workflow: selectedReport }),
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(body),
       });
 
       if (!response.ok) {
         const err = await response.json().catch(() => null);
-        throw new Error(err?.error || "Failed to dispatch GitHub workflow");
+
+        throw new Error(err?.error || "Unable to generate report.");
       }
 
-      const data = await response.json().catch(() => ({}));
-      const since = data.dispatchedAt || new Date().toISOString();
-      setGeneratedSince(since);
-      setStatusMessage("Report is generating. Waiting for the download link...");
-      await waitForReportReady(selectedReport, since);
+      setDownloadReady(true);
+
+      setStatusMessage(`${config.successMessage} Click Download Report.`);
     } catch (error) {
       console.error(error);
-      setStatusMessage("");
-      alert(error.message || "There was an error dispatching the workflow.");
-    } finally {
-      setIsGenerating(false);
-    }
-  };
 
-  const handleCheckStatus = async () => {
-    if (!selectedReport || !generatedSince) return;
-
-    try {
-      setIsGenerating(true);
-      setStatusMessage("Checking for the download link...");
-      await waitForReportReady(selectedReport, generatedSince);
-    } catch (error) {
-      console.error(error);
-      alert(error.message || "There was an error checking the report status.");
+      alert(error.message);
     } finally {
       setIsGenerating(false);
     }
   };
 
   const handleDownload = async () => {
-    if (!selectedReport || !downloadReady) return;
+    if (!selectedReport) {
+      return;
+    }
 
-    const downloadUrl = `/api/reports/download?type=${encodeURIComponent(
-      selectedReport,
-    )}&since=${encodeURIComponent(generatedSince)}`;
+    const config = REPORT_CONFIG[selectedReport];
+
+    if (!config) {
+      alert("Invalid report selected.");
+      return;
+    }
 
     try {
-      setIsDownloading(true);
-      const response = await fetch(downloadUrl, {
-        method: "GET",
-        cache: "no-store",
-      });
+      const response = await fetch(config.download);
 
       if (!response.ok) {
         const err = await response.json().catch(() => null);
-        throw new Error(
-          err?.error ||
-            err?.message ||
-            "Report is not ready yet. Please try again in a minute.",
-        );
+
+        throw new Error(err?.error || "Unable to download report.");
       }
 
       const blob = await response.blob();
+
       const url = window.URL.createObjectURL(blob);
+
       const link = document.createElement("a");
+
       link.href = url;
 
-      link.download = `${selectedReport}-report.${getFileExtensionFromResponse(
-        response,
-      )}`;
+      link.download = config.filename;
+
       document.body.appendChild(link);
+
       link.click();
+
       link.remove();
+
       window.URL.revokeObjectURL(url);
     } catch (error) {
       console.error(error);
-      alert(error.message || "There was an error downloading the report.");
-    } finally {
-      setIsDownloading(false);
+
+      alert(error.message);
     }
   };
 
-  function getFileExtensionFromResponse(response) {
-    const contentType = response.headers.get("Content-Type") || "";
-    if (contentType.includes("csv")) return "csv";
-    if (contentType.includes("pdf")) return "pdf";
-    if (contentType.includes("json")) return "json";
-    if (contentType.includes("zip")) return "zip";
-    return "dat";
-  }
-
+  const requiresDates = REPORT_CONFIG[selectedReport]?.requiresDates || false;
   return (
-    <div style={{ padding: "1.5rem", maxWidth: 480 }}>
-      <h1 style={{ marginBottom: "1rem" }}>Finance Reports</h1>
+    <div style={{ padding: "1.5rem", maxWidth: 500 }}>
+      <h1 style={{ marginBottom: "20px" }}>Finance Reports</h1>
 
-      <div style={{ marginBottom: "1rem" }}>
-        <label htmlFor="report-select" style={{ display: "block" }}>
-          Report name
+      <div style={{ marginBottom: "20px" }}>
+        <label
+          htmlFor="report-select"
+          style={{ display: "block", marginBottom: "5px" }}
+        >
+          Report Name
         </label>
+
         <select
           id="report-select"
-          style={{ marginTop: "0.5rem", width: "100%", padding: "0.25rem" }}
           value={selectedReport}
+          disabled={isGenerating}
           onChange={(e) => {
             setSelectedReport(e.target.value);
+
             setDownloadReady(false);
-            setGeneratedSince("");
+
             setStatusMessage("");
+
+            setStartDate("");
+
+            setEndDate("");
+          }}
+          style={{
+            width: "100%",
+            padding: "8px",
           }}
         >
-          <option value="">Select a report</option>
-          <option value="sales">Order Report</option>
-          <option value="inventory">Ar report</option>
-          <option value="customers">Partner Master</option>
+          <option value="">Select Report</option>
+
+          <option value="payment">Payment Report</option>
+
+          <option value="order_report">Order Report</option>
+
+          <option value="ar_report">AR Report</option>
+
+          <option value="refund_report">Refund Report</option>
+
+          <option value="partner_master">Partner Master</option>
+
+          <option value="product_master">Product Master</option>
         </select>
       </div>
 
-      <div style={{ display: "flex", gap: "0.5rem" }}>
+      {requiresDates && (
+        <>
+          <div style={{ marginBottom: "15px" }}>
+            <label
+              style={{
+                display: "block",
+                marginBottom: "5px",
+              }}
+            >
+              Start Date
+            </label>
+
+            <input
+              type="date"
+              value={startDate}
+              disabled={isGenerating}
+              onChange={(e) => setStartDate(e.target.value)}
+              style={{
+                width: "100%",
+                padding: "8px",
+              }}
+            />
+          </div>
+
+          <div style={{ marginBottom: "20px" }}>
+            <label
+              style={{
+                display: "block",
+                marginBottom: "5px",
+              }}
+            >
+              End Date
+            </label>
+
+            <input
+              type="date"
+              value={endDate}
+              disabled={isGenerating}
+              onChange={(e) => setEndDate(e.target.value)}
+              style={{
+                width: "100%",
+                padding: "8px",
+              }}
+            />
+          </div>
+        </>
+      )}
+
+      <div
+        style={{
+          display: "flex",
+          gap: "10px",
+        }}
+      >
         <button
           type="button"
-          onClick={
-            generatedSince && !downloadReady ? handleCheckStatus : handleGenerate
-          }
+          onClick={handleGenerate}
           disabled={!selectedReport || isGenerating}
         >
-          {isGenerating
-            ? "Generating..."
-            : generatedSince && !downloadReady
-              ? "Check status"
-              : "Generate"}
+          {isGenerating ? "Generating..." : "Generate"}
         </button>
 
         <button
           type="button"
           onClick={handleDownload}
-          disabled={!selectedReport || !downloadReady || isDownloading}
+          disabled={!downloadReady || isGenerating}
         >
-          {isDownloading ? "Downloading..." : "Download report"}
+          Download Report
         </button>
       </div>
 
-      {statusMessage && <p style={{ marginTop: "1rem" }}>{statusMessage}</p>}
+      {statusMessage && (
+        <p
+          style={{
+            marginTop: "20px",
+            color: "green",
+          }}
+        >
+          {statusMessage}
+        </p>
+      )}
     </div>
   );
 }

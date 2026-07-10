@@ -1,3 +1,6 @@
+from dotenv import load_dotenv
+load_dotenv()
+
 import os
 import csv
 import time
@@ -68,120 +71,120 @@ query GetCompanies($cursor: String){
 }
 """
 
-all_companies = []
 
-cursor = None
+def generate_partner_master_report():
 
-while True:
+    all_companies = []
 
-    response = requests.post(
-        URL,
-        headers=HEADERS,
-        json={
-            "query": QUERY,
-            "variables": {
-                "cursor": cursor
+    cursor = None
+
+    while True:
+
+        response = requests.post(
+            URL,
+            headers=HEADERS,
+            json={
+                "query": QUERY,
+                "variables": {
+                    "cursor": cursor
+                }
             }
-        }
-    )
-
-    if response.status_code != 200:
-        raise Exception(
-            f"HTTP Error {response.status_code}: {response.text}"
         )
 
-    data = response.json()
+        if response.status_code != 200:
+            raise Exception(
+                f"HTTP Error {response.status_code}: {response.text}"
+            )
 
-    if "errors" in data:
-        print(data)
-        raise Exception(data["errors"])
+        data = response.json()
 
-    companies = data["data"]["companies"]["nodes"]
+        if "errors" in data:
+            print(data)
+            raise Exception(data["errors"])
 
-    all_companies.extend(companies)
+        companies = data["data"]["companies"]["nodes"]
 
-    page_info = data["data"]["companies"]["pageInfo"]
+        all_companies.extend(companies)
 
-    if not page_info["hasNextPage"]:
-        break
+        page_info = data["data"]["companies"]["pageInfo"]
 
-    cursor = page_info["endCursor"]
+        if not page_info["hasNextPage"]:
+            break
 
-    time.sleep(0.5)
+        cursor = page_info["endCursor"]
 
-print(
-    f"Total Companies Found: {len(all_companies)}"
-)
-with open(
-    "partner_master_report.csv",
-    "w",
-    newline="",
-    encoding="utf-8-sig"
-) as csvfile:
+        time.sleep(0.5)
 
-    writer = csv.writer(csvfile)
+    print(
+        f"Total Companies Found: {len(all_companies)}"
+    )
 
-    writer.writerow([
+    with open(
+        "partner_master_report.csv",
+        "w",
+        newline="",
+        encoding="utf-8-sig"
+    ) as csvfile:
 
-        "S. No.",
-
-        "Shopify Partner ID",
-
-        "Partner Name",
-
-        "Cert ID",
-
-        "SAP ID",
-
-        "Partner Type"
-
-    ])
-
-    row_no = 1
-
-    for company in all_companies:
-
-        #
-        # Convert Shopify GID
-        # gid://shopify/Company/4458774593
-        # to
-        # 4458774593
-        #
-        company_id = company.get("id", "")
-
-        if company_id.startswith("gid://shopify/Company/"):
-            company_id = company_id.split("/")[-1]
-
-        cert_id = (
-            company.get("certId") or {}
-        ).get("value", "")
-
-        sap_id = (
-            company.get("sapId") or {}
-        ).get("value", "")
-
-        partner_type = (
-            company.get("partnerType") or {}
-        ).get("value", "")
+        writer = csv.writer(csvfile)
 
         writer.writerow([
 
-            row_no,
-
-            company_id,
-
-            company.get("name", ""),
-
-            cert_id,
-
-            sap_id,
-
-            partner_type
+            "S. No.",
+            "Shopify Partner ID",
+            "Partner Name",
+            "Cert ID",
+            "SAP ID",
+            "Partner Type"
 
         ])
 
-        row_no += 1
+        row_no = 1
 
-print(
-    "Partner Master Report exported successfully -> partner_master_report.csv"
-)
+        for company in all_companies:
+
+            company_id = company.get("id", "")
+
+            if company_id.startswith("gid://shopify/Company/"):
+                company_id = company_id.split("/")[-1]
+
+            cert_id = (
+                company.get("certId") or {}
+            ).get("value", "")
+
+            sap_id = (
+                company.get("sapId") or {}
+            ).get("value", "")
+
+            partner_type = (
+                company.get("partnerType") or {}
+            ).get("value", "")
+
+            writer.writerow([
+
+                row_no,
+
+                company_id,
+
+                company.get("name", ""),
+
+                cert_id,
+
+                sap_id,
+
+                partner_type
+
+            ])
+
+            row_no += 1
+
+    print(
+        "Partner Master Report exported successfully -> partner_master_report.csv"
+    )
+
+    return "partner_master_report.csv"
+
+
+if __name__ == "__main__":
+
+    generate_partner_master_report()

@@ -1,0 +1,171 @@
+﻿S. No,Return/refund order date,Order Name,Email ID,Refund Status,Product SKU,Product Name,Product Type,Product Category,Qty,List Price,Order Value,Discount Value,Subtotal,Tax Value,Shipping Charge,Restocking fee,Total Refund,Refunded At,Refund at Store credit,Reason for return,Currency,Partner code,SAP id,Company / Partner Name,Partner Type,Billing address,Billing City,Billing State Name,Billing State,Billing country full name,Billing Country,Billing Zip Code,Shipping address,Shipping City,Shipping State Name,Shipping State,Shipping country full name,Shipping Country,Shipping Zip Code,Sales Rep. Name,Sales Rep. Emp Code,Payment Reference,Payment Method,Payment Amt,Paid at (Date),Entity Name,sales_org Code,Entity,Division Name,Division Code,Profit Center,Payment Terms,Next Payment Due At,Comments,Fulfillment Status,Fulfilled at,Discount Code
+1,03-07-2026,#1560,sameer.singh@eccouncil.org,PARTIALLY_REFUNDED,112390000582861438,Ethical Hacking Essentials (EHE) Labs + Exam prep w/ ECC Exam Voucher w/ RPS,,,2,75.99,151.98,0,151.98,7.6,0.0,223.14,143.16,03-07-2026,US (Manual Bank Transfer),"========================
+RESTOCKING ENGINE
+
+Processed: 03 Jul 2026, 09:01:01 AM UTC
+
+Return ID: 12962496577
+
+Returned Item (1):
+
+• EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volume 1 - 3) w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service)
+  • Qty   : 3
+  • Value : USD 1914.00
+
+Restocking Fee       : USD 191.40
+Tax Amount           : USD 15.32
+Final Deduction      : USD 206.72
+Cumulative Deduction : USD 223.14
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 03 Jul 2026, 08:59:45 AM UTC
+
+Return ID: 12962431041
+
+Returned Item (1):
+
+• Ethical Hacking Essentials (EHE) Labs + Exam prep w/ ECC Exam Voucher w/ RPS
+  • Qty   : 2
+  • Value : USD 151.98
+
+Restocking Fee       : USD 15.20
+Tax Amount           : USD 1.22
+Final Deduction      : USD 16.42
+Cumulative Deduction : USD 16.42
+
+========================
+
+",USD,Null,,Tata Sonic,Academia,,,,,,,,Time Square Bldg,Rochester,New York,NY,United States,US,14614,,,#1560.2,US (Manual Bank Transfer),143.16,03-07-2026,International Council of E-Commerce Consultants Inc,SO16,ICEC,Academia US,016,201,Net 7,10-07-2026,"========================
+RESTOCKING ENGINE
+
+Processed: 03 Jul 2026, 09:01:01 AM UTC
+
+Return ID: 12962496577
+
+Returned Item (1):
+
+• EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volume 1 - 3) w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service)
+  • Qty   : 3
+  • Value : USD 1914.00
+
+Restocking Fee       : USD 191.40
+Tax Amount           : USD 15.32
+Final Deduction      : USD 206.72
+Cumulative Deduction : USD 223.14
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 03 Jul 2026, 08:59:45 AM UTC
+
+Return ID: 12962431041
+
+Returned Item (1):
+
+• Ethical Hacking Essentials (EHE) Labs + Exam prep w/ ECC Exam Voucher w/ RPS
+  • Qty   : 2
+  • Value : USD 151.98
+
+Restocking Fee       : USD 15.20
+Tax Amount           : USD 1.22
+Final Deduction      : USD 16.42
+Cumulative Deduction : USD 16.42
+
+========================
+
+",SUCCESS,03-07-2026,
+2,06-07-2026,#1558,sameer.singh@eccouncil.org,PARTIALLY_REFUNDED,,"Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab",,,2,376.89,753.78,0,753.78,97.99,0.0,261.78,668.6,06-07-2026,US (Manual Bank Transfer),"========================
+RESTOCKING ENGINE
+
+Processed: 03 Jul 2026, 08:31:15 AM UTC
+
+Return ID: 12962136129
+
+Returned Items (2):
+
+1. Network Defense Essentials (NDE) courseware, video, Exam Voucher (RPS), lab
+   • Qty   : 3
+   • Value : CAD 1130.67
+
+2. Digital Forensics Essentials (DFE) Version 1 (ECL) - Full Bundle
+   • Qty   : 1
+   • Value : CAD 432.28
+
+Restocking Fee       : CAD 156.29
+Tax Amount           : CAD 20.31
+Final Deduction      : CAD 176.60
+Cumulative Deduction : CAD 261.78
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 03 Jul 2026, 08:28:54 AM UTC
+
+Return ID: 12962070593
+
+Returned Item (1):
+
+• Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab
+  • Qty   : 2
+  • Value : CAD 753.78
+
+Restocking Fee       : CAD 75.38
+Tax Amount           : CAD 9.80
+Final Deduction      : CAD 85.18
+Cumulative Deduction : CAD 85.18
+
+========================
+
+",CAD,Null,,Tata Sonic,,82 Labadie Rd,Windsor,Ontario,ON,Canada,CA,N8W 4J7,82 Labadie Rd,Windsor,Ontario,ON,Canada,CA,N8W 4J7,,,#1558.2,US (Manual Bank Transfer),668.6,06-07-2026,EC-Council Canada Inc.,SO15,ECCC,,,,Net 7,10-07-2026,"========================
+RESTOCKING ENGINE
+
+Processed: 03 Jul 2026, 08:31:15 AM UTC
+
+Return ID: 12962136129
+
+Returned Items (2):
+
+1. Network Defense Essentials (NDE) courseware, video, Exam Voucher (RPS), lab
+   • Qty   : 3
+   • Value : CAD 1130.67
+
+2. Digital Forensics Essentials (DFE) Version 1 (ECL) - Full Bundle
+   • Qty   : 1
+   • Value : CAD 432.28
+
+Restocking Fee       : CAD 156.29
+Tax Amount           : CAD 20.31
+Final Deduction      : CAD 176.60
+Cumulative Deduction : CAD 261.78
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 03 Jul 2026, 08:28:54 AM UTC
+
+Return ID: 12962070593
+
+Returned Item (1):
+
+• Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab
+  • Qty   : 2
+  • Value : CAD 753.78
+
+Restocking Fee       : CAD 75.38
+Tax Amount           : CAD 9.80
+Final Deduction      : CAD 85.18
+Cumulative Deduction : CAD 85.18
+
+========================
+
+",SUCCESS,03-07-2026,
