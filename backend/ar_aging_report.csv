@@ -1,4 +1,4 @@
 ﻿S. No,Order Date,Order Number,Email ID,Payment Status,Product Type,Product Category,Subtotal,Tax Value,Shipping Charge,Grand Total,Currency,Company / Partner Name,Cert ID,SAP ID,Partner Type,Sales Rep. Name,Sales Rep. Emp Code,Entity,Division Name,Division Code,upto 30 Days,31-60 days,61-90 days,91-120 days,121-150 days,151-360 days
-1,2026-06-29T11:47:44Z,#1549,eccouncilwork@gmail.com,PENDING,prodduct type,product category,432.86,51.94,0.0,484.8,CAD,Moxiiii QA Tax Exe,,,Academia,,,ECCC,Academia US,016,Yes,No,No,No,No,No
-2,2026-06-17T07:47:20Z,#1484,,PENDING,,,150.0,0.0,0.0,150.0,USD,,,,,,,,,,Yes,No,No,No,No,No
-3,2026-06-05T12:24:36Z,#1446,radicalnaksha@gmail.com,PENDING,,,449.0,0.0,0.0,554.0,USD,KETAN UNIVERSITY,,,Academia,,,ICEC,Academia US,016,No,Yes,No,No,No,No
+1,2026-07-14T10:56:20Z,#1584,anandprakash.prasad@eccouncil.org,PARTIALLY_PAID,iLabs,CCT,224.0,15.68,0.0,239.68,USD,Anand's Company,avcd2311,,ATC,"Anna Sanders
+",Z9Q4N6T,ICEC,Channel US,017,Yes,No,No,No,No,No
+2,2026-07-10T06:18:11Z,#1568,gargeepawarecc@gmail.com,PARTIALLY_PAID,,,2199.0,175.92,0.0,2374.92,USD,Order Cap Test,,,,,,ICEC,,,Yes,No,No,No,No,No

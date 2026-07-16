@@ -1,7 +1,7 @@
 import { AppProvider } from "@shopify/shopify-app-react-router/react";
 import { useState } from "react";
 import { Form, useActionData, useLoaderData } from "react-router";
-import { login } from "../../shopify.server";
+import { login } from "../../shopify.server.shopify";
 import { loginErrorMessage } from "./error.server";
 
 export const loader = async ({ request }) => {

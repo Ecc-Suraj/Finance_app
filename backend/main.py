@@ -1,6 +1,8 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
 from pydantic import BaseModel
+import traceback
 import os
 
 from payment_report import generate_payment_report
@@ -10,7 +12,20 @@ from refund_report import generate_refund_report
 from partner_master_report import generate_partner_master_report
 from product_master_report import generate_product_master_report
 
-app = FastAPI()
+app = FastAPI(
+    title="FreProts API",
+    version="1.0.0"
+)
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "http://localhost:5173",
+    ],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 
 @app.get("/")

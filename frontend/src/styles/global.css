@@ -1,0 +1,198 @@
+/* ==============================
+   Google Font
+============================== */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* ==============================
+   Reset
+============================== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ==============================
+   Body
+============================== */
+body {
+  font-family: "Inter", sans-serif;
+  background: #f5f7fb;
+  color: #1f2937;
+}
+
+/* ==============================
+   Root
+============================== */
+#root {
+  min-height: 100vh;
+}
+
+/* ==============================
+   Main Container
+============================== */
+.container {
+  width: 100%;
+  min-height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding: 40px;
+}
+
+/* ==============================
+   Card
+============================== */
+.report-card {
+  width: 100%;
+  max-width: 550px;
+
+  background: #ffffff;
+
+  border-radius: 16px;
+
+  padding: 35px;
+
+  box-shadow:
+    0 8px 25px rgba(0,0,0,0.08);
+}
+
+/* ==============================
+   Heading
+============================== */
+.report-card h1 {
+  font-size: 34px;
+  font-weight: 700;
+
+  margin-bottom: 8px;
+
+  color: #1e3a8a;
+}
+
+.subtitle {
+  color: #6b7280;
+
+  margin-bottom: 30px;
+
+  font-size: 15px;
+}
+
+/* ==============================
+   Form
+============================== */
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+
+  margin-bottom: 8px;
+
+  font-weight: 600;
+
+  color: #374151;
+}
+
+/* ==============================
+   Inputs
+============================== */
+select,
+input {
+  width: 100%;
+
+  padding: 12px 14px;
+
+  border-radius: 10px;
+
+  border: 1px solid #d1d5db;
+
+  outline: none;
+
+  font-size: 15px;
+
+  transition: all .25s ease;
+}
+
+select:focus,
+input:focus {
+  border-color: #2563eb;
+
+  box-shadow: 0 0 0 3px rgba(37,99,235,.15);
+}
+
+/* ==============================
+   Buttons
+============================== */
+.button-group {
+  display: flex;
+
+  gap: 15px;
+
+  margin-top: 30px;
+}
+
+.button-group button {
+  flex: 1;
+
+  padding: 14px;
+
+  border: none;
+
+  border-radius: 10px;
+
+  cursor: pointer;
+
+  font-size: 15px;
+
+  font-weight: 600;
+
+  transition: .25s;
+}
+
+.button-group button:first-child {
+  background: #2563eb;
+
+  color: white;
+}
+
+.button-group button:first-child:hover {
+  background: #1d4ed8;
+}
+
+.button-group button:last-child {
+  background: #10b981;
+
+  color: white;
+}
+
+.button-group button:last-child:hover {
+  background: #059669;
+}
+
+.button-group button:disabled {
+  opacity: .5;
+
+  cursor: not-allowed;
+}
+
+/* ==============================
+   Mobile
+============================== */
+@media (max-width: 768px) {
+
+  .container {
+    padding: 20px;
+  }
+
+  .report-card {
+    padding: 25px;
+  }
+
+  .button-group {
+    flex-direction: column;
+  }
+
+}

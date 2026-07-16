@@ -1,5 +1,89 @@
 ﻿S. No,Return/refund order date,Order Name,Email ID,Refund Status,Product SKU,Product Name,Product Type,Product Category,Qty,List Price,Order Value,Discount Value,Subtotal,Tax Value,Shipping Charge,Restocking fee,Total Refund,Refunded At,Refund at Store credit,Reason for return,Currency,Partner code,SAP id,Company / Partner Name,Partner Type,Billing address,Billing City,Billing State Name,Billing State,Billing country full name,Billing Country,Billing Zip Code,Shipping address,Shipping City,Shipping State Name,Shipping State,Shipping country full name,Shipping Country,Shipping Zip Code,Sales Rep. Name,Sales Rep. Emp Code,Payment Reference,Payment Method,Payment Amt,Paid at (Date),Entity Name,sales_org Code,Entity,Division Name,Division Code,Profit Center,Payment Terms,Next Payment Due At,Comments,Fulfillment Status,Fulfilled at,Discount Code
-1,03-07-2026,#1560,sameer.singh@eccouncil.org,PARTIALLY_REFUNDED,112390000582861438,Ethical Hacking Essentials (EHE) Labs + Exam prep w/ ECC Exam Voucher w/ RPS,,,2,75.99,151.98,0,151.98,7.6,0.0,223.14,143.16,03-07-2026,US (Manual Bank Transfer),"========================
+1,14-07-2026,#1586,anandprakash.prasad@eccouncil.org,PARTIALLY_REFUNDED,CCT-V01-iLAB,Certified Cybersecurity Technician (CCT) Version 1 iLabs,iLabs,CCT,1,125.0,125.0,0,125.0,7.88,0.0,13.29,132.88,14-07-2026,US (Manual Bank Transfer),"========================
+RESTOCKING ENGINE
+
+Processed: 14 Jul 2026, 10:59:13 AM UTC
+
+Return ID: 13132136513
+
+Returned Item (1):
+
+• Certified Cybersecurity Technician (CCT) Version 1 iLabs
+  • Qty   : 1
+  • Value : USD 125.00
+
+Restocking Fee       : USD 12.50
+Tax Amount           : USD 0.79
+Final Deduction      : USD 13.29
+Cumulative Deduction : USD 13.29
+
+========================
+
+",USD,15edc89c-85d5-45a8-b9e1-086f1453792e,,Anand's Company,Academia,555 N 5th Ave APT 731,Phoenix,Arizona,AZ,United States,US,85003,555 N 5th Ave APT 731,Phoenix,Arizona,AZ,United States,US,85003,"Noah Hayes
+",E5P7R1K,#1586.2,US (Manual Bank Transfer),132.88,14-07-2026,International Council of E-Commerce Consultants Inc,SO16,ICEC,Academia US,016,201,Net 7,21-07-2026,"========================
+RESTOCKING ENGINE
+
+Processed: 14 Jul 2026, 10:59:13 AM UTC
+
+Return ID: 13132136513
+
+Returned Item (1):
+
+• Certified Cybersecurity Technician (CCT) Version 1 iLabs
+  • Qty   : 1
+  • Value : USD 125.00
+
+Restocking Fee       : USD 12.50
+Tax Amount           : USD 0.79
+Final Deduction      : USD 13.29
+Cumulative Deduction : USD 13.29
+
+========================
+
+",SUCCESS,14-07-2026,
+2,14-07-2026,#1574,sameer.singh@eccouncil.org,PARTIALLY_REFUNDED,CPENT-V02-iLEARN-US,"Certified Penetration Testing Professional (CPENT) Version 2- Includes 1 Year Access To Videos, e-Courseware, 6 Months iLabs Access And 90 Day Range Key",,,3,3170.27,9510.81,0,9510.81,1236.41,0.0,1074.72,9510.81,14-07-2026,Canada (Manual Bank Transfer),"========================
+RESTOCKING ENGINE
+
+Processed: 14 Jul 2026, 07:13:20 AM UTC
+
+Return ID: 13129482305
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2- Includes 1 Year Access To Videos, e-Courseware, 6 Months iLabs Access And 90 Day Range Key
+  • Qty   : 3
+  • Value : CAD 9510.81
+
+Restocking Fee       : CAD 951.08
+Tax Amount           : CAD 123.64
+Final Deduction      : CAD 1074.72
+Cumulative Deduction : CAD 1074.72
+
+========================
+
+",CAD,15edc89c-85d5-45a8-b9e1-086f1453792e,,Tata Sonic,Academia,82 Labadie Rd,Windsor,Ontario,ON,Canada,CA,N8W 4J7,82 Labadie Rd,Windsor,Ontario,ON,Canada,CA,N8W 4J7,"Logan Bryant
+",S2L8R3M,#1574.2,Canada (Manual Bank Transfer),9510.81,14-07-2026,EC-Council Canada Inc.,SO15,ECCC,Academia US,016,201,Net 7,21-07-2026,"========================
+RESTOCKING ENGINE
+
+Processed: 14 Jul 2026, 07:13:20 AM UTC
+
+Return ID: 13129482305
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2- Includes 1 Year Access To Videos, e-Courseware, 6 Months iLabs Access And 90 Day Range Key
+  • Qty   : 3
+  • Value : CAD 9510.81
+
+Restocking Fee       : CAD 951.08
+Tax Amount           : CAD 123.64
+Final Deduction      : CAD 1074.72
+Cumulative Deduction : CAD 1074.72
+
+========================
+
+",SUCCESS,14-07-2026,
+3,03-07-2026,#1560,sameer.singh@eccouncil.org,PARTIALLY_REFUNDED,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Labs + Exam prep w/ ECC Exam Voucher w/ RPS,iLabs + Prep EV + PU EV,EHE,2,75.99,151.98,0,151.98,7.6,0.0,223.14,143.16,03-07-2026,US (Manual Bank Transfer),"========================
 RESTOCKING ENGINE
 
 Processed: 03 Jul 2026, 09:01:01 AM UTC
@@ -80,7 +164,7 @@ Cumulative Deduction : USD 16.42
 ========================
 
 ",SUCCESS,03-07-2026,
-2,06-07-2026,#1558,sameer.singh@eccouncil.org,PARTIALLY_REFUNDED,,"Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab",,,2,376.89,753.78,0,753.78,97.99,0.0,261.78,668.6,06-07-2026,US (Manual Bank Transfer),"========================
+4,06-07-2026,#1558,sameer.singh@eccouncil.org,PARTIALLY_REFUNDED,,"Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab",,,2,376.89,753.78,0,753.78,97.99,0.0,261.78,668.6,06-07-2026,US (Manual Bank Transfer),"========================
 RESTOCKING ENGINE
 
 Processed: 03 Jul 2026, 08:31:15 AM UTC

@@ -1,50 +1,52 @@
 import React from "react";
 
 export default function ReportsPage() {
+  const API_BASE = import.meta.env.VITE_API_URL || "http://localhost:8000";
+
   const REPORT_CONFIG = {
     payment: {
-      generate: "/api/payment-report",
-      download: "/api/payment-download",
+      generate: `${API_BASE}/api/payment-report`,
+      download: `${API_BASE}/api/payment-download`,
       filename: "payment_report.csv",
       requiresDates: true,
       successMessage: "Payment Report generated successfully.",
     },
 
     order_report: {
-      generate: "/api/order-report",
-      download: "/api/order-download",
+      generate: `${API_BASE}/api/order-report`,
+      download: `${API_BASE}/api/order-download`,
       filename: "order_report.csv",
       requiresDates: true,
       successMessage: "Order Report generated successfully.",
     },
 
     ar_report: {
-      generate: "/api/ar-report",
-      download: "/api/ar-download",
+      generate: `${API_BASE}/api/ar-report`,
+      download: `${API_BASE}/api/ar-download`,
       filename: "ar_aging_report.csv",
       requiresDates: true,
       successMessage: "AR Report generated successfully.",
     },
 
     refund_report: {
-      generate: "/api/refund-report",
-      download: "/api/refund-download",
+      generate: `${API_BASE}/api/refund-report`,
+      download: `${API_BASE}/api/refund-download`,
       filename: "refund_report.csv",
       requiresDates: true,
       successMessage: "Refund Report generated successfully.",
     },
 
     partner_master: {
-      generate: "/api/partner-master",
-      download: "/api/partner-master-download",
+      generate: `${API_BASE}/api/partner-master`,
+      download: `${API_BASE}/api/partner-master-download`,
       filename: "partner_master_report.csv",
       requiresDates: false,
       successMessage: "Partner Master generated successfully.",
     },
 
     product_master: {
-      generate: "/api/product-master",
-      download: "/api/product-master-download",
+      generate: `${API_BASE}/api/product-master`,
+      download: `${API_BASE}/api/product-master-download`,
       filename: "product_master_report.csv",
       requiresDates: false,
       successMessage: "Product Master generated successfully.",
