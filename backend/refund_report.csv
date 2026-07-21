@@ -1,0 +1,1338 @@
+﻿S. No,Return/refund order date,Order Name,Email ID,Refund Status,Product SKU,Product Name,Product Type,Product Category,Qty,List Price,Order Value,Discount Value,Subtotal,Tax Value,Shipping Charge,Restocking fee,Total Refund,Refunded At,Refund at Store credit,Reason for return,Currency,Partner code,SAP id,Company / Partner Name,Partner Type,Billing address,Billing City,Billing State Name,Billing State,Billing country full name,Billing Country,Billing Zip Code,Shipping address,Shipping City,Shipping State Name,Shipping State,Shipping country full name,Shipping Country,Shipping Zip Code,Sales Rep. Name,Sales Rep. Emp Code,Payment Reference,Payment Method,Payment Amt,Paid at (Date),Entity Name,sales_org Code,Entity,Division Name,Division Code,Profit Center,Payment Terms,Next Payment Due At,Comments,Fulfillment Status,Fulfilled at,Discount Code
+1,17-07-2026,#1589,moxi.patel.ctr@eccouncil.org,PARTIALLY_REFUNDED,CHFI-V11-DRM,Computer Hacking Forensic Investigator (CHFI) Version 11 eBook,DRM,CHFI,3,275.0,825.0,0,825.0,0.0,0.0,89.72,825.0,17-07-2026,shopify_store_credit,"========================
+RESTOCKING ENGINE
+
+Processed: 17 Jul 2026, 06:57:46 AM UTC
+
+Return ID: 13177290817
+
+Returned Item (1):
+
+• Computer Hacking Forensic Investigator (CHFI) Version 11 eBook
+  • Qty   : 3
+  • Value : USD 825.00
+
+Restocking Fee       : USD 82.50
+Tax Amount           : USD 7.22
+Final Deduction      : USD 89.72
+Cumulative Deduction : USD 89.72
+
+========================
+
+",USD,Null,,Test USA Entity,ATC,123 Madison Ave,Amityville,New York,NY,United States,US,11701,123 Madison Ave,Amityville,New York,NY,United States,US,11701,"Mia Carter
+",R4N2K8T,#1589.1,shopify_store_credit,825.0,17-07-2026,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,Net 7,24-07-2026,"========================
+RESTOCKING ENGINE
+
+Processed: 17 Jul 2026, 06:57:46 AM UTC
+
+Return ID: 13177290817
+
+Returned Item (1):
+
+• Computer Hacking Forensic Investigator (CHFI) Version 11 eBook
+  • Qty   : 3
+  • Value : USD 825.00
+
+Restocking Fee       : USD 82.50
+Tax Amount           : USD 7.22
+Final Deduction      : USD 89.72
+Cumulative Deduction : USD 89.72
+
+========================
+
+",SUCCESS,17-07-2026,
+2,14-07-2026,#1586,anandprakash.prasad@eccouncil.org,PARTIALLY_REFUNDED,CCT-V01-iLAB,Certified Cybersecurity Technician (CCT) Version 1 iLabs,iLabs,CCT,1,125.0,125.0,0,125.0,7.88,0.0,13.29,132.88,14-07-2026,US (Manual Bank Transfer),"========================
+RESTOCKING ENGINE
+
+Processed: 14 Jul 2026, 10:59:13 AM UTC
+
+Return ID: 13132136513
+
+Returned Item (1):
+
+• Certified Cybersecurity Technician (CCT) Version 1 iLabs
+  • Qty   : 1
+  • Value : USD 125.00
+
+Restocking Fee       : USD 12.50
+Tax Amount           : USD 0.79
+Final Deduction      : USD 13.29
+Cumulative Deduction : USD 13.29
+
+========================
+
+",USD,15edc89c-85d5-45a8-b9e1-086f1453792e,,Anand's Company,Academia,555 N 5th Ave APT 731,Phoenix,Arizona,AZ,United States,US,85003,555 N 5th Ave APT 731,Phoenix,Arizona,AZ,United States,US,85003,"Noah Hayes
+",E5P7R1K,#1586.2,US (Manual Bank Transfer),132.88,14-07-2026,International Council of E-Commerce Consultants Inc,SO16,ICEC,Academia US,016,201,Net 7,21-07-2026,"========================
+RESTOCKING ENGINE
+
+Processed: 14 Jul 2026, 10:59:13 AM UTC
+
+Return ID: 13132136513
+
+Returned Item (1):
+
+• Certified Cybersecurity Technician (CCT) Version 1 iLabs
+  • Qty   : 1
+  • Value : USD 125.00
+
+Restocking Fee       : USD 12.50
+Tax Amount           : USD 0.79
+Final Deduction      : USD 13.29
+Cumulative Deduction : USD 13.29
+
+========================
+
+",SUCCESS,14-07-2026,
+3,14-07-2026,#1574,sameer.singh@eccouncil.org,PARTIALLY_REFUNDED,CPENT-V02-iLEARN-US,"Certified Penetration Testing Professional (CPENT) Version 2- Includes 1 Year Access To Videos, e-Courseware, 6 Months iLabs Access And 90 Day Range Key",,,3,3170.27,9510.81,0,9510.81,1236.41,0.0,1074.72,9510.81,14-07-2026,Canada (Manual Bank Transfer),"========================
+RESTOCKING ENGINE
+
+Processed: 14 Jul 2026, 07:13:20 AM UTC
+
+Return ID: 13129482305
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2- Includes 1 Year Access To Videos, e-Courseware, 6 Months iLabs Access And 90 Day Range Key
+  • Qty   : 3
+  • Value : CAD 9510.81
+
+Restocking Fee       : CAD 951.08
+Tax Amount           : CAD 123.64
+Final Deduction      : CAD 1074.72
+Cumulative Deduction : CAD 1074.72
+
+========================
+
+",CAD,15edc89c-85d5-45a8-b9e1-086f1453792e,,Tata Sonic,Academia,82 Labadie Rd,Windsor,Ontario,ON,Canada,CA,N8W 4J7,82 Labadie Rd,Windsor,Ontario,ON,Canada,CA,N8W 4J7,"Logan Bryant
+",S2L8R3M,#1574.2,Canada (Manual Bank Transfer),9510.81,14-07-2026,EC-Council Canada Inc.,SO15,ECCC,Academia US,016,201,Net 7,21-07-2026,"========================
+RESTOCKING ENGINE
+
+Processed: 14 Jul 2026, 07:13:20 AM UTC
+
+Return ID: 13129482305
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2- Includes 1 Year Access To Videos, e-Courseware, 6 Months iLabs Access And 90 Day Range Key
+  • Qty   : 3
+  • Value : CAD 9510.81
+
+Restocking Fee       : CAD 951.08
+Tax Amount           : CAD 123.64
+Final Deduction      : CAD 1074.72
+Cumulative Deduction : CAD 1074.72
+
+========================
+
+",SUCCESS,14-07-2026,
+4,20-07-2026,#1567,Kurakula.Chaya@eccouncil.org,PARTIALLY_REFUNDED,,CASE .Java - Full Bundle,,,1,1399.0,5596.0,0,1399.0,447.68,0.0,151.09,1359.83,20-07-2026,US (Manual Bank Transfer),"========================
+RESTOCKING ENGINE
+
+Processed: 09 Jul 2026, 07:30:32 AM UTC
+
+Return ID: 13059522625
+
+Returned Item (1):
+
+• CASE .Java - Full Bundle
+  • Qty   : 1
+  • Value : USD 1500.00
+
+Restocking Fee       : USD 139.90
+Tax Amount           : USD 11.19
+Final Deduction      : USD 151.09
+Cumulative Deduction : USD 453.27
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 09 Jul 2026, 06:59:33 AM UTC
+
+Return ID: 13059162177
+
+Returned Item (1):
+
+• CASE .Java - Full Bundle
+  • Qty   : 1
+  • Value : USD 1399.00
+
+Restocking Fee       : USD 139.90
+Tax Amount           : USD 11.19
+Final Deduction      : USD 151.09
+Cumulative Deduction : USD 302.18
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 09 Jul 2026, 06:56:15 AM UTC
+
+Return ID: 13059063873
+
+Returned Item (1):
+
+• CASE .Java - Full Bundle
+  • Qty   : 1
+  • Value : USD 1399.00
+
+Restocking Fee       : USD 139.90
+Tax Amount           : USD 11.19
+Final Deduction      : USD 151.09
+Cumulative Deduction : USD 151.09
+
+========================
+
+",USD,Null,,Order Cap Test,,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,,,#1567.2,US (Manual Bank Transfer),1359.83,20-07-2026,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,Net 7,16-07-2026,"========================
+RESTOCKING ENGINE
+
+Processed: 09 Jul 2026, 07:30:32 AM UTC
+
+Return ID: 13059522625
+
+Returned Item (1):
+
+• CASE .Java - Full Bundle
+  • Qty   : 1
+  • Value : USD 1500.00
+
+Restocking Fee       : USD 139.90
+Tax Amount           : USD 11.19
+Final Deduction      : USD 151.09
+Cumulative Deduction : USD 453.27
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 09 Jul 2026, 06:59:33 AM UTC
+
+Return ID: 13059162177
+
+Returned Item (1):
+
+• CASE .Java - Full Bundle
+  • Qty   : 1
+  • Value : USD 1399.00
+
+Restocking Fee       : USD 139.90
+Tax Amount           : USD 11.19
+Final Deduction      : USD 151.09
+Cumulative Deduction : USD 302.18
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 09 Jul 2026, 06:56:15 AM UTC
+
+Return ID: 13059063873
+
+Returned Item (1):
+
+• CASE .Java - Full Bundle
+  • Qty   : 1
+  • Value : USD 1399.00
+
+Restocking Fee       : USD 139.90
+Tax Amount           : USD 11.19
+Final Deduction      : USD 151.09
+Cumulative Deduction : USD 151.09
+
+========================
+
+",SUCCESS,09-07-2026,
+5,20-07-2026,#1567,Kurakula.Chaya@eccouncil.org,PARTIALLY_REFUNDED,,CASE .Java - Full Bundle,,,1,1399.0,5596.0,0,1399.0,447.68,0.0,151.09,1359.83,20-07-2026,US (Manual Bank Transfer),"========================
+RESTOCKING ENGINE
+
+Processed: 09 Jul 2026, 07:30:32 AM UTC
+
+Return ID: 13059522625
+
+Returned Item (1):
+
+• CASE .Java - Full Bundle
+  • Qty   : 1
+  • Value : USD 1500.00
+
+Restocking Fee       : USD 139.90
+Tax Amount           : USD 11.19
+Final Deduction      : USD 151.09
+Cumulative Deduction : USD 453.27
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 09 Jul 2026, 06:59:33 AM UTC
+
+Return ID: 13059162177
+
+Returned Item (1):
+
+• CASE .Java - Full Bundle
+  • Qty   : 1
+  • Value : USD 1399.00
+
+Restocking Fee       : USD 139.90
+Tax Amount           : USD 11.19
+Final Deduction      : USD 151.09
+Cumulative Deduction : USD 302.18
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 09 Jul 2026, 06:56:15 AM UTC
+
+Return ID: 13059063873
+
+Returned Item (1):
+
+• CASE .Java - Full Bundle
+  • Qty   : 1
+  • Value : USD 1399.00
+
+Restocking Fee       : USD 139.90
+Tax Amount           : USD 11.19
+Final Deduction      : USD 151.09
+Cumulative Deduction : USD 151.09
+
+========================
+
+",USD,Null,,Order Cap Test,,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,,,#1567.3,US (Manual Bank Transfer),1359.83,20-07-2026,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,Net 7,16-07-2026,"========================
+RESTOCKING ENGINE
+
+Processed: 09 Jul 2026, 07:30:32 AM UTC
+
+Return ID: 13059522625
+
+Returned Item (1):
+
+• CASE .Java - Full Bundle
+  • Qty   : 1
+  • Value : USD 1500.00
+
+Restocking Fee       : USD 139.90
+Tax Amount           : USD 11.19
+Final Deduction      : USD 151.09
+Cumulative Deduction : USD 453.27
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 09 Jul 2026, 06:59:33 AM UTC
+
+Return ID: 13059162177
+
+Returned Item (1):
+
+• CASE .Java - Full Bundle
+  • Qty   : 1
+  • Value : USD 1399.00
+
+Restocking Fee       : USD 139.90
+Tax Amount           : USD 11.19
+Final Deduction      : USD 151.09
+Cumulative Deduction : USD 302.18
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 09 Jul 2026, 06:56:15 AM UTC
+
+Return ID: 13059063873
+
+Returned Item (1):
+
+• CASE .Java - Full Bundle
+  • Qty   : 1
+  • Value : USD 1399.00
+
+Restocking Fee       : USD 139.90
+Tax Amount           : USD 11.19
+Final Deduction      : USD 151.09
+Cumulative Deduction : USD 151.09
+
+========================
+
+",SUCCESS,09-07-2026,
+6,20-07-2026,#1567,Kurakula.Chaya@eccouncil.org,PARTIALLY_REFUNDED,,CASE .Java - Full Bundle,,,1,1399.0,5596.0,0,1399.0,447.68,0.0,151.09,1359.83,20-07-2026,US (Manual Bank Transfer),"========================
+RESTOCKING ENGINE
+
+Processed: 09 Jul 2026, 07:30:32 AM UTC
+
+Return ID: 13059522625
+
+Returned Item (1):
+
+• CASE .Java - Full Bundle
+  • Qty   : 1
+  • Value : USD 1500.00
+
+Restocking Fee       : USD 139.90
+Tax Amount           : USD 11.19
+Final Deduction      : USD 151.09
+Cumulative Deduction : USD 453.27
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 09 Jul 2026, 06:59:33 AM UTC
+
+Return ID: 13059162177
+
+Returned Item (1):
+
+• CASE .Java - Full Bundle
+  • Qty   : 1
+  • Value : USD 1399.00
+
+Restocking Fee       : USD 139.90
+Tax Amount           : USD 11.19
+Final Deduction      : USD 151.09
+Cumulative Deduction : USD 302.18
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 09 Jul 2026, 06:56:15 AM UTC
+
+Return ID: 13059063873
+
+Returned Item (1):
+
+• CASE .Java - Full Bundle
+  • Qty   : 1
+  • Value : USD 1399.00
+
+Restocking Fee       : USD 139.90
+Tax Amount           : USD 11.19
+Final Deduction      : USD 151.09
+Cumulative Deduction : USD 151.09
+
+========================
+
+",USD,Null,,Order Cap Test,,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,,,#1567.4,US (Manual Bank Transfer),1359.83,20-07-2026,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,Net 7,16-07-2026,"========================
+RESTOCKING ENGINE
+
+Processed: 09 Jul 2026, 07:30:32 AM UTC
+
+Return ID: 13059522625
+
+Returned Item (1):
+
+• CASE .Java - Full Bundle
+  • Qty   : 1
+  • Value : USD 1500.00
+
+Restocking Fee       : USD 139.90
+Tax Amount           : USD 11.19
+Final Deduction      : USD 151.09
+Cumulative Deduction : USD 453.27
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 09 Jul 2026, 06:59:33 AM UTC
+
+Return ID: 13059162177
+
+Returned Item (1):
+
+• CASE .Java - Full Bundle
+  • Qty   : 1
+  • Value : USD 1399.00
+
+Restocking Fee       : USD 139.90
+Tax Amount           : USD 11.19
+Final Deduction      : USD 151.09
+Cumulative Deduction : USD 302.18
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 09 Jul 2026, 06:56:15 AM UTC
+
+Return ID: 13059063873
+
+Returned Item (1):
+
+• CASE .Java - Full Bundle
+  • Qty   : 1
+  • Value : USD 1399.00
+
+Restocking Fee       : USD 139.90
+Tax Amount           : USD 11.19
+Final Deduction      : USD 151.09
+Cumulative Deduction : USD 151.09
+
+========================
+
+",SUCCESS,09-07-2026,
+7,20-07-2026,#1566,Kurakula.Chaya@eccouncil.org,PARTIALLY_REFUNDED,CPENT-V02-iLEARN-US,CPENT Training Course - Full Bundle,,,1,2199.0,43980.0,0,2199.0,3518.4,0.0,237.50,2137.42,20-07-2026,US (Manual Bank Transfer),"========================
+RESTOCKING ENGINE
+
+Processed: 09 Jul 2026, 05:06:23 AM UTC
+
+Return ID: 13058080833
+
+Returned Item (1):
+
+• CPENT Training Course - Full Bundle
+  • Qty   : 1
+  • Value : USD 2199.00
+
+Restocking Fee       : USD 219.90
+Tax Amount           : USD 17.60
+Final Deduction      : USD 237.50
+Cumulative Deduction : USD 1187.50
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 09 Jul 2026, 04:36:21 AM UTC
+
+Return ID: 13057556545
+
+Returned Item (1):
+
+• CPENT Training Course - Full Bundle
+  • Qty   : 1
+  • Value : USD 2199.00
+
+Restocking Fee       : USD 219.90
+Tax Amount           : USD 17.60
+Final Deduction      : USD 237.50
+Cumulative Deduction : USD 950.00
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 09 Jul 2026, 04:30:23 AM UTC
+
+Return ID: 13057491009
+
+Returned Item (1):
+
+• CPENT Training Course - Full Bundle
+  • Qty   : 1
+  • Value : USD 2199.00
+
+Restocking Fee       : USD 219.90
+Tax Amount           : USD 17.60
+Final Deduction      : USD 237.50
+Cumulative Deduction : USD 712.50
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 08 Jul 2026, 01:26:42 PM UTC
+
+Return ID: 13046022209
+
+Returned Item (1):
+
+• CPENT Training Course - Full Bundle
+  • Qty   : 1
+  • Value : USD 2199.00
+
+Restocking Fee       : USD 219.90
+Tax Amount           : USD 17.60
+Final Deduction      : USD 237.50
+Cumulative Deduction : USD 475.00
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 08 Jul 2026, 01:20:11 PM UTC
+
+Return ID: 13045792833
+
+Returned Item (1):
+
+• CPENT Training Course - Full Bundle
+  • Qty   : 1
+  • Value : USD 2199.00
+
+Restocking Fee       : USD 219.90
+Tax Amount           : USD 17.60
+Final Deduction      : USD 237.50
+Cumulative Deduction : USD 237.50
+
+========================
+
+",USD,Null,,Order Cap Test,,,,,,,,,Time Square Bldg 30001,Rochester,New York,NY,United States,US,14614,,,#1566.2,US (Manual Bank Transfer),2137.42,20-07-2026,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,Net 7,15-07-2026,"========================
+RESTOCKING ENGINE
+
+Processed: 09 Jul 2026, 05:06:23 AM UTC
+
+Return ID: 13058080833
+
+Returned Item (1):
+
+• CPENT Training Course - Full Bundle
+  • Qty   : 1
+  • Value : USD 2199.00
+
+Restocking Fee       : USD 219.90
+Tax Amount           : USD 17.60
+Final Deduction      : USD 237.50
+Cumulative Deduction : USD 1187.50
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 09 Jul 2026, 04:36:21 AM UTC
+
+Return ID: 13057556545
+
+Returned Item (1):
+
+• CPENT Training Course - Full Bundle
+  • Qty   : 1
+  • Value : USD 2199.00
+
+Restocking Fee       : USD 219.90
+Tax Amount           : USD 17.60
+Final Deduction      : USD 237.50
+Cumulative Deduction : USD 950.00
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 09 Jul 2026, 04:30:23 AM UTC
+
+Return ID: 13057491009
+
+Returned Item (1):
+
+• CPENT Training Course - Full Bundle
+  • Qty   : 1
+  • Value : USD 2199.00
+
+Restocking Fee       : USD 219.90
+Tax Amount           : USD 17.60
+Final Deduction      : USD 237.50
+Cumulative Deduction : USD 712.50
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 08 Jul 2026, 01:26:42 PM UTC
+
+Return ID: 13046022209
+
+Returned Item (1):
+
+• CPENT Training Course - Full Bundle
+  • Qty   : 1
+  • Value : USD 2199.00
+
+Restocking Fee       : USD 219.90
+Tax Amount           : USD 17.60
+Final Deduction      : USD 237.50
+Cumulative Deduction : USD 475.00
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 08 Jul 2026, 01:20:11 PM UTC
+
+Return ID: 13045792833
+
+Returned Item (1):
+
+• CPENT Training Course - Full Bundle
+  • Qty   : 1
+  • Value : USD 2199.00
+
+Restocking Fee       : USD 219.90
+Tax Amount           : USD 17.60
+Final Deduction      : USD 237.50
+Cumulative Deduction : USD 237.50
+
+========================
+
+",SUCCESS,08-07-2026,
+8,03-07-2026,#1560,sameer.singh@eccouncil.org,PARTIALLY_REFUNDED,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Labs + Exam prep w/ ECC Exam Voucher w/ RPS,iLabs + Prep EV + PU EV,EHE,2,75.99,151.98,0,151.98,7.6,0.0,16.42,143.16,03-07-2026,US (Manual Bank Transfer),"========================
+RESTOCKING ENGINE
+
+Processed: 03 Jul 2026, 09:01:01 AM UTC
+
+Return ID: 12962496577
+
+Returned Item (1):
+
+• EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volume 1 - 3) w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service)
+  • Qty   : 3
+  • Value : USD 1914.00
+
+Restocking Fee       : USD 191.40
+Tax Amount           : USD 15.32
+Final Deduction      : USD 206.72
+Cumulative Deduction : USD 223.14
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 03 Jul 2026, 08:59:45 AM UTC
+
+Return ID: 12962431041
+
+Returned Item (1):
+
+• Ethical Hacking Essentials (EHE) Labs + Exam prep w/ ECC Exam Voucher w/ RPS
+  • Qty   : 2
+  • Value : USD 151.98
+
+Restocking Fee       : USD 15.20
+Tax Amount           : USD 1.22
+Final Deduction      : USD 16.42
+Cumulative Deduction : USD 16.42
+
+========================
+
+",USD,Null,,Tata Sonic,Academia,,,,,,,,Time Square Bldg,Rochester,New York,NY,United States,US,14614,,,#1560.2,US (Manual Bank Transfer),143.16,03-07-2026,International Council of E-Commerce Consultants Inc,SO16,ICEC,Academia US,016,201,Net 7,10-07-2026,"========================
+RESTOCKING ENGINE
+
+Processed: 03 Jul 2026, 09:01:01 AM UTC
+
+Return ID: 12962496577
+
+Returned Item (1):
+
+• EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volume 1 - 3) w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service)
+  • Qty   : 3
+  • Value : USD 1914.00
+
+Restocking Fee       : USD 191.40
+Tax Amount           : USD 15.32
+Final Deduction      : USD 206.72
+Cumulative Deduction : USD 223.14
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 03 Jul 2026, 08:59:45 AM UTC
+
+Return ID: 12962431041
+
+Returned Item (1):
+
+• Ethical Hacking Essentials (EHE) Labs + Exam prep w/ ECC Exam Voucher w/ RPS
+  • Qty   : 2
+  • Value : USD 151.98
+
+Restocking Fee       : USD 15.20
+Tax Amount           : USD 1.22
+Final Deduction      : USD 16.42
+Cumulative Deduction : USD 16.42
+
+========================
+
+",SUCCESS,03-07-2026,
+9,17-07-2026,#1560,sameer.singh@eccouncil.org,PARTIALLY_REFUNDED,ECDE-V02-DRM-iLAB-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volume 1 - 3) w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),DRM W/PU EV + iLabs,CDE,3,638.0,1914.0,0,1914.0,95.7,0.0,206.72,2009.7,17-07-2026,US (Manual Bank Transfer),"========================
+RESTOCKING ENGINE
+
+Processed: 03 Jul 2026, 09:01:01 AM UTC
+
+Return ID: 12962496577
+
+Returned Item (1):
+
+• EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volume 1 - 3) w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service)
+  • Qty   : 3
+  • Value : USD 1914.00
+
+Restocking Fee       : USD 191.40
+Tax Amount           : USD 15.32
+Final Deduction      : USD 206.72
+Cumulative Deduction : USD 223.14
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 03 Jul 2026, 08:59:45 AM UTC
+
+Return ID: 12962431041
+
+Returned Item (1):
+
+• Ethical Hacking Essentials (EHE) Labs + Exam prep w/ ECC Exam Voucher w/ RPS
+  • Qty   : 2
+  • Value : USD 151.98
+
+Restocking Fee       : USD 15.20
+Tax Amount           : USD 1.22
+Final Deduction      : USD 16.42
+Cumulative Deduction : USD 16.42
+
+========================
+
+",USD,Null,,Tata Sonic,Academia,,,,,,,,Time Square Bldg,Rochester,New York,NY,United States,US,14614,,,#1560.3,US (Manual Bank Transfer),2009.7,17-07-2026,International Council of E-Commerce Consultants Inc,SO16,ICEC,Academia US,016,201,Net 7,10-07-2026,"========================
+RESTOCKING ENGINE
+
+Processed: 03 Jul 2026, 09:01:01 AM UTC
+
+Return ID: 12962496577
+
+Returned Item (1):
+
+• EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volume 1 - 3) w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service)
+  • Qty   : 3
+  • Value : USD 1914.00
+
+Restocking Fee       : USD 191.40
+Tax Amount           : USD 15.32
+Final Deduction      : USD 206.72
+Cumulative Deduction : USD 223.14
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 03 Jul 2026, 08:59:45 AM UTC
+
+Return ID: 12962431041
+
+Returned Item (1):
+
+• Ethical Hacking Essentials (EHE) Labs + Exam prep w/ ECC Exam Voucher w/ RPS
+  • Qty   : 2
+  • Value : USD 151.98
+
+Restocking Fee       : USD 15.20
+Tax Amount           : USD 1.22
+Final Deduction      : USD 16.42
+Cumulative Deduction : USD 16.42
+
+========================
+
+",SUCCESS,03-07-2026,
+10,06-07-2026,#1558,sameer.singh@eccouncil.org,PARTIALLY_REFUNDED,,"Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab",,,2,376.89,753.78,0,753.78,97.99,0.0,85.18,668.6,06-07-2026,US (Manual Bank Transfer),"========================
+RESTOCKING ENGINE
+
+Processed: 03 Jul 2026, 08:31:15 AM UTC
+
+Return ID: 12962136129
+
+Returned Items (2):
+
+1. Network Defense Essentials (NDE) courseware, video, Exam Voucher (RPS), lab
+   • Qty   : 3
+   • Value : CAD 1130.67
+
+2. Digital Forensics Essentials (DFE) Version 1 (ECL) - Full Bundle
+   • Qty   : 1
+   • Value : CAD 432.28
+
+Restocking Fee       : CAD 156.29
+Tax Amount           : CAD 20.31
+Final Deduction      : CAD 176.60
+Cumulative Deduction : CAD 261.78
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 03 Jul 2026, 08:28:54 AM UTC
+
+Return ID: 12962070593
+
+Returned Item (1):
+
+• Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab
+  • Qty   : 2
+  • Value : CAD 753.78
+
+Restocking Fee       : CAD 75.38
+Tax Amount           : CAD 9.80
+Final Deduction      : CAD 85.18
+Cumulative Deduction : CAD 85.18
+
+========================
+
+",CAD,Null,,Tata Sonic,,82 Labadie Rd,Windsor,Ontario,ON,Canada,CA,N8W 4J7,82 Labadie Rd,Windsor,Ontario,ON,Canada,CA,N8W 4J7,,,#1558.2,US (Manual Bank Transfer),668.6,06-07-2026,EC-Council Canada Inc.,SO15,ECCC,,,,Net 7,10-07-2026,"========================
+RESTOCKING ENGINE
+
+Processed: 03 Jul 2026, 08:31:15 AM UTC
+
+Return ID: 12962136129
+
+Returned Items (2):
+
+1. Network Defense Essentials (NDE) courseware, video, Exam Voucher (RPS), lab
+   • Qty   : 3
+   • Value : CAD 1130.67
+
+2. Digital Forensics Essentials (DFE) Version 1 (ECL) - Full Bundle
+   • Qty   : 1
+   • Value : CAD 432.28
+
+Restocking Fee       : CAD 156.29
+Tax Amount           : CAD 20.31
+Final Deduction      : CAD 176.60
+Cumulative Deduction : CAD 261.78
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 03 Jul 2026, 08:28:54 AM UTC
+
+Return ID: 12962070593
+
+Returned Item (1):
+
+• Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab
+  • Qty   : 2
+  • Value : CAD 753.78
+
+Restocking Fee       : CAD 75.38
+Tax Amount           : CAD 9.80
+Final Deduction      : CAD 85.18
+Cumulative Deduction : CAD 85.18
+
+========================
+
+",SUCCESS,03-07-2026,
+11,30-06-2026,#1547,sameer.singh@eccouncil.org,PARTIALLY_REFUNDED,CSCU-V03-iLAB-STDALONE,Certified Secure Computer User (CSCU) Version 3 Labs,iLabs,CSCU,2,19.99,39.98,0,39.98,2.7,0.0,,42.68,30-06-2026,manual,"
+
+
+--------------------------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-06-24T15:33:52.339576
+
+Return:
+gid://shopify/Return/12841844801
+
+Returned Items:
+
+• CSE v1 CyberQv2 Labs
+  Qty: 1
+  Value: $34.99
+
+
+Restocking Fee:
+3.5
+
+Tax:
+0.24
+
+Final Deduction:
+3.74
+
+Cumulative Total:
+3.74
+--------------------------------------------------
+
+
+
+--------------------------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-06-24T15:37:00.602521
+
+Return:
+gid://shopify/Return/12841877569
+
+Returned Items:
+
+• Certified Secure Computer User (CSCU) Version 3 Labs
+  Qty: 2
+  Value: $39.98
+
+
+Restocking Fee:
+4.0
+
+Tax:
+0.27
+
+Final Deduction:
+4.27
+
+Cumulative Total:
+8.01
+--------------------------------------------------
+
+
+
+----------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-07-01T08:22:12.368147
+
+Return:
+gid://shopify/Return/12933726273
+
+Returned Items:
+
+• Certified Threat Intelligence Analyst (CTIA) V2 e-Courseware
+  Qty: 1
+  Value: $180.0
+
+
+Restocking Fee:
+18.0
+Tax:
+1.22
+
+Final Deduction:
+19.22
+
+Cumulative Total:
+27.23
+----------------------------------
+
+
+
+----------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-07-01T08:25:24.755401
+
+Return:
+gid://shopify/Return/12933627969
+
+Returned Items:
+
+• Computer Hacking Forensic Investigator (CHFI) V11 e-Courseware
+  Qty: 1
+  Value: $275.0
+
+
+Restocking Fee:
+27.5
+Tax:
+1.86
+
+Final Deduction:
+29.36
+
+Cumulative Total:
+56.59
+----------------------------------
+",USD,Null,,Tata Sonic,ATC,Tara Allen,Saint Maries,Idaho,ID,United States,US,83861,Abca Ln,Louisburg,North Carolina,NC,United States,US,27549,,,#1547.3,manual,42.68,30-06-2026,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,Net 7,01-07-2026,"
+
+
+--------------------------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-06-24T15:33:52.339576
+
+Return:
+gid://shopify/Return/12841844801
+
+Returned Items:
+
+• CSE v1 CyberQv2 Labs
+  Qty: 1
+  Value: $34.99
+
+
+Restocking Fee:
+3.5
+
+Tax:
+0.24
+
+Final Deduction:
+3.74
+
+Cumulative Total:
+3.74
+--------------------------------------------------
+
+
+
+--------------------------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-06-24T15:37:00.602521
+
+Return:
+gid://shopify/Return/12841877569
+
+Returned Items:
+
+• Certified Secure Computer User (CSCU) Version 3 Labs
+  Qty: 2
+  Value: $39.98
+
+
+Restocking Fee:
+4.0
+
+Tax:
+0.27
+
+Final Deduction:
+4.27
+
+Cumulative Total:
+8.01
+--------------------------------------------------
+
+
+
+----------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-07-01T08:22:12.368147
+
+Return:
+gid://shopify/Return/12933726273
+
+Returned Items:
+
+• Certified Threat Intelligence Analyst (CTIA) V2 e-Courseware
+  Qty: 1
+  Value: $180.0
+
+
+Restocking Fee:
+18.0
+Tax:
+1.22
+
+Final Deduction:
+19.22
+
+Cumulative Total:
+27.23
+----------------------------------
+
+
+
+----------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-07-01T08:25:24.755401
+
+Return:
+gid://shopify/Return/12933627969
+
+Returned Items:
+
+• Computer Hacking Forensic Investigator (CHFI) V11 e-Courseware
+  Qty: 1
+  Value: $275.0
+
+
+Restocking Fee:
+27.5
+Tax:
+1.86
+
+Final Deduction:
+29.36
+
+Cumulative Total:
+56.59
+----------------------------------
+",SUCCESS,24-06-2026,
+12,30-06-2026,#1546,suraj.mistri@eccouncil.org,PARTIALLY_REFUNDED,DFE-V01-iLEARN,Digital Forensics Essentials (DFE) Version 1 (ECL) - Full Bundle,,,2,434.29,1737.16,173.71,781.73,187.61,0.0,48.64,731.73,30-06-2026,shopify_payments,"========================
+RESTOCKING ENGINE
+
+Processed: 14 Jul 2026, 07:35:22 AM UTC
+
+Return ID: 13129842753
+
+Returned Item (1):
+
+• Digital Forensics Essentials (DFE) Version 1 (ECL) - Full Bundle
+  • Qty   : 1
+  • Value : CAD 434.29
+
+Restocking Fee       : CAD 43.43
+Tax Amount           : CAD 5.21
+Final Deduction      : CAD 48.64
+Cumulative Deduction : CAD 147.28
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 14 Jul 2026, 07:30:19 AM UTC
+
+Return ID: 13129744449
+
+Returned Item (1):
+
+• Digital Forensics Essentials (DFE) Version 1 (ECL) - Full Bundle
+  • Qty   : 1
+  • Value : CAD 434.29
+
+Restocking Fee       : CAD 43.43
+Tax Amount           : CAD 5.21
+Final Deduction      : CAD 48.64
+Cumulative Deduction : CAD 98.64
+
+========================
+
+",CAD,15edc89c-85d5-45a8-b9e1-086f1453792e,SAP test,Sample Company,Academia,5693 Old Jacksonboro Road,Ravenel,South Carolina,SC,United States,US,29470,4741 Adelaide St,Abbotsford,British Columbia,BC,Canada,CA,V2T 3L7,"test Sales rep name 
+",USDTAI,z5TwL9rEWXupO1L0r6XSBNsvR,shopify_payments,731.73,30-06-2026,EC-Council Canada Inc.,SO15,ECCC,Academia US,016,201,,,"========================
+RESTOCKING ENGINE
+
+Processed: 14 Jul 2026, 07:35:22 AM UTC
+
+Return ID: 13129842753
+
+Returned Item (1):
+
+• Digital Forensics Essentials (DFE) Version 1 (ECL) - Full Bundle
+  • Qty   : 1
+  • Value : CAD 434.29
+
+Restocking Fee       : CAD 43.43
+Tax Amount           : CAD 5.21
+Final Deduction      : CAD 48.64
+Cumulative Deduction : CAD 147.28
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 14 Jul 2026, 07:30:19 AM UTC
+
+Return ID: 13129744449
+
+Returned Item (1):
+
+• Digital Forensics Essentials (DFE) Version 1 (ECL) - Full Bundle
+  • Qty   : 1
+  • Value : CAD 434.29
+
+Restocking Fee       : CAD 43.43
+Tax Amount           : CAD 5.21
+Final Deduction      : CAD 48.64
+Cumulative Deduction : CAD 98.64
+
+========================
+
+",SUCCESS,30-06-2026,10% Discount
+13,24-06-2026,#1544,suraj.mistri@eccouncil.org,PARTIALLY_REFUNDED,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,EC-Council Academia Continuing Education Bundle: CSCU Version 3,DRM W/PU EV + iLabs + iVideo,CSCU,2,143.65,574.6,0,287.3,68.95,0.0,32.18,293.04,24-06-2026,shopify_payments,"========================
+RESTOCKING ENGINE
+
+Processed: 14 Jul 2026, 07:30:55 AM UTC
+
+Return ID: 13129777217
+
+Returned Item (1):
+
+• EC-Council Academia Continuing Education Bundle: CSCU Version 3
+  • Qty   : 2
+  • Value : CAD 287.30
+
+Restocking Fee       : CAD 28.73
+Tax Amount           : CAD 3.45
+Final Deduction      : CAD 32.18
+Cumulative Deduction : CAD 32.18
+
+========================
+
+",CAD,15edc89c-85d5-45a8-b9e1-086f1453792e,SAP test,Sample Company,,5693 Old Jacksonboro Road,Ravenel,South Carolina,SC,United States,US,29470,4741 Adelaide St,Abbotsford,British Columbia,BC,Canada,CA,V2T 3L7,,USDTAI,z4OoGGV0BGicaytWSNjnRroSc,shopify_payments,293.04,24-06-2026,EC-Council Canada Inc.,SO15,ECCC,,,,,,"========================
+RESTOCKING ENGINE
+
+Processed: 14 Jul 2026, 07:30:55 AM UTC
+
+Return ID: 13129777217
+
+Returned Item (1):
+
+• EC-Council Academia Continuing Education Bundle: CSCU Version 3
+  • Qty   : 2
+  • Value : CAD 287.30
+
+Restocking Fee       : CAD 28.73
+Tax Amount           : CAD 3.45
+Final Deduction      : CAD 32.18
+Cumulative Deduction : CAD 32.18
+
+========================
+
+",SUCCESS,24-06-2026,
+14,03-07-2026,#1543,suraj.mistri@eccouncil.org,PARTIALLY_REFUNDED,,"Network Defense Essentials (NDE) courseware, video, Exam Voucher (RPS), lab",,,1,199.0,199.0,0,199.0,17.91,0.0,,216.91,03-07-2026,shopify_payments,,USD,15edc89c-85d5-45a8-b9e1-086f1453792e,SAP test,Sample Company,ATC,1237 Tice Lane,North Charleston,South Carolina,SC,United States,US,29405,1812 Orangeburg St,North Charleston,South Carolina,SC,United States,US,29405,"Hello World
+",BANN6645,z8c2UmsFDdpSQz6WPgJyOK0ee,shopify_payments,216.91,03-07-2026,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,,,,SUCCESS,24-06-2026,
+15,22-06-2026,#1530,suraj.mistri@eccouncil.org,PARTIALLY_REFUNDED,,"Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab",,,2,376.42,1505.68,0,752.84,75.28,0.0,,677.55,22-06-2026,shopify_payments,,CAD,Null,,Finance Test1,ATC,123 6 Ave SW,Calgary,Alberta,AB,Canada,CA,T2P 0P6,123 6 Ave SW,Calgary,Alberta,AB,Canada,CA,T2P 0P6,,,zrF9QcCW1HkmR0SJxWKE6wd55,shopify_payments,677.55,22-06-2026,EC-Council Canada Inc.,SO15,ECCC,Channel US,017,203,Net 15,07-07-2026,,SUCCESS,22-06-2026,
+16,22-06-2026,#1528,Ketan.thakar@eccouncil.org,PARTIALLY_REFUNDED,,"Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab",,,1,376.42,376.42,0,896.5899999999999,18.82,0.0,,851.75,22-06-2026,manual,,CAD,Null,,Finance Test1,ATC,,,,,,,,,,,,,,,,,#1528.2,manual,851.75,22-06-2026,EC-Council Canada Inc.,SO15,ECCC,Channel US,017,203,Net 15,07-07-2026,,SUCCESS,22-06-2026,
+17,22-06-2026,#1528,Ketan.thakar@eccouncil.org,PARTIALLY_REFUNDED,CHFI-V11-DRM,Computer Hacking Forensic Investigator (CHFI) V11 e-Courseware,DRM,CHFI,1,520.17,520.17,0,896.5899999999999,26.01,0.0,,851.75,22-06-2026,manual,,CAD,Null,,Finance Test1,ATC,,,,,,,,,,,,,,,,,#1528.2,manual,851.75,22-06-2026,EC-Council Canada Inc.,SO15,ECCC,Channel US,017,203,Net 15,07-07-2026,,SUCCESS,22-06-2026,
+18,22-06-2026,#1526,Ketan.thakar@eccouncil.org,PARTIALLY_REFUNDED,CTIA-V02-DRM,Certified Threat Intelligence Analyst (CTIA) V2 e-Courseware,DRM,CTIA,3,340.87,1022.61,0,1022.61,51.13,0.0,,971.47,22-06-2026,manual,,CAD,Null,,Finance Test1,ATC,,,,,,,,,,,,,,,,,#1526.2,manual,971.47,22-06-2026,EC-Council Canada Inc.,SO15,ECCC,Channel US,017,203,Net 15,07-07-2026,,SUCCESS,22-06-2026,
+19,22-06-2026,#1523,radicalnaksha@gmail.com,PARTIALLY_REFUNDED,,"Certified Ethical Hacker V13 E Courseware ,Exam Voucher,Ethical Hacking Video",,,1,760.0,760.0,0,760.0,50.16,0.0,,734.16,22-06-2026,manual,,USD,Null,,KETAN UNIVERSITY,,,,,,,,,,,,,,,,,,#1523.2,manual,734.16,22-06-2026,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,Net 7,29-06-2026,,SUCCESS,22-06-2026,
+20,17-07-2026,#1501,Ketan.thakar@eccouncil.org,REFUNDED,,"Network Defense Essentials (NDE) courseware, video, Exam Voucher (RPS), lab",,,1,375.03,375.03,0,375.03,18.75,0.0,,2471.51,17-07-2026,Canada (Manual Bank Transfer),,CAD,Null,,Finance Test1,ATC,123 6 Ave SW,Calgary,Alberta,AB,Canada,CA,T2P 0P6,123 6 Ave SW,Calgary,Alberta,AB,Canada,CA,T2P 0P6,,,#1501.2,Canada (Manual Bank Transfer),2471.51,17-07-2026,EC-Council Canada Inc.,SO15,ECCC,Channel US,017,203,Net 15,03-07-2026,,SUCCESS,18-06-2026,
+21,11-06-2026,#1474,suraj.mistri@eccouncil.org,PARTIALLY_REFUNDED,CSCU-V03-DRMVS-iLAB-EV-ECC,Certified Secure Computer User (CSCU) Version 3 eBook + Labs w/ ECC Exam Voucher,DRM W/ECC EV + iLabs,CSCU,2,64.99,324.95,0,129.98,26.0,0.0,,127.38,11-06-2026,US (Manual Bank Transfer),,USD,5678ghj56789,,Sample Company,Academia,4020 Franklin Pl,Vestal,New York,NY,United States,US,13850,,,,,,,,"Suraj mistri test
+",Sales rep owner code test,#1474.2,US (Manual Bank Transfer),127.38,11-06-2026,International Council of E-Commerce Consultants Inc,,,Academia US,016,201,Net 7,,,SUCCESS,11-06-2026,
+22,11-06-2026,#1474,suraj.mistri@eccouncil.org,PARTIALLY_REFUNDED,CSCU-V03-DRMVS-iLAB-EV-ECC,Certified Secure Computer User (CSCU) Version 3 eBook + Labs w/ ECC Exam Voucher,DRM W/ECC EV + iLabs,CSCU,1,64.99,324.95,0,64.99,26.0,0.0,,63.69,11-06-2026,US (Manual Bank Transfer),,USD,5678ghj56789,,Sample Company,Academia,4020 Franklin Pl,Vestal,New York,NY,United States,US,13850,,,,,,,,"Suraj mistri test
+",Sales rep owner code test,#1474.3,US (Manual Bank Transfer),63.69,11-06-2026,International Council of E-Commerce Consultants Inc,,,Academia US,016,201,Net 7,,,SUCCESS,11-06-2026,
+23,12-06-2026,#1474,suraj.mistri@eccouncil.org,PARTIALLY_REFUNDED,CSCU-V03-DRMVS-iLAB-EV-ECC,Certified Secure Computer User (CSCU) Version 3 eBook + Labs w/ ECC Exam Voucher,DRM W/ECC EV + iLabs,CSCU,2,64.99,324.95,0,129.98,26.0,0.0,,140.38,12-06-2026,US (Manual Bank Transfer),,USD,5678ghj56789,,Sample Company,Academia,4020 Franklin Pl,Vestal,New York,NY,United States,US,13850,,,,,,,,"Suraj mistri test
+",Sales rep owner code test,#1474.4,US (Manual Bank Transfer),140.38,12-06-2026,International Council of E-Commerce Consultants Inc,,,Academia US,016,201,Net 7,,,SUCCESS,11-06-2026,
+24,11-06-2026,#1473,anandprakash.prasad@eccouncil.org,PARTIALLY_REFUNDED,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,EC-Council Academia Continuing Education Bundle: CSCU Version 3,DRM W/PU EV + iLabs + iVideo,CSCU,1,99.0,99.0,0,99.0,7.92,0.0,,97.02,11-06-2026,shopify_payments,,USD,,,TCS,,NY 2,Cropseyville,New York,NY,United States,US,12052,,,,,,,,,,ziB3lhWxAbhRnzwSDkXiRge8O,shopify_payments,97.02,11-06-2026,International Council of E-Commerce Consultants Inc,,,,,,,,,SUCCESS,11-06-2026,
+25,11-06-2026,#1472,anandprakash.prasad@eccouncil.org,REFUNDED,CSCU-V03-DRMVS-iLAB-EV-ECC,Certified Secure Computer User (CSCU) Version 3 eBook + Labs w/ ECC Exam Voucher,DRM W/ECC EV + iLabs,CSCU,1,64.99,64.99,0,64.99,5.2,0.0,,70.19,11-06-2026,shopify_store_credit,,USD,,,TCS,,NY 2,Cropseyville,New York,NY,United States,US,12052,,,,,,,,,,#1472.1,shopify_store_credit,70.19,11-06-2026,International Council of E-Commerce Consultants Inc,,,,,,,,,SUCCESS,11-06-2026,
+26,09-06-2026,#1464,wugizufo@denipl.net,PARTIALLY_REFUNDED,CPENT-V02-iLEARN-US,CPENT Training Course - Full Bundle,,,1,2199.0,6597.0,0,2199.0,577.24,0.0,,2391.41,09-06-2026,shopify_store_credit,,USD,Null,,Dell,,Brookhaven Ave abc,Bellport,New York,NY,United States,US,11713,,,,,,,,,,#1464.1,shopify_store_credit,2391.41,09-06-2026,International Council of E-Commerce Consultants Inc,,,,,,Net 7,,,SUCCESS,09-06-2026,
+27,09-06-2026,#1462,wugizufo@denipl.net,PARTIALLY_REFUNDED,,CASE .Java - Full Bundle,,,1,1399.0,1399.0,0,1399.0,122.42,0.0,,1381.52,09-06-2026,shopify_store_credit,,USD,Null,,Dell,,Brookhaven Ave abc,Bellport,New York,NY,United States,US,11713,Brookhaven Ave abc,Bellport,New York,NY,United States,US,11713,,,#1462.3,shopify_store_credit,1381.52,09-06-2026,International Council of E-Commerce Consultants Inc,,,,,,Net 7,,,SUCCESS,09-06-2026,
+28,05-06-2026,#1447,radicalnaksha@gmail.com,PARTIALLY_REFUNDED,,"Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab",,,1,199.0,199.0,0,398.0,13.139999999999999,0.0,,384.48,05-06-2026,manual,,USD,Null,,KETAN UNIVERSITY,,,,,,,,,,,,,,,,,,#1447.2,manual,384.48,05-06-2026,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,Net 7,,,SUCCESS,05-06-2026,
+29,05-06-2026,#1447,radicalnaksha@gmail.com,PARTIALLY_REFUNDED,,"Ethical Hacking Essentials (EHE) courseware, video, Exam Voucher (RPS), lab",,,1,199.0,199.0,0,398.0,13.139999999999999,0.0,,384.48,05-06-2026,manual,,USD,Null,,KETAN UNIVERSITY,,,,,,,,,,,,,,,,,,#1447.2,manual,384.48,05-06-2026,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,Net 7,,,SUCCESS,05-06-2026,
+30,05-06-2026,#1443,radicalnaksha@gmail.com,PARTIALLY_REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) V2 - e-Courseware Inclusive of Exam Voucher (RPS), CPENT Cyber Range for 90 Days and iLabs for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1050.0,1050.0,0,1050.0,69.3,0.0,,1014.3,05-06-2026,manual,,USD,Null,,KETAN UNIVERSITY,,,,,,,,,,,,,,,,,,#1443.2,manual,1014.3,05-06-2026,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,Net 7,,,SUCCESS,04-06-2026,
+31,02-06-2026,#1439,damlunolta@necub.com,PARTIALLY_REFUNDED,ECDE-V02-DRM-iLAB-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volume 1 - 3) w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),DRM W/PU EV + iLabs,CDE,2,638.0,2552.0,0,1276.0,0.0,0.0,,1148.4,02-06-2026,shopify_store_credit,,USD,Null,,Test Finance,,,,,,,,,,,,,,,,,,#1439.2,shopify_store_credit,1148.4,02-06-2026,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,Net 7,,,SUCCESS,02-06-2026,
+32,09-06-2026,#1439,damlunolta@necub.com,PARTIALLY_REFUNDED,ECDE-V02-DRM-iLAB-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volume 1 - 3) w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),DRM W/PU EV + iLabs,CDE,2,638.0,2552.0,0,1276.0,0.0,0.0,,1276.0,09-06-2026,shopify_store_credit,,USD,Null,,Test Finance,,,,,,,,,,,,,,,,,,#1439.3,shopify_store_credit,1276.0,09-06-2026,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,Net 7,,,SUCCESS,02-06-2026,
+33,02-06-2026,#1438,damlunolta@necub.com,PARTIALLY_REFUNDED,CSCU-V03-DRMVS-iLAB-EV-ECC,Certified Secure Computer User (CSCU) Version 3 eBook + Labs w/ ECC Exam Voucher,DRM W/ECC EV + iLabs,CSCU,1,64.99,64.99,0,64.99,0.0,0.0,,58.49,02-06-2026,shopify_store_credit,,USD,Null,,Test Finance,,,,,,,,,,,,,,,,,,#1438.2,shopify_store_credit,58.49,02-06-2026,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,Net 7,,,SUCCESS,02-06-2026,
+34,17-07-2026,#1396,gargeepawarecc@gmail.com,REFUNDED,,"Network Defense Essentials (NDE) courseware, video, Exam Voucher (RPS), lab",,,1,365.64,365.64,0,365.64,47.53,0.0,,50.47,17-07-2026,manual,,CAD,Null,,Tata Sonic,,82 Labadie Rd,Windsor,Ontario,ON,Canada,CA,N8W 4J7,82 Labadie Rd,Windsor,Ontario,ON,Canada,CA,N8W 4J7,,,#1396.4,manual,50.47,17-07-2026,EC-Council Canada Inc.,,,,,,,,,SUCCESS,17-07-2026,
+35,17-07-2026,#1396,gargeepawarecc@gmail.com,REFUNDED,,,,,,,,0,0.0,0,0.0,,47.53,17-07-2026,manual,,CAD,Null,,Tata Sonic,,82 Labadie Rd,Windsor,Ontario,ON,Canada,CA,N8W 4J7,82 Labadie Rd,Windsor,Ontario,ON,Canada,CA,N8W 4J7,,,#1396.5,manual,47.53,17-07-2026,EC-Council Canada Inc.,,,,,,,,,SUCCESS,17-07-2026,
+36,13-05-2026,#1391,Ketan.thakar@eccouncil.org,PARTIALLY_REFUNDED,ACCISO-V03-DRM-v02,Associate CCISOv3 Volume 2 eBook (Information Systems Risk Controls and Auditing Management),DRM,ACCISO,1,49.99,49.99,0,49.99,0.0,0.0,,44.99,13-05-2026,shopify_store_credit,,USD,Null,,Finance Test1,,5343 Dorchester Road,North Charleston,South Carolina,SC,United States,US,29418,5343 Dorchester Road,North Charleston,South Carolina,SC,United States,US,29418,,,#1391.1,shopify_store_credit,44.99,13-05-2026,International Council of E-Commerce Consultants Inc,,,,,,,,,SUCCESS,13-05-2026,
+37,13-05-2026,#1391,Ketan.thakar@eccouncil.org,PARTIALLY_REFUNDED,ACCISO-V03-DRM-v01,Associate CCISOv3 Volume 1 eBook (Information Systems Governance),DRM,ACCISO,1,49.99,49.99,0,49.99,0.0,0.0,,44.99,13-05-2026,shopify_store_credit,,USD,Null,,Finance Test1,,5343 Dorchester Road,North Charleston,South Carolina,SC,United States,US,29418,5343 Dorchester Road,North Charleston,South Carolina,SC,United States,US,29418,,,#1391.2,shopify_store_credit,44.99,13-05-2026,International Council of E-Commerce Consultants Inc,,,,,,,,,SUCCESS,13-05-2026,

@@ -1,0 +1,892 @@
+﻿S. No,Order Date,Order Number,Email ID,Payment Status,SKU Code,Product Name,Product Type,Product Category,Qty,List Price,Order Value,Discount Value,Subtotal,Tax Value,Shipping Charge,Grand Total,Currency,SAP ID,Cert ID,Company / Partner Name,Partner Type,Billing Address,Billing City,Billing State Name,Billing State,Billing Country Name,Billing Country,Billing Zip Code,Shipping Address,Shipping City,Shipping State Name,Shipping State,Shipping Country Name,Shipping Country,Shipping Zip Code,Sales Rep Name,Sales Rep Emp Code,Payment Terms,Payment Reference,Payment Method,Next Payment Due At,Entity Name,Sales Org Code,Entity,Division Name,Division Code,Profit Center,Comments,Fulfillment Status,Fulfilled At,Discount Code
+1,2026-06-29T11:47:44Z,#1549,eccouncilwork@gmail.com,PENDING,AIE-V01-iLEARN,Artificial Intelligence Essentials (AIE) Version 1 iLearn Kit,prodduct type,product category,1,432.86,432.86,0,432.86,51.94,0.0,484.8,CAD,,,Moxiiii QA Tax Exe,Academia,800 Robson St,Vancouver,British Columbia,BC,Canada,CA,V6Z 3B7,800 Robson St,Vancouver,British Columbia,BC,Canada,CA,V6Z 3B7,,,Net 45,,,2026-08-13,EC-Council Canada Inc.,SO15,ECCC,Academia US,016,201,,,,
+2,2026-06-29T10:13:05Z,#1548,eccouncilwork@gmail.com,PENDING,AIE-V01-iLEARN,Artificial Intelligence Essentials (AIE) Version 1 iLearn Kit,prodduct type,product category,1,432.79,432.79,0,432.79,51.93,0.0,484.72,CAD,,,Moxiiii QA Tax Exe,Academia,800 Robson St,Vancouver,British Columbia,BC,Canada,CA,V6Z 3B7,800 Robson St,Vancouver,British Columbia,BC,Canada,CA,V6Z 3B7,,,Net 45,,,2026-08-13,EC-Council Canada Inc.,SO15,ECCC,Academia US,016,201,,,,
+3,2026-06-24T15:29:20Z,#1547,sameer.singh@eccouncil.org,PARTIALLY_REFUNDED,112390000582924011,CSE v1 CyberQv2 Labs,,,1,34.99,34.99,0,529.97,35.77,0.0,565.74,USD,,,Tata Sonic,ATC,Tara Allen,Saint Maries,Idaho,ID,United States,US,83861,Abca Ln,Louisburg,North Carolina,NC,United States,US,27549,,,Net 7,#1547.3,manual,2026-07-01,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,"
+
+
+--------------------------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-06-24T15:33:52.339576
+
+Return:
+gid://shopify/Return/12841844801
+
+Returned Items:
+
+• CSE v1 CyberQv2 Labs
+  Qty: 1
+  Value: $34.99
+
+
+Restocking Fee:
+3.5
+
+Tax:
+0.24
+
+Final Deduction:
+3.74
+
+Cumulative Total:
+3.74
+--------------------------------------------------
+
+
+
+--------------------------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-06-24T15:37:00.602521
+
+Return:
+gid://shopify/Return/12841877569
+
+Returned Items:
+
+• Certified Secure Computer User (CSCU) Version 3 Labs
+  Qty: 2
+  Value: $39.98
+
+
+Restocking Fee:
+4.0
+
+Tax:
+0.27
+
+Final Deduction:
+4.27
+
+Cumulative Total:
+8.01
+--------------------------------------------------
+
+
+
+----------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-07-01T08:22:12.368147
+
+Return:
+gid://shopify/Return/12933726273
+
+Returned Items:
+
+• Certified Threat Intelligence Analyst (CTIA) V2 e-Courseware
+  Qty: 1
+  Value: $180.0
+
+
+Restocking Fee:
+18.0
+Tax:
+1.22
+
+Final Deduction:
+19.22
+
+Cumulative Total:
+27.23
+----------------------------------
+
+
+
+----------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-07-01T08:25:24.755401
+
+Return:
+gid://shopify/Return/12933627969
+
+Returned Items:
+
+• Computer Hacking Forensic Investigator (CHFI) V11 e-Courseware
+  Qty: 1
+  Value: $275.0
+
+
+Restocking Fee:
+27.5
+Tax:
+1.86
+
+Final Deduction:
+29.36
+
+Cumulative Total:
+56.59
+----------------------------------
+",SUCCESS,2026-06-24T15:30:20Z,
+4,2026-06-24T15:29:20Z,#1547,sameer.singh@eccouncil.org,PARTIALLY_REFUNDED,112390000582861444,Certified Secure Computer User (CSCU) Version 3 Labs,,,2,19.99,39.98,0,529.97,35.77,0.0,565.74,USD,,,Tata Sonic,ATC,Tara Allen,Saint Maries,Idaho,ID,United States,US,83861,Abca Ln,Louisburg,North Carolina,NC,United States,US,27549,,,Net 7,#1547.3,manual,2026-07-01,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,"
+
+
+--------------------------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-06-24T15:33:52.339576
+
+Return:
+gid://shopify/Return/12841844801
+
+Returned Items:
+
+• CSE v1 CyberQv2 Labs
+  Qty: 1
+  Value: $34.99
+
+
+Restocking Fee:
+3.5
+
+Tax:
+0.24
+
+Final Deduction:
+3.74
+
+Cumulative Total:
+3.74
+--------------------------------------------------
+
+
+
+--------------------------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-06-24T15:37:00.602521
+
+Return:
+gid://shopify/Return/12841877569
+
+Returned Items:
+
+• Certified Secure Computer User (CSCU) Version 3 Labs
+  Qty: 2
+  Value: $39.98
+
+
+Restocking Fee:
+4.0
+
+Tax:
+0.27
+
+Final Deduction:
+4.27
+
+Cumulative Total:
+8.01
+--------------------------------------------------
+
+
+
+----------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-07-01T08:22:12.368147
+
+Return:
+gid://shopify/Return/12933726273
+
+Returned Items:
+
+• Certified Threat Intelligence Analyst (CTIA) V2 e-Courseware
+  Qty: 1
+  Value: $180.0
+
+
+Restocking Fee:
+18.0
+Tax:
+1.22
+
+Final Deduction:
+19.22
+
+Cumulative Total:
+27.23
+----------------------------------
+
+
+
+----------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-07-01T08:25:24.755401
+
+Return:
+gid://shopify/Return/12933627969
+
+Returned Items:
+
+• Computer Hacking Forensic Investigator (CHFI) V11 e-Courseware
+  Qty: 1
+  Value: $275.0
+
+
+Restocking Fee:
+27.5
+Tax:
+1.86
+
+Final Deduction:
+29.36
+
+Cumulative Total:
+56.59
+----------------------------------
+",SUCCESS,2026-06-24T15:30:20Z,
+5,2026-06-24T15:29:20Z,#1547,sameer.singh@eccouncil.org,PARTIALLY_REFUNDED,,Computer Hacking Forensic Investigator (CHFI) V11 e-Courseware,,,1,275.0,275.0,0,529.97,35.77,0.0,565.74,USD,,,Tata Sonic,ATC,Tara Allen,Saint Maries,Idaho,ID,United States,US,83861,Abca Ln,Louisburg,North Carolina,NC,United States,US,27549,,,Net 7,#1547.3,manual,2026-07-01,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,"
+
+
+--------------------------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-06-24T15:33:52.339576
+
+Return:
+gid://shopify/Return/12841844801
+
+Returned Items:
+
+• CSE v1 CyberQv2 Labs
+  Qty: 1
+  Value: $34.99
+
+
+Restocking Fee:
+3.5
+
+Tax:
+0.24
+
+Final Deduction:
+3.74
+
+Cumulative Total:
+3.74
+--------------------------------------------------
+
+
+
+--------------------------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-06-24T15:37:00.602521
+
+Return:
+gid://shopify/Return/12841877569
+
+Returned Items:
+
+• Certified Secure Computer User (CSCU) Version 3 Labs
+  Qty: 2
+  Value: $39.98
+
+
+Restocking Fee:
+4.0
+
+Tax:
+0.27
+
+Final Deduction:
+4.27
+
+Cumulative Total:
+8.01
+--------------------------------------------------
+
+
+
+----------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-07-01T08:22:12.368147
+
+Return:
+gid://shopify/Return/12933726273
+
+Returned Items:
+
+• Certified Threat Intelligence Analyst (CTIA) V2 e-Courseware
+  Qty: 1
+  Value: $180.0
+
+
+Restocking Fee:
+18.0
+Tax:
+1.22
+
+Final Deduction:
+19.22
+
+Cumulative Total:
+27.23
+----------------------------------
+
+
+
+----------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-07-01T08:25:24.755401
+
+Return:
+gid://shopify/Return/12933627969
+
+Returned Items:
+
+• Computer Hacking Forensic Investigator (CHFI) V11 e-Courseware
+  Qty: 1
+  Value: $275.0
+
+
+Restocking Fee:
+27.5
+Tax:
+1.86
+
+Final Deduction:
+29.36
+
+Cumulative Total:
+56.59
+----------------------------------
+",SUCCESS,2026-06-24T15:30:20Z,
+6,2026-06-24T15:29:20Z,#1547,sameer.singh@eccouncil.org,PARTIALLY_REFUNDED,,Certified Threat Intelligence Analyst (CTIA) V2 e-Courseware,,,1,180.0,180.0,0,529.97,35.77,0.0,565.74,USD,,,Tata Sonic,ATC,Tara Allen,Saint Maries,Idaho,ID,United States,US,83861,Abca Ln,Louisburg,North Carolina,NC,United States,US,27549,,,Net 7,#1547.3,manual,2026-07-01,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,"
+
+
+--------------------------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-06-24T15:33:52.339576
+
+Return:
+gid://shopify/Return/12841844801
+
+Returned Items:
+
+• CSE v1 CyberQv2 Labs
+  Qty: 1
+  Value: $34.99
+
+
+Restocking Fee:
+3.5
+
+Tax:
+0.24
+
+Final Deduction:
+3.74
+
+Cumulative Total:
+3.74
+--------------------------------------------------
+
+
+
+--------------------------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-06-24T15:37:00.602521
+
+Return:
+gid://shopify/Return/12841877569
+
+Returned Items:
+
+• Certified Secure Computer User (CSCU) Version 3 Labs
+  Qty: 2
+  Value: $39.98
+
+
+Restocking Fee:
+4.0
+
+Tax:
+0.27
+
+Final Deduction:
+4.27
+
+Cumulative Total:
+8.01
+--------------------------------------------------
+
+
+
+----------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-07-01T08:22:12.368147
+
+Return:
+gid://shopify/Return/12933726273
+
+Returned Items:
+
+• Certified Threat Intelligence Analyst (CTIA) V2 e-Courseware
+  Qty: 1
+  Value: $180.0
+
+
+Restocking Fee:
+18.0
+Tax:
+1.22
+
+Final Deduction:
+19.22
+
+Cumulative Total:
+27.23
+----------------------------------
+
+
+
+----------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-07-01T08:25:24.755401
+
+Return:
+gid://shopify/Return/12933627969
+
+Returned Items:
+
+• Computer Hacking Forensic Investigator (CHFI) V11 e-Courseware
+  Qty: 1
+  Value: $275.0
+
+
+Restocking Fee:
+27.5
+Tax:
+1.86
+
+Final Deduction:
+29.36
+
+Cumulative Total:
+56.59
+----------------------------------
+",SUCCESS,2026-06-24T15:30:20Z,
+7,2026-06-24T13:16:08Z,#1546,suraj.mistri@eccouncil.org,PARTIALLY_REFUNDED,,Digital Forensics Essentials (DFE) Version 1 (ECL) - Full Bundle,,,4,434.29,1737.16,173.71,1563.45,187.61,0.0,1751.06,CAD,SAP test,454323456789,Sample Company,Academia,5693 Old Jacksonboro Road,Ravenel,South Carolina,SC,United States,US,29470,4741 Adelaide St,Abbotsford,British Columbia,BC,Canada,CA,V2T 3L7,"test Sales rep name 
+",USDTAI,,z5TwL9rEWXupO1L0r6XSBNsvR,shopify_payments,,EC-Council Canada Inc.,SO15,ECCC,Academia US,016,201,,SUCCESS,2026-06-30T07:30:21Z,10% Discount
+8,2026-06-24T12:56:43Z,#1545,suraj.mistri@eccouncil.org,PAID,112390000552808107,EC-Council Academia Continuing Education Bundle: CSCU Version 3,,,3,143.65,430.95,0,430.95,51.71,0.0,482.66,CAD,SAP test,454323456789,Sample Company,Academia,5693 Old Jacksonboro Road,Ravenel,South Carolina,SC,United States,US,29470,4741 Adelaide St,Abbotsford,British Columbia,BC,Canada,CA,V2T 3L7,"test Sales rep name 
+",USDTAI,,rirwm3sPpv6JuPn2xEJbqhaH7,shopify_payments,,EC-Council Canada Inc.,SO15,ECCC,Academia US,016,201,,,,
+9,2026-06-24T12:20:06Z,#1544,suraj.mistri@eccouncil.org,PARTIALLY_REFUNDED,112390000552808107,EC-Council Academia Continuing Education Bundle: CSCU Version 3,,,4,143.65,574.6,0,574.6,68.95,0.0,672.28,CAD,SAP test,454323456789,Sample Company,,5693 Old Jacksonboro Road,Ravenel,South Carolina,SC,United States,US,29470,4741 Adelaide St,Abbotsford,British Columbia,BC,Canada,CA,V2T 3L7,,USDTAI,,z4OoGGV0BGicaytWSNjnRroSc,shopify_payments,,EC-Council Canada Inc.,SO15,ECCC,,,,,SUCCESS,2026-06-24T12:21:01Z,
+10,2026-06-24T12:08:11Z,#1543,suraj.mistri@eccouncil.org,PARTIALLY_REFUNDED,,"Network Defense Essentials (NDE) courseware, video, Exam Voucher (RPS), lab",,,1,199.0,199.0,0,2299.0,206.91,0.0,2505.91,USD,SAP test,454323456789,Sample Company,ATC,1237 Tice Lane,North Charleston,South Carolina,SC,United States,US,29405,1812 Orangeburg St,North Charleston,South Carolina,SC,United States,US,29405,"Hello World
+",BANN6645,,z8c2UmsFDdpSQz6WPgJyOK0ee,shopify_payments,,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,,SUCCESS,2026-06-24T12:09:06Z,
+11,2026-06-24T12:08:11Z,#1543,suraj.mistri@eccouncil.org,PARTIALLY_REFUNDED,,"Certified Penetration Testing Professional (CPENT) V2 - e-Courseware Inclusive of Exam Voucher (RPS), CPENT Cyber Range for 90 Days and iLabs for 180 Days",,,2,1050.0,2100.0,0,2299.0,206.91,0.0,2505.91,USD,SAP test,454323456789,Sample Company,ATC,1237 Tice Lane,North Charleston,South Carolina,SC,United States,US,29405,1812 Orangeburg St,North Charleston,South Carolina,SC,United States,US,29405,"Hello World
+",BANN6645,,z8c2UmsFDdpSQz6WPgJyOK0ee,shopify_payments,,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,,SUCCESS,2026-06-24T12:09:06Z,
+12,2026-06-24T12:06:40Z,#1542,suraj.mistri@eccouncil.org,PAID,,"Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab",,,2,199.0,398.0,0,995.0,89.55,0.0,1084.55,USD,SAP test,454323456789,Sample Company,ATC,1237 Tice Lane,North Charleston,South Carolina,SC,United States,US,29405,1812 Orangeburg St,North Charleston,South Carolina,SC,United States,US,29405,"Hello World
+",BANN6645,,rVVBASp4vY1eqVqoNo4Jzo4OR,shopify_payments,,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,,SUCCESS,2026-06-24T12:09:05Z,
+13,2026-06-24T12:06:40Z,#1542,suraj.mistri@eccouncil.org,PAID,,"Network Defense Essentials (NDE) courseware, video, Exam Voucher (RPS), lab",,,3,199.0,597.0,0,995.0,89.55,0.0,1084.55,USD,SAP test,454323456789,Sample Company,ATC,1237 Tice Lane,North Charleston,South Carolina,SC,United States,US,29405,1812 Orangeburg St,North Charleston,South Carolina,SC,United States,US,29405,"Hello World
+",BANN6645,,rVVBASp4vY1eqVqoNo4Jzo4OR,shopify_payments,,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,,SUCCESS,2026-06-24T12:09:05Z,
+14,2026-06-24T12:05:53Z,#1541,suraj.mistri@eccouncil.org,PAID,112390000552808107,EC-Council Academia Continuing Education Bundle: CSCU Version 3,,,2,143.66,287.32,0,5768.73,692.25,0.0,6460.98,CAD,SAP test,454323456789,Sample Company,,5693 Old Jacksonboro Road,Ravenel,South Carolina,SC,United States,US,29470,4741 Adelaide St,Abbotsford,British Columbia,BC,Canada,CA,V2T 3L7,,USDTAI,,rfQ4Me7ALvq3vgT4TRC3bwEXd,shopify_payments,,EC-Council Canada Inc.,SO15,ECCC,,,,,SUCCESS,2026-06-24T12:08:41Z,10% Discount
+15,2026-06-24T12:05:53Z,#1541,suraj.mistri@eccouncil.org,PAID,,CASE .Java - Full Bundle,,,3,2030.15,6090.45,609.04,5768.73,692.25,0.0,6460.98,CAD,SAP test,454323456789,Sample Company,,5693 Old Jacksonboro Road,Ravenel,South Carolina,SC,United States,US,29470,4741 Adelaide St,Abbotsford,British Columbia,BC,Canada,CA,V2T 3L7,,USDTAI,,rfQ4Me7ALvq3vgT4TRC3bwEXd,shopify_payments,,EC-Council Canada Inc.,SO15,ECCC,,,,,SUCCESS,2026-06-24T12:08:41Z,10% Discount
+16,2026-06-24T12:05:09Z,#1540,suraj.mistri@eccouncil.org,PAID,112390000552808107,EC-Council Academia Continuing Education Bundle: CSCU Version 3,,,2,143.66,287.32,0,287.32,0.0,0.0,287.32,CAD,SAP test,454323456789,Sample Company,,5693 Old Jacksonboro Road,Ravenel,South Carolina,SC,United States,US,29470,,,,,,,,,USDTAI,,rZKfThQ4gVDNltc1cBYeiO1KN,shopify_payments,,EC-Council Canada Inc.,SO15,ECCC,,,,,SUCCESS,2026-06-24T12:09:05Z,
+17,2026-06-24T07:45:10Z,#1539,moxi.patel.ctr@eccouncil.org,PENDING,,Digital Forensics Essentials (DFE) Version 1 (ECL) - Full Bundle,,,4,299.0,1196.0,0,1196.0,104.66,0.0,1300.66,USD,,Pert cert id test moxi 9123456789,Test USA Entity,Resellers,123 Madison Ave,Amityville,New York,NY,United States,US,11701,123 Madison Ave,Amityville,New York,NY,United States,US,11701,,,Net 7,,,2026-07-01,International Council of E-Commerce Consultants Inc,SO16,ICEC,Direct US,015,202,,,,
+18,2026-06-24T07:18:02Z,#1538,sameer.singh@eccouncil.org,PAID,112390000582861453,Associate CCISOv3 Volume 1 eBook (Information Systems Governance),,,1,49.99,49.99,0,547.99,36.98,0.0,584.97,USD,,,Tata Sonic,ATC,Tara Allen,Saint Maries,Idaho,ID,United States,US,83861,Abca Ln,Louisburg,North Carolina,NC,United States,US,27549,,,Net 7,#1538.1,manual,2026-07-01,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,"
+
+
+--------------------------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-06-24T07:20:15.637689
+
+Return:
+gid://shopify/Return/12837519425
+
+Returned Items:
+
+• Digital Forensics Essentials (DFE) Version 1 (ECL) - Full Bundle
+  Qty: 1
+  Value: $299.0
+
+• Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab
+  Qty: 1
+  Value: $199.0
+
+
+Restocking Fee:
+74.7
+
+Tax:
+5.04
+
+Final Deduction:
+79.74
+
+Cumulative Total:
+79.74
+--------------------------------------------------
+",SUCCESS,2026-06-24T07:18:46Z,
+19,2026-06-24T07:18:02Z,#1538,sameer.singh@eccouncil.org,PAID,,Digital Forensics Essentials (DFE) Version 1 (ECL) - Full Bundle,,,1,299.0,299.0,0,547.99,36.98,0.0,584.97,USD,,,Tata Sonic,ATC,Tara Allen,Saint Maries,Idaho,ID,United States,US,83861,Abca Ln,Louisburg,North Carolina,NC,United States,US,27549,,,Net 7,#1538.1,manual,2026-07-01,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,"
+
+
+--------------------------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-06-24T07:20:15.637689
+
+Return:
+gid://shopify/Return/12837519425
+
+Returned Items:
+
+• Digital Forensics Essentials (DFE) Version 1 (ECL) - Full Bundle
+  Qty: 1
+  Value: $299.0
+
+• Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab
+  Qty: 1
+  Value: $199.0
+
+
+Restocking Fee:
+74.7
+
+Tax:
+5.04
+
+Final Deduction:
+79.74
+
+Cumulative Total:
+79.74
+--------------------------------------------------
+",SUCCESS,2026-06-24T07:18:46Z,
+20,2026-06-24T07:18:02Z,#1538,sameer.singh@eccouncil.org,PAID,,"Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab",,,1,199.0,199.0,0,547.99,36.98,0.0,584.97,USD,,,Tata Sonic,ATC,Tara Allen,Saint Maries,Idaho,ID,United States,US,83861,Abca Ln,Louisburg,North Carolina,NC,United States,US,27549,,,Net 7,#1538.1,manual,2026-07-01,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,"
+
+
+--------------------------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-06-24T07:20:15.637689
+
+Return:
+gid://shopify/Return/12837519425
+
+Returned Items:
+
+• Digital Forensics Essentials (DFE) Version 1 (ECL) - Full Bundle
+  Qty: 1
+  Value: $299.0
+
+• Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab
+  Qty: 1
+  Value: $199.0
+
+
+Restocking Fee:
+74.7
+
+Tax:
+5.04
+
+Final Deduction:
+79.74
+
+Cumulative Total:
+79.74
+--------------------------------------------------
+",SUCCESS,2026-06-24T07:18:46Z,
+21,2026-06-24T06:43:11Z,#1537,gargeepawarecc@gmail.com,PENDING,112390000582861473,Certified Secure Computer User (CSCU) Version 3 eBook + Labs w/ ECC Exam Voucher,,,1,64.99,64.99,0,64.99,3.25,0.0,68.24,USD,,,Order Cap Test,ATC,,,,,,,,,,,,,,,,,Net 7,,,2026-07-01,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,,,,
+22,2026-06-23T12:44:49Z,#1536,sameer.singh@eccouncil.org,PAID,,Certified Threat Intelligence Analyst (CTIA) V2 e-Courseware,,,1,180.0,180.0,0,528.99,35.7,0.0,564.69,USD,,,Tata Sonic,ATC,Tara Allen,Saint Maries,Idaho,ID,United States,US,83861,Abca Ln,Louisburg,North Carolina,NC,United States,US,27549,,,Net 7,#1536.1,US (Manual Bank Transfer),2026-06-30,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,"
+
+
+--------------------------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-06-23T12:47:29.805051
+
+Return:
+gid://shopify/Return/12825264193
+
+Returned Value:
+479.0
+
+Restocking Fee:
+57.48
+
+Tax:
+3.88
+
+Final Deduction:
+61.36
+--------------------------------------------------
+",SUCCESS,2026-06-23T12:45:13Z,
+23,2026-06-23T12:44:49Z,#1536,sameer.singh@eccouncil.org,PAID,112390000582861456,Associate CCISOv3 Volume 4 eBook (Information Systems Core Competencies),,,1,49.99,49.99,0,528.99,35.7,0.0,564.69,USD,,,Tata Sonic,ATC,Tara Allen,Saint Maries,Idaho,ID,United States,US,83861,Abca Ln,Louisburg,North Carolina,NC,United States,US,27549,,,Net 7,#1536.1,US (Manual Bank Transfer),2026-06-30,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,"
+
+
+--------------------------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-06-23T12:47:29.805051
+
+Return:
+gid://shopify/Return/12825264193
+
+Returned Value:
+479.0
+
+Restocking Fee:
+57.48
+
+Tax:
+3.88
+
+Final Deduction:
+61.36
+--------------------------------------------------
+",SUCCESS,2026-06-23T12:45:13Z,
+24,2026-06-23T12:44:49Z,#1536,sameer.singh@eccouncil.org,PAID,,Digital Forensics Essentials (DFE) Version 1 (ECL) - Full Bundle,,,1,299.0,299.0,0,528.99,35.7,0.0,564.69,USD,,,Tata Sonic,ATC,Tara Allen,Saint Maries,Idaho,ID,United States,US,83861,Abca Ln,Louisburg,North Carolina,NC,United States,US,27549,,,Net 7,#1536.1,US (Manual Bank Transfer),2026-06-30,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,"
+
+
+--------------------------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-06-23T12:47:29.805051
+
+Return:
+gid://shopify/Return/12825264193
+
+Returned Value:
+479.0
+
+Restocking Fee:
+57.48
+
+Tax:
+3.88
+
+Final Deduction:
+61.36
+--------------------------------------------------
+",SUCCESS,2026-06-23T12:45:13Z,
+25,2026-06-23T12:01:56Z,#1535,gargeepawarecc@gmail.com,PENDING,112390000582861473,Certified Secure Computer User (CSCU) Version 3 eBook + Labs w/ ECC Exam Voucher,,,1,64.99,64.99,0,64.99,3.25,0.0,74.74,USD,,,Order Cap Test,ATC,,,,,,,,,,,,,,,,,Net 7,,,2026-06-30,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,,SUCCESS,2026-06-23T12:02:19Z,
+26,2026-06-23T10:32:54Z,#1534,sameer.singh@eccouncil.org,PAID,,"Network Defense Essentials (NDE) courseware, video, Exam Voucher (RPS), lab",,,1,199.0,199.0,0,498.0,33.61,0.0,531.61,USD,,,Tata Sonic,ATC,Tara Allen,Saint Maries,Idaho,ID,United States,US,83861,Abca Ln,Louisburg,North Carolina,NC,United States,US,27549,,,Net 7,#1534.1,US (Manual Bank Transfer),2026-06-30,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,"TEST NOTE FROM CUSTOM APP
+
+
+--------------------------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-06-23T12:12:26.764034
+
+Return:
+gid://shopify/Return/12824215617
+
+Returned Value:
+199.0
+
+Restocking Fee:
+23.88
+
+Tax:
+1.61
+
+Final Deduction:
+25.49
+--------------------------------------------------
+",SUCCESS,2026-06-23T10:34:34Z,
+27,2026-06-23T10:32:54Z,#1534,sameer.singh@eccouncil.org,PAID,,Digital Forensics Essentials (DFE) Version 1 (ECL) - Full Bundle,,,1,299.0,299.0,0,498.0,33.61,0.0,531.61,USD,,,Tata Sonic,ATC,Tara Allen,Saint Maries,Idaho,ID,United States,US,83861,Abca Ln,Louisburg,North Carolina,NC,United States,US,27549,,,Net 7,#1534.1,US (Manual Bank Transfer),2026-06-30,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,"TEST NOTE FROM CUSTOM APP
+
+
+--------------------------------------------------
+RESTOCKING ENGINE
+
+Processed:
+2026-06-23T12:12:26.764034
+
+Return:
+gid://shopify/Return/12824215617
+
+Returned Value:
+199.0
+
+Restocking Fee:
+23.88
+
+Tax:
+1.61
+
+Final Deduction:
+25.49
+--------------------------------------------------
+",SUCCESS,2026-06-23T10:34:34Z,
+28,2026-06-23T06:52:10Z,#1533,gargeepawarecc@gmail.com,PENDING,,CASE .Java - Full Bundle,,,6,1399.0,8394.0,0,8394.0,671.52,0.0,9065.52,USD,,,Order Cap Test,,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,,,Net 7,,,2026-06-30,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,SUCCESS,2026-06-25T07:41:03Z,
+29,2026-06-23T06:03:27Z,#1532,Ketan.thakar@eccouncil.org,PENDING,,Digital Forensics Essentials (DFE) Version 1 (ECL) - Full Bundle,,,1,432.25,432.25,0,432.25,21.61,0.0,497.09,CAD,,,Finance Test1,ATC,123 6 Ave SW,Calgary,Alberta,AB,Canada,CA,T2P 0P6,123 6 Ave SW,Calgary,Alberta,AB,Canada,CA,T2P 0P6,,,Net 15,,,2026-07-08,EC-Council Canada Inc.,SO15,ECCC,Channel US,017,203,,SUCCESS,2026-06-23T06:03:53Z,
+30,2026-06-23T05:39:59Z,#1531,Ketan.thakar@eccouncil.org,PAID,112390000582924078,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volume 1 - 3) w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,1,922.32,922.32,0,922.32,110.68,0.0,1125.24,CAD,,,Finance Test1,,,,,,,,,,,,,,,,,,Net 15,#1531.1,manual,2026-07-08,EC-Council Canada Inc.,SO15,ECCC,,,,,SUCCESS,2026-06-23T05:54:50Z,
+31,2026-06-22T13:44:56Z,#1530,suraj.mistri@eccouncil.org,PARTIALLY_REFUNDED,,"Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab",,,4,376.42,1505.68,0,1505.68,75.28,0.0,1656.25,CAD,,454323456789,Finance Test1,ATC,123 6 Ave SW,Calgary,Alberta,AB,Canada,CA,T2P 0P6,123 6 Ave SW,Calgary,Alberta,AB,Canada,CA,T2P 0P6,,,Net 15,zrF9QcCW1HkmR0SJxWKE6wd55,shopify_payments,2026-07-07,EC-Council Canada Inc.,SO15,ECCC,Channel US,017,203,,SUCCESS,2026-06-22T13:46:01Z,
+32,2026-06-22T13:41:06Z,#1529,suraj.mistri@eccouncil.org,PAID,,"Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab",,,4,376.42,1505.68,0,1505.68,75.28,0.0,1580.96,CAD,,454323456789,Finance Test1,ATC,123 6 Ave SW,Calgary,Alberta,AB,Canada,CA,T2P 0P6,,,,,,,,,,Net 15,rx1FByg4HJXStHtbQc0RAddvA,shopify_payments,2026-07-07,EC-Council Canada Inc.,SO15,ECCC,Channel US,017,203,,,,
+33,2026-06-22T13:29:26Z,#1528,Ketan.thakar@eccouncil.org,PARTIALLY_REFUNDED,,"Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab",,,1,376.42,376.42,0,896.59,44.83,0.0,1031.09,CAD,,,Finance Test1,ATC,,,,,,,,,,,,,,,,,Net 15,#1528.2,manual,2026-07-07,EC-Council Canada Inc.,SO15,ECCC,Channel US,017,203,,SUCCESS,2026-06-22T13:30:27Z,
+34,2026-06-22T13:29:26Z,#1528,Ketan.thakar@eccouncil.org,PARTIALLY_REFUNDED,,Computer Hacking Forensic Investigator (CHFI) V11 e-Courseware,,,1,520.17,520.17,0,896.59,44.83,0.0,1031.09,CAD,,,Finance Test1,ATC,,,,,,,,,,,,,,,,,Net 15,#1528.2,manual,2026-07-07,EC-Council Canada Inc.,SO15,ECCC,Channel US,017,203,,SUCCESS,2026-06-22T13:30:27Z,
+35,2026-06-22T12:55:53Z,#1527,sameer.singh@eccouncil.org,PENDING,,"Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab",,,1,199.0,199.0,0,240.79,1.48,0.0,262.17,USD,,,Tata Sonic,ATC,,,,,,,,Abca Ln,Louisburg,North Carolina,NC,United States,US,27549,,,Net 7,,,2026-06-29,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,,SUCCESS,2026-06-22T12:56:15Z,
+36,2026-06-22T12:55:53Z,#1527,sameer.singh@eccouncil.org,PENDING,,Restocking Fee (Tax Applied),,,1,19.9,19.9,0,240.79,1.48,0.0,262.17,USD,,,Tata Sonic,ATC,,,,,,,,Abca Ln,Louisburg,North Carolina,NC,United States,US,27549,,,Net 7,,,2026-06-29,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,,SUCCESS,2026-06-22T12:56:15Z,
+37,2026-06-22T12:55:53Z,#1527,sameer.singh@eccouncil.org,PENDING,,Restocking Fee (Tax Applied),,,1,21.89,21.89,0,240.79,1.48,0.0,262.17,USD,,,Tata Sonic,ATC,,,,,,,,Abca Ln,Louisburg,North Carolina,NC,United States,US,27549,,,Net 7,,,2026-06-29,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,,SUCCESS,2026-06-22T12:56:15Z,
+38,2026-06-22T12:08:45Z,#1526,Ketan.thakar@eccouncil.org,PARTIALLY_REFUNDED,,Certified Threat Intelligence Analyst (CTIA) V2 e-Courseware,,,3,340.87,1022.61,0,1022.61,51.13,0.0,1176.01,CAD,,,Finance Test1,ATC,,,,,,,,,,,,,,,,,Net 15,#1526.2,manual,2026-07-07,EC-Council Canada Inc.,SO15,ECCC,Channel US,017,203,,SUCCESS,2026-06-22T12:23:25Z,
+39,2026-06-22T11:58:06Z,#1525,Ketan.thakar@eccouncil.org,PAID,112390000582924078,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volume 1 - 3) w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,1,922.46,922.46,0,922.46,110.69,0.0,1033.15,CAD,,,Finance Test1,,,,,,,,,,,,,,,,,,Net 15,#1525.1,manual,2026-07-07,EC-Council Canada Inc.,SO15,ECCC,,,,,SUCCESS,2026-06-22T11:58:28Z,
+40,2026-06-22T11:49:48Z,#1524,radicalnaksha@gmail.com,PAID,,Computer Hacking Forensic Investigator (CHFI) V11 e-Courseware,,,1,520.87,520.87,0,520.87,26.04,0.0,546.91,CAD,,123767677980,KETAN UNIVERSITY,,,,,,,,,,,,,,,,,,Net 7,#1524.1,manual,2026-06-29,EC-Council Canada Inc.,SO15,ECCC,,,,,SUCCESS,2026-06-22T11:51:13Z,
+41,2026-06-22T11:33:17Z,#1523,radicalnaksha@gmail.com,PARTIALLY_REFUNDED,,"Certified Ethical Hacker V13 E Courseware ,Exam Voucher,Ethical Hacking Video",,,1,760.0,760.0,0,760.0,50.16,0.0,886.16,USD,,123767677980,KETAN UNIVERSITY,,,,,,,,,,,,,,,,,,Net 7,#1523.2,manual,2026-06-29,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,SUCCESS,2026-06-22T11:39:59Z,
+42,2026-06-21T20:17:08Z,#1522,sameer.singh@eccouncil.org,PAID,,"Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab",,,2,199.0,398.0,0,1102.32,74.42,0.0,1176.74,USD,,,Tata Sonic,ATC,Tara Allen,Saint Maries,Idaho,ID,United States,US,83861,Abca Ln,Louisburg,North Carolina,NC,United States,US,27549,,,Net 7,#1522.1,US (Manual Bank Transfer),2026-06-28,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,,SUCCESS,2026-06-22T07:49:11Z,
+43,2026-06-21T20:17:08Z,#1522,sameer.singh@eccouncil.org,PAID,,Digital Forensics Essentials (DFE) Version 1 (ECL) - Full Bundle,,,2,299.0,598.0,0,1102.32,74.42,0.0,1176.74,USD,,,Tata Sonic,ATC,Tara Allen,Saint Maries,Idaho,ID,United States,US,83861,Abca Ln,Louisburg,North Carolina,NC,United States,US,27549,,,Net 7,#1522.1,US (Manual Bank Transfer),2026-06-28,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,,SUCCESS,2026-06-22T07:49:11Z,
+44,2026-06-21T20:17:08Z,#1522,sameer.singh@eccouncil.org,PAID,,Restocking Fee (Tax Applied),,,1,106.32,106.32,0,1102.32,74.42,0.0,1176.74,USD,,,Tata Sonic,ATC,Tara Allen,Saint Maries,Idaho,ID,United States,US,83861,Abca Ln,Louisburg,North Carolina,NC,United States,US,27549,,,Net 7,#1522.1,US (Manual Bank Transfer),2026-06-28,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,,SUCCESS,2026-06-22T07:49:11Z,
+45,2026-06-19T12:25:16Z,#1521,gargeepawarecc@gmail.com,PENDING,,Ethical Hacking Essentials (EHE) Version 1 (ECL) - Full Bundle,,,3,299.0,897.0,0,897.0,71.76,0.0,968.76,USD,,,Order Cap Test,,,,,,,,,Time Square Bldg,Rochester,New York,NY,United States,US,14614,,,Net 7,,,2026-06-26,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,,,
+46,2026-06-19T10:13:51Z,#1520,gargeepawarecc@gmail.com,PENDING,,Ethical Hacking Essentials (EHE) Version 1 (ECL) - Full Bundle,,,12,299.0,3588.0,0,3588.0,287.04,0.0,3875.04,USD,,,Order Cap Test,,,,,,,,,,,,,,,,,,Net 7,,,2026-06-26,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,,,
+47,2026-06-19T10:02:13Z,#1519,gargeepawarecc@gmail.com,PENDING,,Ethical Hacking Essentials (EHE) Version 1 (ECL) - Full Bundle,,,27,299.0,8073.0,0,8073.0,645.84,0.0,8718.84,USD,,,Order Cap Test,,,,,,,,,,,,,,,,,,Net 7,,,2026-06-26,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,,,
+48,2026-06-19T09:51:18Z,#1518,gargeepawarecc@gmail.com,PENDING,,CASE .Java - Full Bundle,,,7,1399.0,9793.0,0,9793.0,783.44,0.0,10576.44,USD,,,Order Cap Test,,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,,,Net 7,,,2026-06-26,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,,,
+49,2026-06-19T09:32:00Z,#1517,gargeepawarecc@gmail.com,PENDING,,CASE .Java - Full Bundle,,,7,1399.0,9793.0,0,9793.0,783.44,0.0,10576.44,USD,,,Order Cap Test,,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,,,Net 7,,,2026-06-26,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,,,
+50,2026-06-19T09:12:27Z,#1516,gargeepawarecc@gmail.com,PENDING,,CASE .Java - Full Bundle,,,7,1399.0,9793.0,0,9793.0,783.44,0.0,10576.44,USD,,,Order Cap Test,,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,,,Net 7,,,2026-06-26,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,,,
+51,2026-06-19T09:00:05Z,#1515,gargeepawarecc@gmail.com,PENDING,,CASE .Java - Full Bundle,,,7,1399.0,9793.0,0,9793.0,783.44,0.0,10576.44,USD,,,Order Cap Test,,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,,,Net 7,,,2026-06-26,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,,,
+52,2026-06-19T08:46:17Z,#1514,gargeepawarecc@gmail.com,PENDING,,CASE .Java - Full Bundle,,,5,1399.0,6995.0,0,6995.0,559.6,0.0,7554.6,USD,,,Order Cap Test,,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,,,Net 7,,,2026-06-26,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,,,
+53,2026-06-19T07:38:39Z,#1513,gargeepawarecc@gmail.com,PENDING,,CASE .Java - Full Bundle,,,5,1399.0,6995.0,0,6995.0,559.6,0.0,7554.6,USD,,,Order Cap Test,,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,,,Net 7,,,2026-06-26,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,,,
+54,2026-06-19T07:20:20Z,#1512,gargeepawarecc@gmail.com,PENDING,,CASE .Java - Full Bundle,,,5,1399.0,6995.0,0,6995.0,559.6,0.0,7554.6,USD,,,Order Cap Test,,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,,,Net 7,,,2026-06-26,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,,,
+55,2026-06-19T06:22:39Z,#1511,gargeepawarecc@gmail.com,PENDING,,CASE .Java - Full Bundle,,,5,1399.0,6995.0,0,6995.0,559.6,0.0,7554.6,USD,,,Order Cap Test,,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,,,Net 7,,,2026-06-26,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,,,
+56,2026-06-19T06:18:48Z,#1510,gargeepawarecc@gmail.com,PENDING,,CASE .Java - Full Bundle,,,7,1399.0,9793.0,0,9793.0,783.44,0.0,10576.44,USD,,,Order Cap Test,,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,,,Net 7,,,2026-06-26,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,,,
+57,2026-06-19T06:09:02Z,#1509,gargeepawarecc@gmail.com,PENDING,,CPENT Training Course - Full Bundle,,,5,2199.0,10995.0,0,10995.0,879.6,0.0,11874.6,USD,,,Order Cap Test,,,,,,,,,,,,,,,,,,Net 7,,,2026-06-26,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,,,
+58,2026-06-19T06:04:14Z,#1508,gargeepawarecc@gmail.com,PENDING,,CASE .Java - Full Bundle,,,40,1399.0,55960.0,0,55960.0,4476.8,0.0,60436.8,USD,,,Order Cap Test,,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,,,Net 7,,,2026-06-26,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,,,
+59,2026-06-19T05:57:54Z,#1507,gargeepawarecc@gmail.com,PENDING,,CASE .Java - Full Bundle,,,40,1399.0,55960.0,0,55960.0,4476.8,0.0,60436.8,USD,,,Order Cap Test,,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,,,Net 7,,,2026-06-26,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,,,
+60,2026-06-18T11:49:15Z,#1506,gargeepawarecc@gmail.com,PENDING,,CSCUv3 - Full Bundle,,,1,149.0,149.0,0,149.0,11.92,0.0,160.92,USD,,,Order Cap Test,,,,,,,,,,,,,,,,,,Net 7,,,2026-06-25,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,,,
+61,2026-06-18T11:25:13Z,#1505,sameer.singh.corp@gmail.com,PAID,112390000582861473,Certified Secure Computer User (CSCU) Version 3 eBook + Labs w/ ECC Exam Voucher,,,1,64.99,64.99,0,64.99,3.25,0.0,74.74,USD,,091111,Tata Sonic,Academia,,,,,,,,Time Square Bldg,Rochester,New York,NY,United States,US,14614,,,Net 7,#1505.1,US (Manual Bank Transfer),2026-06-25,International Council of E-Commerce Consultants Inc,SO16,ICEC,Academia US,016,201,"
+RESTOCKING FEE CALCULATION
+
+Fee: 6.82
+Tax: 0.54
+Total Deduction: 7.36
+
+Generated via Restocking Fee Engine
+Date: 2026-06-21 05:08:10.875775
+",SUCCESS,2026-06-18T11:25:48Z,
+62,2026-06-18T08:10:50Z,#1504,Ketan.thakar@eccouncil.org,PENDING,,"Certified Penetration Testing Professional (CPENT) V2 - e-Courseware Inclusive of Exam Voucher (RPS), CPENT Cyber Range for 90 Days and iLabs for 180 Days",,,2,1978.75,3957.5,0,3957.5,197.88,0.0,4155.38,CAD,,,Finance Test1,ATC,,,,,,,,,,,,,,,,,Net 15,,,2026-07-03,EC-Council Canada Inc.,SO15,ECCC,Channel US,017,203,,,,
+63,2026-06-18T08:08:11Z,#1503,Ketan.thakar@eccouncil.org,PENDING,,"Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab",,,2,375.02,750.04,0,750.04,37.5,0.0,787.54,CAD,,,Finance Test1,ATC,,,,,,,,,,,,,,,,,Net 15,,,2026-07-03,EC-Council Canada Inc.,SO15,ECCC,Channel US,017,203,,SUCCESS,2026-06-18T08:09:01Z,
+64,2026-06-18T07:54:34Z,#1502,suraj.mistri@eccouncil.org,PAID,,CPENT Training Course - Full Bundle,,,2,2199.0,4398.0,439.8,3958.2,316.66,0.0,4274.86,USD,SAP test,454323456789,Sample Company,Academia,4020 Franklin Pl,Vestal,New York,NY,United States,US,13850,,,,,,,,"Suraj mistri test
+",Sales rep owner code test,Net 90,#1502.1,US (Manual Bank Transfer),2026-09-16,International Council of E-Commerce Consultants Inc,SO16,ICEC,Academia US,016,201,,SUCCESS,2026-06-18T07:58:52Z,10% Discount
+65,2026-06-18T07:48:23Z,#1501,Ketan.thakar@eccouncil.org,PAID,,"Certified Penetration Testing Professional (CPENT) V2 - e-Courseware Inclusive of Exam Voucher (RPS), CPENT Cyber Range for 90 Days and iLabs for 180 Days",,,1,1978.79,1978.79,0,2353.82,117.69,0.0,2471.51,CAD,,,Finance Test1,ATC,123 6 Ave SW,Calgary,Alberta,AB,Canada,CA,T2P 0P6,123 6 Ave SW,Calgary,Alberta,AB,Canada,CA,T2P 0P6,,,Net 15,#1501.1,Canada (Manual Bank Transfer),2026-07-03,EC-Council Canada Inc.,SO15,ECCC,Channel US,017,203,,SUCCESS,2026-06-18T07:59:07Z,
+66,2026-06-18T07:48:23Z,#1501,Ketan.thakar@eccouncil.org,PAID,,"Network Defense Essentials (NDE) courseware, video, Exam Voucher (RPS), lab",,,1,375.03,375.03,0,2353.82,117.69,0.0,2471.51,CAD,,,Finance Test1,ATC,123 6 Ave SW,Calgary,Alberta,AB,Canada,CA,T2P 0P6,123 6 Ave SW,Calgary,Alberta,AB,Canada,CA,T2P 0P6,,,Net 15,#1501.1,Canada (Manual Bank Transfer),2026-07-03,EC-Council Canada Inc.,SO15,ECCC,Channel US,017,203,,SUCCESS,2026-06-18T07:59:07Z,
+67,2026-06-18T06:33:12Z,#1500,suraj.mistri@eccouncil.org,PENDING,,CPENT Training Course - Full Bundle,,,2,2199.0,4398.0,439.8,3958.2,316.66,0.0,4274.86,USD,SAP test,454323456789,Sample Company,Academia,4020 Franklin Pl,Vestal,New York,NY,United States,US,13850,,,,,,,,"Suraj mistri test
+",Sales rep owner code test,Net 90,,,2026-09-16,International Council of E-Commerce Consultants Inc,,,Academia US,016,201,,,,10% Discount
+68,2026-06-18T06:31:19Z,#1499,suraj.mistri@eccouncil.org,PENDING,,CPENT Training Course - Full Bundle,,,2,2199.0,4398.0,439.8,3958.2,316.66,0.0,4274.86,USD,SAP test,454323456789,Sample Company,Academia,4020 Franklin Pl,Vestal,New York,NY,United States,US,13850,,,,,,,,"Suraj mistri test
+",Sales rep owner code test,Net 15,,,2026-07-03,International Council of E-Commerce Consultants Inc,,,Academia US,016,201,,,,10% Discount
+69,2026-06-18T06:00:13Z,#1495,suraj.mistri@eccouncil.org,PENDING,,Ethical Hacking Essentials (EHE) Version 1 (ECL) - Full Bundle,,,2,299.0,598.0,59.8,538.2,43.06,0.0,581.26,USD,SAP test,454323456789,Sample Company,Academia,4020 Franklin Pl,Vestal,New York,NY,United States,US,13850,,,,,,,,"Suraj mistri test
+",Sales rep owner code test,Net 15,,,2026-07-03,International Council of E-Commerce Consultants Inc,,,Academia US,016,201,,,,10% Discount
+70,2026-06-18T05:56:21Z,#1494,suraj.mistri@eccouncil.org,PENDING,,CASE .Java - Full Bundle,,,2,1399.0,2798.0,279.8,2518.2,201.46,0.0,2719.66,USD,SAP test,454323456789,Sample Company,Academia,4020 Franklin Pl,Vestal,New York,NY,United States,US,13850,4020 Franklin Pl,Vestal,New York,NY,United States,US,13850,"Suraj mistri test
+",Sales rep owner code test,Net 15,,,2026-07-03,International Council of E-Commerce Consultants Inc,,,Academia US,016,201,,,,
+71,2026-06-17T15:16:59Z,#1493,suraj.mistri@eccouncil.org,PENDING,,CPENT Training Course - Full Bundle,,,2,2199.0,4398.0,439.8,3958.2,316.66,0.0,4274.86,USD,SAP test,454323456789,Sample Company,Academia,4020 Franklin Pl,Vestal,New York,NY,United States,US,13850,,,,,,,,"Suraj mistri test
+",Sales rep owner code test,Net 15,,,2026-07-02,International Council of E-Commerce Consultants Inc,,,Academia US,016,201,,,,
+72,2026-06-17T14:49:33Z,#1492,Ketan.thakar@eccouncil.org,PENDING,,"Ethical Hacking Essentials (EHE) courseware, video, Exam Voucher (RPS), lab",,,4,372.75,1491.0,0,1491.0,74.55,0.0,1565.55,CAD,,,Finance Test1,ATC,,,,,,,,,,,,,,,,,Net 15,,,2026-07-02,EC-Council Canada Inc.,SO15,ECCC,Channel US,017,203,,,,
+73,2026-06-17T14:48:43Z,#1491,Ketan.thakar@eccouncil.org,PENDING,,"Ethical Hacking Essentials (EHE) courseware, video, Exam Voucher (RPS), lab",,,2,199.0,398.0,0,398.0,35.82,0.0,433.82,USD,,,Finance Test1,ATC,,,,,,,,,,,,,,,,,Net 15,,,2026-07-02,International Council of E-Commerce Consultants Inc,,,Channel US,017,203,,,,
+74,2026-06-17T13:50:05Z,#1490,suraj.mistri@eccouncil.org,PENDING,,CASE .Java - Full Bundle,,,2,1399.0,2798.0,279.8,2518.2,201.46,0.0,2719.66,USD,SAP test,454323456789,Sample Company,Academia,4020 Franklin Pl,Vestal,New York,NY,United States,US,13850,4020 Franklin Pl,Vestal,New York,NY,United States,US,13850,"Suraj mistri test
+",Sales rep owner code test,Net 15,,,2026-07-02,International Council of E-Commerce Consultants Inc,,,Academia US,016,201,,,,
+75,2026-06-17T13:47:03Z,#1489,suraj.mistri@eccouncil.org,PENDING,112390000582924078,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volume 1 - 3) w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,2,638.0,1276.0,0,1276.0,102.08,0.0,1378.08,USD,SAP test,454323456789,Sample Company,Academia,4020 Franklin Pl,Vestal,New York,NY,United States,US,13850,,,,,,,,"Suraj mistri test
+",Sales rep owner code test,Net 15,,,2026-07-02,International Council of E-Commerce Consultants Inc,,,Academia US,016,201,,,,
+76,2026-06-17T12:10:32Z,#1487,gargeepawarecc@gmail.com,PENDING,,Digital Forensics Essentials (DFE) Version 1 (ECL) - Full Bundle,,,1,299.0,299.0,0,299.0,23.92,0.0,322.92,USD,,,Order Cap Test,,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,D F G W Ln,Cheraw,South Carolina,SC,United States,US,29520,,,Net 7,,,,International Council of E-Commerce Consultants Inc,,,,,,,,,
+77,2026-06-17T10:52:50Z,#1486,suraj.mistri@eccouncil.org,PENDING,112390000582924078,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volume 1 - 3) w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,2,638.0,1276.0,0,1276.0,102.08,0.0,1378.08,USD,SAP test,454323456789,Sample Company,Academia,4020 Franklin Pl,Vestal,New York,NY,United States,US,13850,,,,,,,,"Suraj mistri test
+",Sales rep owner code test,Net 7,,,,International Council of E-Commerce Consultants Inc,,,Academia US,016,201,,,,
+78,2026-06-17T10:49:11Z,#1485,suraj.mistri@eccouncil.org,PENDING,112390000582924078,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volume 1 - 3) w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,2,638.0,1276.0,0,1276.0,102.08,0.0,1378.08,USD,,454323456789,Sample Company,Academia,4020 Franklin Pl,Vestal,New York,NY,United States,US,13850,,,,,,,,"Suraj mistri test
+",Sales rep owner code test,Net 7,,,,International Council of E-Commerce Consultants Inc,,,Academia US,016,201,,,,
+79,2026-06-17T07:47:20Z,#1484,,PENDING,112390000582861459,Associate CCISOv3 ECC Exam Voucher (Onsite),,,1,150.0,150.0,0,150.0,0.0,0.0,150.0,USD,,,,,,,,,,,,,,,,,,,,,Due on receipt,,,,International Council of E-Commerce Consultants Inc,,,,,,,SUCCESS,2026-06-17T07:47:43Z,
+80,2026-06-12T11:50:03Z,#1482,anandprakash.prasad@eccouncil.org,PAID,,CPENT Training Course - Full Bundle,,,1,2199.0,2199.0,0,2199.0,192.42,0.0,2611.32,USD,,avcd2311,Dell,,Brookhaven Ave abc,Bellport,New York,NY,United States,US,11713,,,,,,,,,,Net 7,#1482.1,US (Manual Bank Transfer),,International Council of E-Commerce Consultants Inc,,,,,,,SUCCESS,2026-06-12T11:50:31Z,
+81,2026-06-12T08:02:11Z,#1481,sameer.singh.corp@gmail.com,PENDING,112390000582861438,Ethical Hacking Essentials (EHE) Labs + Exam prep w/ ECC Exam Voucher w/ RPS,,,1,75.99,75.99,0,75.99,3.8,0.0,87.39,USD,,091111,Tata Sonic,Academia,,,,,,,,,,,,,,,,,Net 7,,,,International Council of E-Commerce Consultants Inc,,,Academia US,016,201,,SUCCESS,2026-06-12T08:03:18Z,
+82,2026-06-12T07:40:11Z,#1480,sameer.singh.corp@gmail.com,PENDING,112390000582861473,Certified Secure Computer User (CSCU) Version 3 eBook + Labs w/ ECC Exam Voucher,,,1,64.99,64.99,0,64.99,3.25,0.0,74.74,USD,,091111,Tata Sonic,Academia,,,,,,,,,,,,,,,,,Net 7,,,,International Council of E-Commerce Consultants Inc,,,Academia US,016,201,,SUCCESS,2026-06-12T07:40:49Z,
+83,2026-06-12T06:08:16Z,#1479,anandprakash.prasad@eccouncil.org,PAID,,CPENT Training Course - Full Bundle,,,1,2199.0,2199.0,0,2199.0,192.42,0.0,2611.32,USD,,avcd2311,Dell,,Brookhaven Ave abc,Bellport,New York,NY,United States,US,11713,,,,,,,,,,Net 7,#1479.1,US (Manual Bank Transfer),,International Council of E-Commerce Consultants Inc,,,,,,,SUCCESS,2026-06-12T06:09:04Z,
+84,2026-06-11T12:24:49Z,#1478,Ketan.thakar@eccouncil.org,PENDING,,"Certified Penetration Testing Professional (CPENT) V2 - e-Courseware Inclusive of Exam Voucher (RPS), CPENT Cyber Range for 90 Days and iLabs for 180 Days",,,5,1050.0,5250.0,0,6444.0,579.96,0.0,7023.96,USD,,,Finance Test1,ATC,3790 Leeds Avenue,Charleston,South Carolina,SC,United States,US,29405,3790 Leeds Avenue,Charleston,South Carolina,SC,United States,US,29405,,,Net 15,,,,International Council of E-Commerce Consultants Inc,,,Channel US,017,203,,SUCCESS,2026-06-11T12:29:34Z,
+85,2026-06-11T12:24:49Z,#1478,Ketan.thakar@eccouncil.org,PENDING,,"Network Defense Essentials (NDE) courseware, video, Exam Voucher (RPS), lab",,,6,199.0,1194.0,0,6444.0,579.96,0.0,7023.96,USD,,,Finance Test1,ATC,3790 Leeds Avenue,Charleston,South Carolina,SC,United States,US,29405,3790 Leeds Avenue,Charleston,South Carolina,SC,United States,US,29405,,,Net 15,,,,International Council of E-Commerce Consultants Inc,,,Channel US,017,203,,SUCCESS,2026-06-11T12:29:34Z,
+86,2026-06-11T12:23:35Z,#1477,Ketan.thakar@eccouncil.org,PENDING,,"Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab",,,5,199.0,995.0,0,1990.0,179.1,0.0,2169.1,USD,,,Finance Test1,ATC,,,,,,,,,,,,,,,,,Net 15,,,,International Council of E-Commerce Consultants Inc,,,Channel US,017,203,,,,
+87,2026-06-11T12:23:35Z,#1477,Ketan.thakar@eccouncil.org,PENDING,,"Ethical Hacking Essentials (EHE) courseware, video, Exam Voucher (RPS), lab",,,5,199.0,995.0,0,1990.0,179.1,0.0,2169.1,USD,,,Finance Test1,ATC,,,,,,,,,,,,,,,,,Net 15,,,,International Council of E-Commerce Consultants Inc,,,Channel US,017,203,,,,
+88,2026-06-11T11:40:00Z,#1476,gargeepawarecc@gmail.com,PAID,112390000582861475,Certified Secure Computer User (CSCU) Version 3 Video Upgrade,,,1,24.99,24.99,0,49.98,4.42,0.0,54.4,USD,,,Tata Sonic,ATC,701 W 050 N Apt #1E,Lagrange,Indiana,IN,United States,US,46761,701 West 176th Street Apt #1GH,New York,New York,NY,United States,US,10033,,,Net 7,#1476.2,manual,,International Council of E-Commerce Consultants Inc,,,Channel US,017,203,,SUCCESS,2026-06-11T11:40:14Z,
+89,2026-06-11T11:40:00Z,#1476,gargeepawarecc@gmail.com,PAID,112390000582861475,Certified Secure Computer User (CSCU) Version 3 Video Upgrade,,,1,24.99,24.99,0,49.98,4.42,0.0,54.4,USD,,,Tata Sonic,ATC,701 W 050 N Apt #1E,Lagrange,Indiana,IN,United States,US,46761,701 West 176th Street Apt #1GH,New York,New York,NY,United States,US,10033,,,Net 7,#1476.2,manual,,International Council of E-Commerce Consultants Inc,,,Channel US,017,203,,SUCCESS,2026-06-11T11:40:14Z,
+90,2026-06-11T11:35:14Z,#1474,suraj.mistri@eccouncil.org,PARTIALLY_REFUNDED,112390000582861473,Certified Secure Computer User (CSCU) Version 3 eBook + Labs w/ ECC Exam Voucher,,,5,64.99,324.95,0,324.95,26.0,0.0,370.45,USD,,454323456789,Sample Company,Academia,4020 Franklin Pl,Vestal,New York,NY,United States,US,13850,,,,,,,,"Suraj mistri test
+",Sales rep owner code test,Net 7,#1474.4,US (Manual Bank Transfer),,International Council of E-Commerce Consultants Inc,,,Academia US,016,201,,SUCCESS,2026-06-11T11:35:32Z,
+91,2026-06-11T09:20:53Z,#1473,anandprakash.prasad@eccouncil.org,PARTIALLY_REFUNDED,112390000552808107,EC-Council Academia Continuing Education Bundle: CSCU Version 3,,,1,99.0,99.0,0,99.0,7.92,0.0,116.82,USD,,avcd2311,TCS,,NY 2,Cropseyville,New York,NY,United States,US,12052,,,,,,,,,,,ziB3lhWxAbhRnzwSDkXiRge8O,shopify_payments,,International Council of E-Commerce Consultants Inc,,,,,,,SUCCESS,2026-06-11T09:23:54Z,
+92,2026-06-11T06:46:57Z,#1470,anandprakash.prasad@eccouncil.org,PAID,112390000582861438,Ethical Hacking Essentials (EHE) Labs + Exam prep w/ ECC Exam Voucher w/ RPS,,,1,75.99,75.99,0,174.99,14.0,0.0,188.99,USD,,avcd2311,TCS,,,,,,,,,,,,,,,,,,Net 7,#1470.1,US (Manual Bank Transfer),,International Council of E-Commerce Consultants Inc,,,,,,,,,
+93,2026-06-11T06:46:57Z,#1470,anandprakash.prasad@eccouncil.org,PAID,112390000552808107,EC-Council Academia Continuing Education Bundle: CSCU Version 3,,,1,99.0,99.0,0,174.99,14.0,0.0,188.99,USD,,avcd2311,TCS,,,,,,,,,,,,,,,,,,Net 7,#1470.1,US (Manual Bank Transfer),,International Council of E-Commerce Consultants Inc,,,,,,,,,
+94,2026-06-11T06:39:37Z,#1469,anandprakash.prasad@eccouncil.org,PENDING,112390000552808107,EC-Council Academia Continuing Education Bundle: CSCU Version 3,,,1,99.0,99.0,0,737.0,58.96,0.0,795.96,USD,,avcd2311,TCS,,,,,,,,,,,,,,,,,,Net 7,,,,International Council of E-Commerce Consultants Inc,,,,,,,,,
+95,2026-06-11T06:39:37Z,#1469,anandprakash.prasad@eccouncil.org,PENDING,112390000582924078,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volume 1 - 3) w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,1,638.0,638.0,0,737.0,58.96,0.0,795.96,USD,,avcd2311,TCS,,,,,,,,,,,,,,,,,,Net 7,,,,International Council of E-Commerce Consultants Inc,,,,,,,,,
+96,2026-06-11T05:50:57Z,#1468,anandprakash.prasad@eccouncil.org,PENDING,112390000582861473,Certified Secure Computer User (CSCU) Version 3 eBook + Labs w/ ECC Exam Voucher,,,1,64.99,64.99,0,801.99,64.16,0.0,866.15,USD,,avcd2311,TCS,,,,,,,,,,,,,,,,,,Net 7,,,,International Council of E-Commerce Consultants Inc,,,,,,,,,
+97,2026-06-11T05:50:57Z,#1468,anandprakash.prasad@eccouncil.org,PENDING,112390000552808107,EC-Council Academia Continuing Education Bundle: CSCU Version 3,,,1,99.0,99.0,0,801.99,64.16,0.0,866.15,USD,,avcd2311,TCS,,,,,,,,,,,,,,,,,,Net 7,,,,International Council of E-Commerce Consultants Inc,,,,,,,,,
+98,2026-06-11T05:50:57Z,#1468,anandprakash.prasad@eccouncil.org,PENDING,112390000582924078,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volume 1 - 3) w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,1,638.0,638.0,0,801.99,64.16,0.0,866.15,USD,,avcd2311,TCS,,,,,,,,,,,,,,,,,,Net 7,,,,International Council of E-Commerce Consultants Inc,,,,,,,,,
+99,2026-06-10T16:59:17Z,#1467,anandprakash.prasad@eccouncil.org,PENDING,112390000582861453,Associate CCISOv3 Volume 1 eBook (Information Systems Governance),,,1,49.99,49.99,25.0,414.49,31.16,0.0,487.11,USD,,avcd2311,TCS,,,,,,,,,,,,,,,,,,Net 7,,,,International Council of E-Commerce Consultants Inc,,,,,,,SUCCESS,2026-06-10T16:59:35Z,
+100,2026-06-10T16:59:17Z,#1467,anandprakash.prasad@eccouncil.org,PENDING,112390000582861438,Ethical Hacking Essentials (EHE) Labs + Exam prep w/ ECC Exam Voucher w/ RPS,,,1,75.99,75.99,38.0,414.49,31.16,0.0,487.11,USD,,avcd2311,TCS,,,,,,,,,,,,,,,,,,Net 7,,,,International Council of E-Commerce Consultants Inc,,,,,,,SUCCESS,2026-06-10T16:59:35Z,
+101,2026-06-10T16:59:17Z,#1467,anandprakash.prasad@eccouncil.org,PENDING,112390000582861473,Certified Secure Computer User (CSCU) Version 3 eBook + Labs w/ ECC Exam Voucher,,,1,64.99,64.99,32.49,414.49,31.16,0.0,487.11,USD,,avcd2311,TCS,,,,,,,,,,,,,,,,,,Net 7,,,,International Council of E-Commerce Consultants Inc,,,,,,,SUCCESS,2026-06-10T16:59:35Z,
+102,2026-06-10T16:59:17Z,#1467,anandprakash.prasad@eccouncil.org,PENDING,112390000582924078,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volume 1 - 3) w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,1,638.0,638.0,318.99,414.49,31.16,0.0,487.11,USD,,avcd2311,TCS,,,,,,,,,,,,,,,,,,Net 7,,,,International Council of E-Commerce Consultants Inc,,,,,,,SUCCESS,2026-06-10T16:59:35Z,
+103,2026-06-10T15:17:22Z,#1466,sameer.singh@eccouncil.org,PAID,112390000582861473,Certified Secure Computer User (CSCU) Version 3 eBook + Labs w/ ECC Exam Voucher,,,1,64.99,64.99,63.04,1.95,0.1,0.0,2.05,USD,,,Tata Sonic,Academia,"XY Carter Rd 7 302, A-wing Fupdate2",Hallsville,Texas,TX,United States,US,75650,,,,,,,,,,,rKzhV7JmQ1VEztlvvI4fon7G5,shopify_payments,,International Council of E-Commerce Consultants Inc,,,Academia US,016,201,,,,
+104,2026-06-09T16:28:38Z,#1465,wugizufo@denipl.net,PENDING,,Certified Ethical Hacker CEH V13 - Full Bundle,,,1,2199.0,2199.0,0,2199.0,192.42,0.0,2391.42,USD,,abcd123,Dell,,Brookhaven Ave abc,Bellport,New York,NY,United States,US,11713,,,,,,,,,,Net 7,rxoEyLGpa8hcFQarBmAFMCwru,shopify_store_credit,,International Council of E-Commerce Consultants Inc,,,,,,"the note is added by suraj for testing
+",,,
+105,2026-06-09T16:25:34Z,#1464,wugizufo@denipl.net,PARTIALLY_REFUNDED,,CPENT Training Course - Full Bundle,,,3,2199.0,6597.0,0,6597.0,577.24,0.0,7174.24,USD,,abcd123,Dell,,Brookhaven Ave abc,Bellport,New York,NY,United States,US,11713,,,,,,,,,,Net 7,#1464.1,shopify_store_credit,,International Council of E-Commerce Consultants Inc,,,,,,,SUCCESS,2026-06-09T16:26:27Z,
+106,2026-06-09T16:20:58Z,#1463,wugizufo@denipl.net,PENDING,,Ethical Hacking Essentials (EHE) Version 1 (ECL) - Full Bundle,,,2,299.0,598.0,0,598.0,52.32,0.0,650.32,USD,,abcd123,Dell,,,,,,,,,,,,,,,,,,Net 7,,,,International Council of E-Commerce Consultants Inc,,,,,,,SUCCESS,2026-06-09T16:21:39Z,
+107,2026-06-09T16:07:35Z,#1462,wugizufo@denipl.net,PARTIALLY_REFUNDED,,CASE .Java - Full Bundle,,,1,1399.0,1399.0,0,3598.0,314.84,0.0,4052.74,USD,,abcd123,Dell,,Brookhaven Ave abc,Bellport,New York,NY,United States,US,11713,Brookhaven Ave abc,Bellport,New York,NY,United States,US,11713,,,Net 7,#1462.3,shopify_store_credit,,International Council of E-Commerce Consultants Inc,,,,,,,SUCCESS,2026-06-09T16:13:04Z,
+108,2026-06-09T16:07:35Z,#1462,wugizufo@denipl.net,PARTIALLY_REFUNDED,,CPENT Training Course - Full Bundle,,,1,2199.0,2199.0,0,3598.0,314.84,0.0,4052.74,USD,,abcd123,Dell,,Brookhaven Ave abc,Bellport,New York,NY,United States,US,11713,Brookhaven Ave abc,Bellport,New York,NY,United States,US,11713,,,Net 7,#1462.3,shopify_store_credit,,International Council of E-Commerce Consultants Inc,,,,,,,SUCCESS,2026-06-09T16:13:04Z,
+109,2026-06-09T16:06:55Z,#1461,wugizufo@denipl.net,PENDING,,CASE .Java - Full Bundle,,,1,1399.0,1399.0,699.5,1799.0,157.4,0.0,1956.4,USD,,abcd123,Dell,,Brookhaven Ave abc,Bellport,New York,NY,United States,US,11713,Brookhaven Ave abc,Bellport,New York,NY,United States,US,11713,,,Net 7,,,,International Council of E-Commerce Consultants Inc,,,,,,,,,
+110,2026-06-09T16:06:55Z,#1461,wugizufo@denipl.net,PENDING,,CPENT Training Course - Full Bundle,,,1,2199.0,2199.0,1099.5,1799.0,157.4,0.0,1956.4,USD,,abcd123,Dell,,Brookhaven Ave abc,Bellport,New York,NY,United States,US,11713,Brookhaven Ave abc,Bellport,New York,NY,United States,US,11713,,,Net 7,,,,International Council of E-Commerce Consultants Inc,,,,,,,,,
+111,2026-06-09T13:03:47Z,#1460,damlunolta@necub.com,PAID,112390000582861915,Computer Hacking Forensic Investigator (CHFI) Version 11 Labs,,,20,125.0,2500.0,0,2500.0,0.0,0.0,2500.0,USD,,,Test Finance,,3000 Damani Ct,Danville,California,CA,United States,US,94506,,,,,,,,,,Net 7,r6P7tNH4e33elYg4ZBvglnlWA,shopify_payments,,International Council of E-Commerce Consultants Inc,,,,,,,,,
+112,2026-06-09T12:38:22Z,#1459,moxi.patel.ctr@eccouncil.org,PAID,,Digital Forensics Essentials (DFE) Version 1 (ECL) - Full Bundle,,,2,424.57,849.14,0,849.14,110.39,0.0,959.53,CAD,,Pert cert id test moxi 9123456789,Test CANADA Entity,Resellers,250 Yonge St,Bonfield,Ontario,ON,Canada,CA,P0H 1E0,250 Yonge St,Bonfield,Ontario,ON,Canada,CA,P0H 1E0,,,,rVeXwEWnYXup9DtnLdiXKaXKj,shopify_payments,,EC-Council Canada Inc.,SO15,ECCC,Direct US,015,202,,SUCCESS,2026-06-09T12:38:48Z,
+113,2026-06-09T05:29:38Z,#1458,moxi.patel.ctr@eccouncil.org,PAID,,"Network Defense Essentials (NDE) courseware, video, Exam Voucher (RPS), lab",,,1,370.78,370.78,0,370.78,48.2,0.0,418.98,CAD,,Pert cert id test moxi 9123456789,Test CANADA Entity,Resellers,250 Yonge St,Bonfield,Ontario,ON,Canada,CA,P0H 1E0,250 Yonge St,Bonfield,Ontario,ON,Canada,CA,P0H 1E0,,,,r60Xvol1pFKYaAUkfdfq60BDI,shopify_payments,,EC-Council Canada Inc.,SO15,ECCC,Direct US,015,202,,,,
+114,2026-06-09T05:23:19Z,#1457,moxi.patel.ctr@eccouncil.org,PAID,,"Network Defense Essentials (NDE) courseware, video, Exam Voucher (RPS), lab",,,3,370.78,1112.34,0,1112.34,144.6,0.0,1256.94,CAD,,Pert cert id test moxi 9123456789,Test CANADA Entity,Resellers,250 Yonge St,Bonfield,Ontario,ON,Canada,CA,P0H 1E0,250 Yonge St,Bonfield,Ontario,ON,Canada,CA,P0H 1E0,,,,rPK8KU02hab3EBbEw6nyFPDrp,shopify_payments,,EC-Council Canada Inc.,SO15,ECCC,Direct US,015,202,,SUCCESS,2026-06-09T05:23:33Z,
+115,2026-06-09T05:08:52Z,#1456,moxi.patel.ctr@eccouncil.org,PAID,,Digital Forensics Essentials (DFE) Version 1 (ECL) - Full Bundle,,,3,425.27,1275.81,0,1275.81,165.86,0.0,1441.67,CAD,,Pert cert id test moxi 9123456789,Test CANADA Entity,Academia,250 Yonge St,Bonfield,Ontario,ON,Canada,CA,P0H 1E0,250 Yonge St,Bonfield,Ontario,ON,Canada,CA,P0H 1E0,,,,rkd1bLXqjYodyYFSNz7UGOlh0,shopify_payments,,EC-Council Canada Inc.,SO15,ECCC,Academia US,016,201,,SUCCESS,2026-06-09T05:09:19Z,
+116,2026-06-09T05:07:28Z,#1455,moxi.patel.ctr@eccouncil.org,PAID,,"Network Defense Essentials (NDE) courseware, video, Exam Voucher (RPS), lab",,,4,370.78,1483.12,0,1483.12,192.81,0.0,1675.93,CAD,,Pert cert id test moxi 9123456789,Test CANADA Entity,ATC,250 Yonge St,Bonfield,Ontario,ON,Canada,CA,P0H 1E0,250 Yonge St,Bonfield,Ontario,ON,Canada,CA,P0H 1E0,,,,raTpm1uNn8VNrul5QkOOFYIhP,shopify_payments,,EC-Council Canada Inc.,SO15,ECCC,Channel US,017,203,,SUCCESS,2026-06-09T05:07:54Z,
+117,2026-06-09T05:00:23Z,#1454,moxi.patel.ctr@eccouncil.org,PAID,,Digital Forensics Essentials (DFE) Version 1 (ECL) - Full Bundle,,,2,299.0,598.0,0,647.98,56.68,0.0,704.66,USD,,Pert cert id test moxi 9123456789,Test USA Entity,Resellers,123 Madison Ave,Amityville,New York,NY,United States,US,11701,123 Madison Ave,Amityville,New York,NY,United States,US,11701,,,,#1454.3,US (Manual Bank Transfer),,International Council of E-Commerce Consultants Inc,SO16,ICEC,Direct US,015,202,,SUCCESS,2026-06-09T05:00:47Z,
+118,2026-06-09T05:00:23Z,#1454,moxi.patel.ctr@eccouncil.org,PAID,112390000582861475,Certified Secure Computer User (CSCU) Version 3 Video Upgrade,,,1,24.99,24.99,0,647.98,56.68,0.0,704.66,USD,,Pert cert id test moxi 9123456789,Test USA Entity,Resellers,123 Madison Ave,Amityville,New York,NY,United States,US,11701,123 Madison Ave,Amityville,New York,NY,United States,US,11701,,,,#1454.3,US (Manual Bank Transfer),,International Council of E-Commerce Consultants Inc,SO16,ICEC,Direct US,015,202,,SUCCESS,2026-06-09T05:00:47Z,
+119,2026-06-09T05:00:23Z,#1454,moxi.patel.ctr@eccouncil.org,PAID,112390000582861475,Certified Secure Computer User (CSCU) Version 3 Video Upgrade,,,1,24.99,24.99,0,647.98,56.68,0.0,704.66,USD,,Pert cert id test moxi 9123456789,Test USA Entity,Resellers,123 Madison Ave,Amityville,New York,NY,United States,US,11701,123 Madison Ave,Amityville,New York,NY,United States,US,11701,,,,#1454.3,US (Manual Bank Transfer),,International Council of E-Commerce Consultants Inc,SO16,ICEC,Direct US,015,202,,SUCCESS,2026-06-09T05:00:47Z,
+120,2026-06-09T04:57:46Z,#1453,moxi.patel.ctr@eccouncil.org,PAID,,"Network Defense Essentials (NDE) courseware, video, Exam Voucher (RPS), lab",,,3,199.0,597.0,0,621.99,54.42,0.0,676.41,USD,,Pert cert id test moxi 9123456789,Test USA Entity,Academia,123 Madison Ave,Amityville,New York,NY,United States,US,11701,123 Madison Ave,Amityville,New York,NY,United States,US,11701,,,,#1453.2,US (Manual Bank Transfer),,International Council of E-Commerce Consultants Inc,SO16,ICEC,Academia US,016,201,,SUCCESS,2026-06-09T04:58:11Z,
+121,2026-06-09T04:57:46Z,#1453,moxi.patel.ctr@eccouncil.org,PAID,112390000582861475,Certified Secure Computer User (CSCU) Version 3 Video Upgrade,,,1,24.99,24.99,0,621.99,54.42,0.0,676.41,USD,,Pert cert id test moxi 9123456789,Test USA Entity,Academia,123 Madison Ave,Amityville,New York,NY,United States,US,11701,123 Madison Ave,Amityville,New York,NY,United States,US,11701,,,,#1453.2,US (Manual Bank Transfer),,International Council of E-Commerce Consultants Inc,SO16,ICEC,Academia US,016,201,,SUCCESS,2026-06-09T04:58:11Z,
+122,2026-06-09T04:30:27Z,#1452,moxi.patel.ctr@eccouncil.org,PARTIALLY_PAID,,Digital Forensics Essentials (DFE) Version 1 (ECL) - Full Bundle,,,2,299.0,598.0,0,622.99,54.5,0.0,677.49,USD,,Pert cert id test moxi 9123456789,Test USA Entity,Academia,,,,,,,,123 Madison Ave,Amityville,New York,NY,United States,US,11701,,,Net 7,#1452.1,manual,,International Council of E-Commerce Consultants Inc,SO16,ICEC,Academia US,016,201,,SUCCESS,2026-06-09T04:33:41Z,
+123,2026-06-09T04:30:27Z,#1452,moxi.patel.ctr@eccouncil.org,PARTIALLY_PAID,112390000582861475,Certified Secure Computer User (CSCU) Version 3 Video Upgrade,,,1,24.99,24.99,0,622.99,54.5,0.0,677.49,USD,,Pert cert id test moxi 9123456789,Test USA Entity,Academia,,,,,,,,123 Madison Ave,Amityville,New York,NY,United States,US,11701,,,Net 7,#1452.1,manual,,International Council of E-Commerce Consultants Inc,SO16,ICEC,Academia US,016,201,,SUCCESS,2026-06-09T04:33:41Z,
+124,2026-06-08T12:28:27Z,#1451,moxi.patel.ctr@eccouncil.org,PAID,,"Network Defense Essentials (NDE) courseware, video, Exam Voucher (RPS), lab",,,3,199.0,597.0,0,597.0,52.24,0.0,649.24,USD,,Pert cert id test moxi 9123456789,Test USA Entity,ATC,123 Madison Ave,Amityville,New York,NY,United States,US,11701,123 Madison Ave,Amityville,New York,NY,United States,US,11701,,,,#1451.1,US (Manual Bank Transfer),,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,,SUCCESS,2026-06-08T12:28:52Z,
+125,2026-06-08T10:07:17Z,#1450,suraj.mistri@eccouncil.org,PAID,112390000582924078,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volume 1 - 3) w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,2,638.0,1276.0,0,1300.99,117.09,0.0,1418.08,USD,,454323456789,Sample Company,Academia,1233 Woodside Drive,Hanahan,South Carolina,SC,United States,US,29410,,,,,,,,"Suraj mistri test
+",Sales rep owner code test,,#1450.2,US (Manual Bank Transfer),,International Council of E-Commerce Consultants Inc,SO16,ICEC,Academia US,016,201,,SUCCESS,2026-06-11T12:40:49Z,
+126,2026-06-08T10:07:17Z,#1450,suraj.mistri@eccouncil.org,PAID,112390000582861475,Certified Secure Computer User (CSCU) Version 3 Video Upgrade,,,1,24.99,24.99,0,1300.99,117.09,0.0,1418.08,USD,,454323456789,Sample Company,Academia,1233 Woodside Drive,Hanahan,South Carolina,SC,United States,US,29410,,,,,,,,"Suraj mistri test
+",Sales rep owner code test,,#1450.2,US (Manual Bank Transfer),,International Council of E-Commerce Consultants Inc,SO16,ICEC,Academia US,016,201,,SUCCESS,2026-06-11T12:40:49Z,
+127,2026-06-07T16:50:39Z,#1449,finance@eccouncil.org,PAID,112390000582861459,Associate CCISOv3 ECC Exam Voucher (Onsite),,,1,150.0,150.0,0,150.0,13.5,0.0,163.5,USD,,,Finance test ketan,,Flora Dr,North Charleston,South Carolina,SC,United States,US,29406,,,,,,,,,,,rWwf1aJTvHv0wxFljjHXPiRYR,shopify_payments,,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,,,
+128,2026-06-05T13:45:37Z,#1448,Ketan.thakar@eccouncil.org,PENDING,,"Certified Penetration Testing Professional (CPENT) V2 - e-Courseware Inclusive of Exam Voucher (RPS), CPENT Cyber Range for 90 Days and iLabs for 180 Days",,,1,1050.0,1050.0,0,1050.0,94.5,0.0,1144.5,USD,,,Finance Test1,ATC,,,,,,,,,,,,,,,,,Net 15,,,,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,,,,
+129,2026-06-05T13:45:35Z,#1447,radicalnaksha@gmail.com,PARTIALLY_REFUNDED,,"Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab",,,1,199.0,199.0,0,398.0,26.28,0.0,464.08,USD,,,KETAN UNIVERSITY,,,,,,,,,,,,,,,,,,Net 7,#1447.2,manual,,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,SUCCESS,2026-06-05T13:45:59Z,
+130,2026-06-05T13:45:35Z,#1447,radicalnaksha@gmail.com,PARTIALLY_REFUNDED,,"Ethical Hacking Essentials (EHE) courseware, video, Exam Voucher (RPS), lab",,,1,199.0,199.0,0,398.0,26.28,0.0,464.08,USD,,,KETAN UNIVERSITY,,,,,,,,,,,,,,,,,,Net 7,#1447.2,manual,,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,SUCCESS,2026-06-05T13:45:59Z,
+131,2026-06-05T12:24:36Z,#1446,radicalnaksha@gmail.com,PENDING,,"Certified Penetration Testing Professional (CPENT) V2 - e-Courseware Inclusive of Exam Voucher (RPS), CPENT Cyber Range for 90 Days and iLabs for 180 Days",,,1,1050.0,1050.0,0,1499.0,0.0,0.0,1604.0,USD,,,KETAN UNIVERSITY,Academia,,,,,,,,,,,,,,,,,Net 7,,,,International Council of E-Commerce Consultants Inc,SO16,ICEC,Academia US,016,201,,SUCCESS,2026-06-05T12:25:11Z,
+132,2026-06-05T12:24:36Z,#1446,radicalnaksha@gmail.com,PENDING,AIE-V01-iLEARN,Artificial Intelligence Essentials (AIE) Version 1 iLearn Kit,prodduct type,product category,1,299.0,299.0,0,1499.0,0.0,0.0,1604.0,USD,,,KETAN UNIVERSITY,Academia,,,,,,,,,,,,,,,,,Net 7,,,,International Council of E-Commerce Consultants Inc,SO16,ICEC,Academia US,016,201,,SUCCESS,2026-06-05T12:25:11Z,
+133,2026-06-05T12:24:36Z,#1446,radicalnaksha@gmail.com,PENDING,112390000582861459,Associate CCISOv3 ECC Exam Voucher (Onsite),,,1,150.0,150.0,0,1499.0,0.0,0.0,1604.0,USD,,,KETAN UNIVERSITY,Academia,,,,,,,,,,,,,,,,,Net 7,,,,International Council of E-Commerce Consultants Inc,SO16,ICEC,Academia US,016,201,,SUCCESS,2026-06-05T12:25:11Z,
+134,2026-06-05T12:21:10Z,#1445,radicalnaksha@gmail.com,PAID,,Certified Network Defender (CND) V3 iLabs,,,1,199.0,199.0,0,223.99,0.0,0.0,243.89,USD,,,KETAN UNIVERSITY,Academia,,,,,,,,,,,,,,,,,Net 7,#1445.1,US (Manual Bank Transfer),,International Council of E-Commerce Consultants Inc,SO16,ICEC,Academia US,016,201,,SUCCESS,2026-06-05T12:21:42Z,
+135,2026-06-05T12:21:10Z,#1445,radicalnaksha@gmail.com,PAID,112390000582861475,Certified Secure Computer User (CSCU) Version 3 Video Upgrade,,,1,24.99,24.99,0,223.99,0.0,0.0,243.89,USD,,,KETAN UNIVERSITY,Academia,,,,,,,,,,,,,,,,,Net 7,#1445.1,US (Manual Bank Transfer),,International Council of E-Commerce Consultants Inc,SO16,ICEC,Academia US,016,201,,SUCCESS,2026-06-05T12:21:42Z,
+136,2026-06-04T14:08:07Z,#1444,radicalnaksha@gmail.com,PAID,,"Certified Penetration Testing Professional (CPENT) V2 - e-Courseware Inclusive of Exam Voucher (RPS), CPENT Cyber Range for 90 Days and iLabs for 180 Days",,,1,1050.0,1050.0,0,1647.0,108.71,0.0,1755.71,USD,,,KETAN UNIVERSITY,,Mexico Ave,Laredo,Texas,TX,United States,US,78046,Mexico Ave,Laredo,Texas,TX,United States,US,78046,,,Net 7,#1444.1,US (Manual Bank Transfer),,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,,,
+137,2026-06-04T14:08:07Z,#1444,radicalnaksha@gmail.com,PAID,,"Network Defense Essentials (NDE) courseware, video, Exam Voucher (RPS), lab",,,1,199.0,199.0,0,1647.0,108.71,0.0,1755.71,USD,,,KETAN UNIVERSITY,,Mexico Ave,Laredo,Texas,TX,United States,US,78046,Mexico Ave,Laredo,Texas,TX,United States,US,78046,,,Net 7,#1444.1,US (Manual Bank Transfer),,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,,,
+138,2026-06-04T14:08:07Z,#1444,radicalnaksha@gmail.com,PAID,,"Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab",,,2,199.0,398.0,0,1647.0,108.71,0.0,1755.71,USD,,,KETAN UNIVERSITY,,Mexico Ave,Laredo,Texas,TX,United States,US,78046,Mexico Ave,Laredo,Texas,TX,United States,US,78046,,,Net 7,#1444.1,US (Manual Bank Transfer),,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,,,
+139,2026-06-04T14:01:24Z,#1443,radicalnaksha@gmail.com,PARTIALLY_REFUNDED,,"Certified Penetration Testing Professional (CPENT) V2 - e-Courseware Inclusive of Exam Voucher (RPS), CPENT Cyber Range for 90 Days and iLabs for 180 Days",,,1,1050.0,1050.0,0,1050.0,69.3,0.0,1224.3,USD,,,KETAN UNIVERSITY,,,,,,,,,,,,,,,,,,Net 7,#1443.2,manual,,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,SUCCESS,2026-06-04T14:08:38Z,
+140,2026-06-04T12:24:22Z,#1442,suraj.mistri@eccouncil.org,PAID,112390000582861457,Associate CCISOv3 Volume 5 eBook (Strategic Planning and Finance),,,2,49.99,99.98,0,99.98,0.0,0.0,99.98,USD,,,Sample Company,Academia,1233 Woodside Drive,Hanahan,South Carolina,SC,United States,US,29410,,,,,,,,"Suraj mistri test
+",Sales rep owner code test,,rcKtMwx0S7O0so4OxPdllP82x,shopify_payments,,International Council of E-Commerce Consultants Inc,SO16,ICEC,Academia US,016,201,,,,
+141,2026-06-04T06:57:34Z,#1441,gargeepawarecc@gmail.com,PAID,,ATC Renewal Product,,,1,250.0,250.0,0,250.0,22.19,0.0,272.19,USD,,,Tata Sonic,ATC,701 W 050 N Apt #1E,Lagrange,Indiana,IN,United States,US,46761,701 West 176th Street Apt #1GH,New York,New York,NY,United States,US,10033,,,,#1441.1,US (Manual Bank Transfer),,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,,,,
+142,2026-06-02T16:03:44Z,#1440,damlunolta@necub.com,PAID,112390000582861456,Associate CCISOv3 Volume 4 eBook (Information Systems Core Competencies),,,1,49.99,49.99,0,49.99,0.0,0.0,49.99,USD,,,Test Finance,,A-B-C-D Ln,North Ferrisburgh,Vermont,VT,United States,US,05473,,,,,,,,,,Net 7,rcLXsnTWwGvOQpUyvTxQNT2yu,shopify_store_credit,,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,,,
+143,2026-06-02T15:59:30Z,#1439,damlunolta@necub.com,PARTIALLY_REFUNDED,112390000582924078,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volume 1 - 3) w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,4,638.0,2552.0,0,2552.0,0.0,0.0,2679.6,USD,,,Test Finance,,,,,,,,,,,,,,,,,,Net 7,#1439.3,shopify_store_credit,,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,SUCCESS,2026-06-02T16:00:14Z,
+144,2026-06-02T15:49:56Z,#1438,damlunolta@necub.com,PARTIALLY_REFUNDED,112390000582861473,Certified Secure Computer User (CSCU) Version 3 eBook + Labs w/ ECC Exam Voucher,,,1,64.99,64.99,0,801.99,0.0,0.0,808.49,USD,,,Test Finance,,,,,,,,,,,,,,,,,,Net 7,#1438.2,shopify_store_credit,,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,SUCCESS,2026-06-02T15:54:05Z,
+145,2026-06-02T15:49:56Z,#1438,damlunolta@necub.com,PARTIALLY_REFUNDED,112390000582924078,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volume 1 - 3) w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service),,,1,638.0,638.0,0,801.99,0.0,0.0,808.49,USD,,,Test Finance,,,,,,,,,,,,,,,,,,Net 7,#1438.2,shopify_store_credit,,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,SUCCESS,2026-06-02T15:54:05Z,
+146,2026-06-02T15:49:56Z,#1438,damlunolta@necub.com,PARTIALLY_REFUNDED,112390000552808107,EC-Council Academia Continuing Education Bundle: CSCU Version 3,,,1,99.0,99.0,0,801.99,0.0,0.0,808.49,USD,,,Test Finance,,,,,,,,,,,,,,,,,,Net 7,#1438.2,shopify_store_credit,,International Council of E-Commerce Consultants Inc,SO16,ICEC,,,,,SUCCESS,2026-06-02T15:54:05Z,
+147,2026-06-02T15:03:15Z,#1437,veknehesta@necub.com,PENDING,,"Certified Penetration Testing Professional (CPENT) V2 - e-Courseware Inclusive of Exam Voucher (RPS), CPENT Cyber Range for 90 Days and iLabs for 180 Days",,,2,1050.0,2100.0,0,2498.0,224.82,0.0,2722.82,USD,,,Finance Test1,ATC,3790 Leeds Avenue,Charleston,South Carolina,SC,United States,US,29405,3790 Leeds Avenue,Charleston,South Carolina,SC,United States,US,29405,,,Net 7,,,,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,,SUCCESS,2026-06-02T15:06:23Z,
+148,2026-06-02T15:03:15Z,#1437,veknehesta@necub.com,PENDING,,"Network Defense Essentials (NDE) courseware, video, Exam Voucher (RPS), lab",,,2,199.0,398.0,0,2498.0,224.82,0.0,2722.82,USD,,,Finance Test1,ATC,3790 Leeds Avenue,Charleston,South Carolina,SC,United States,US,29405,3790 Leeds Avenue,Charleston,South Carolina,SC,United States,US,29405,,,Net 7,,,,International Council of E-Commerce Consultants Inc,SO16,ICEC,Channel US,017,203,,SUCCESS,2026-06-02T15:06:23Z,

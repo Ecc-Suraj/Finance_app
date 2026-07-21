@@ -1,0 +1,100 @@
+﻿S. No.,Shopify Partner ID,Location Name,Cert ID,SAP ID,Partner Type,Email ID,Amount,Store Credits,Billing Address,Billing City,Billing State,Billing Country,Billing Country code,Billing Zip Code,Sales Rep. Name,Sales Rep. Emp Code,Payment Terms
+1,5851512897,Sample- Academia,CRT100001,78124563,ATC,"singhsameer.me@gmail.com, jaishri.more@eccouncil.org, gothwadaditya01@gmail.com, aditya.gothwad@eccouncil.org, qopekamo@denipl.com, joncarlo.greysin@dropmeon.com, adi712287@gmail.com, andra.quamir@dropmeon.com, irish.kennen@dropmeon.com, yagnik.dudhat.ctr@eccouncil.org",103344.08,11093.06,4020 Franklin Pl,Vestal,New York,United States,US,13850,Anand Prasad,Sales rep owner code test,Net 90
+2,5851545665,Sample- ATC,CRT100002,69283471,ATC,"singhsameer.me@gmail.com, jaishri.more@eccouncil.org, gothwadaditya01@gmail.com, aditya.gothwad@eccouncil.org, qopekamo@denipl.com, joncarlo.greysin@dropmeon.com, adi712287@gmail.com, andra.quamir@dropmeon.com, irish.kennen@dropmeon.com, yagnik.dudhat.ctr@eccouncil.org",263912.83,199.0,1812 Orangeburg St,North Charleston,South Carolina,United States,US,29405,Hello World,BANN6645,No Payment Terms
+3,5851578433,Sample- Reseller,CRT100003,84591726,Academia,"singhsameer.me@gmail.com, jaishri.more@eccouncil.org, gothwadaditya01@gmail.com, aditya.gothwad@eccouncil.org, qopekamo@denipl.com, joncarlo.greysin@dropmeon.com, adi712287@gmail.com, andra.quamir@dropmeon.com, irish.kennen@dropmeon.com, zandyr.eustace@dropmeon.com",80719.6,19.89,4741 Adelaide St,Abbotsford,British Columbia,Canada,CA,V2T 3L7,Emily Johnson,USDTAI,No Payment Terms
+4,5855248449,Sample- Academia2,CRT100004,71356842,,"gargeepawar@gmail.com, suraj.mistri@eccouncil.org",17897.91,,1855 Victoria Ave,Regina,Saskatchewan,Canada,CA,S4P 3T2,Sameer Singh,1634A,No Payment Terms
+5,5855281217,New Test,CRT100005,92467135,ATC,suraj.mistri@eccouncil.org,2500.41,,5693 Old Jacksonboro Road,Ravenel,South Carolina,United States,US,29470,Sarah Miller,,No Payment Terms
+6,5852954689,Test Location 1,CRT100006,58621397,Academia,,0.0,,4012 Olivia Drive,North Charleston,South Carolina,United States,US,29418,Daniel Wilson,90909,Net 15
+7,5853052993,Canada - ATC,CRT100007,43789512,ATC,"Ketan.thakar@eccouncil.org, Shiva.Banda@eccouncil.org, veknehesta@necub.com",10305.95,,123 6 Ave SW,Calgary,Alberta,Canada,CA,T2P 0P6,Jessica Brown,,Net 15
+8,5853085761,33 Indian Hill Road,CRT100008,65874231,,Ketan.thakar@eccouncil.org,2885.28,,33 Indian Hill Road,Wilton,Connecticut,United States,US,06897,,,Net 15
+9,5853118529,15284 331 Business unit 13a,CRT100009,97246158,,Ketan.thakar@eccouncil.org,2722.05,,3423 W Dalke Ave,Spokane,Washington,United States,US,99205,,,Net 15
+10,5853151297,123 Roaring Run Lane,CRT100010,81472369,Academia,Ketan.thakar@eccouncil.org,1496.0,,"123 Roaring Run Lane, 123 Tundra View Road",Chefornak,Alaska,United States,US,99561,Christopher Moore,,Net 15
+11,5853544513,Canada -  Academia,CRT100011,56391847,ATC,"Ketan.thakar@eccouncil.org, Shiva.Banda@eccouncil.org, veknehesta@necub.com",2076.25,,"24 Sussex Drive, 450 Broadway",Winnipeg,Manitoba,Canada,CA,R3C 0V8,Amanda Thomas,,Net 15
+12,5853577281,US - New York - Academia,CRT100012,74528613,Academia,"Ketan.thakar@eccouncil.org, Shiva.Banda@eccouncil.org, veknehesta@necub.com",0.0,,124 NY-17K,Newburgh,New York,United States,US,12550,Andrew White,,Net 15
+13,5853806657,2415 Palumbo Drive,CRT100013,39157284,,Ketan.thakar@eccouncil.org,228.0,,2415 Palumbo Drive,Lexington,Kentucky,United States,US,40509,,,Net 15
+14,5853839425,4126 Mountain Creek Rd,CRT100014,62814975,ATC,"Ketan.thakar@eccouncil.org, Shiva.Banda@eccouncil.org",2377.91,376.11,10910 Domain Drive,Austin,Texas,United States,US,78758,Ryan Martin,,Net 15
+15,5853904961,5343 Dorchester Road,CRT100015,85732416,,Ketan.thakar@eccouncil.org,921.89,361.11,5343 Dorchester Road,North Charleston,South Carolina,United States,US,29418,,,Net 15
+16,5855182913,2458 Maplewood Drive Southeast,CRT100020,94816532,ATC,finance@eccouncil.org,497.0,,2458 Maplewood Drive Southeast,Grand Rapids,Michigan,United States,US,49506,Tyler Allen,,Net 7
+17,5855313985,Flora Dr,CRT100021,57289461,Academia,finance@eccouncil.org,0.0,,Flora Dr,North Charleston,South Carolina,United States,US,29406,Olivia King,,No Payment Terms
+18,5856395329,Washington,CRT100022,86321749,,"watoco@denipl.com, botazoza@fxzig.com",13314.86,958.0,NY 2,Cropseyville,New York,United States,US,12052,Suraj Mistri,#0001,Net 7
+19,5856591937,New Mexico,CRT100023,42175836,ATC,"watoco@denipl.com, cehuhy@denipl.net, botazoza@fxzig.com",2578.71,,1780 East University Avenue,Las Cruces,New Mexico,United States,US,88003,Brittany Green,A7K9P2M,Net 7
+20,5856624705,New York,CRT100024,79654318,Academia,"watoco@denipl.com, botazoza@fxzig.com",1385.99,753.99,6 Metrotech Ctr,Brooklyn,New York,United States,US,11201,Nathan Baker,X4L8Q1R,Net 7
+21,5857050689,Sample 1,CRT100025,31867495,,suraj.mistri@easymailer.live,0.0,,123 New York Route 303,Orangeburg,New York,United States,US,10962,,,No Payment Terms
+22,5857083457,Sample 2,CRT100026,65429187,,suraj.mistri@easymailer.live,0.0,,5870 Core Road,North Charleston,South Carolina,United States,US,29406,,,No Payment Terms
+23,5857116225,Sample 3,CRT100027,78253614,ATC,suraj.mistri@easymailer.live,0.0,,1100 West Indiana Avenue,Philadelphia,Pennsylvania,United States,US,19133,Hannah Mitchell,P3X7L2Q,No Payment Terms
+24,5858558017,Test location,CRT100028,91584723,Academia,mevucepi@forexzig.com,758.0,,9087 Southwark Dr,Jacksonville,Florida,United States,US,32257,Eric Campbell,K9M1V8T,Net 7
+25,5858590785,Test location demo,CRT100029,24619358,ATC,,0.0,,6752 East National Cemetery Road,Florence,South Carolina,United States,US,29506,Victoria Parker,Q5R2A7X,Net 7
+26,5858623553,4562 Lake Ridge Trail Northwest,CRT100030,53746821,,jusudumo@denipl.com,0.0,,4562 Lake Ridge Trail Northwest,Lilburn,Georgia,United States,US,30047,,,Net 7
+27,5858984001,Jose California,CRT100031,86912574,Academia,"sarah.carlson@eccouncil.org, wesley.alvarez@eccouncil.org, steve.graham@eccouncil.org, heather.richards@eccouncil.org",0.0,,3201 Vineyard Park Way,San Jose,California,United States,US,95135,Courtney Roberts,T7L3Q9C,Net 7
+28,5859377217,Manilla Lowa,CRT100032,49138265,,"sarah.carlson@eccouncil.org, wesley.alvarez@eccouncil.org, steve.graham@eccouncil.org, heather.richards@eccouncil.org",0.0,,"1785 Northpoint Parkway, Ste 230",Lutz,Florida,United States,US,33558,,,Net 7
+29,5859475521,1100 N Grand Ave bldg 48,CRT100033,72581493,ATC,ravivijay0060@gmail.com,0.0,,1100 N Grand Ave bldg 48,Walnut,California,United States,US,91789,Madison Turner,B8M4P7A,Net 7
+30,5859508289,4000 Centregreen Way suite 140,CRT100034,18354726,Academia,ravivijay0060@gmail.com,4030.48,,90 Sparks Street,Ottawa,Ontario,Canada,CA,K1P 5B4,Austin Collins,L1Q9T6X,Due on fulfillment
+31,5860425793,Calle 5 de Mayo 123,CRT100035,96423187,,ravivijay0060@gmail.com,1133.92,,Calle 5 de Mayo 123,Guadalajara,Jalisco,Mexico,MX,44890,,,No Payment Terms
+32,5860458561,100 St Georges Terrace,CRT100036,63879514,ATC,ravivijay0060@gmail.com,0.0,,10033 E Thunderbolt Ave,Mesa,Arizona,United States,US,85212,David Morgan,J7P4M1Q,Net 7
+33,5865046081,Newark International Airport Street,CRT100037,85247639,Academia,,0.0,,Newark International Airport Street,Newark,New Jersey,United States,US,07114,Rebecca Cooper,F9X3L5T,No Payment Terms
+34,5859541057,316 S Baylen St ste 500,CRT100038,41792856,,,0.0,,316 S Baylen St ste 500,Pensacola,Florida,United States,US,32502,,,No Payment Terms
+35,5859573825,1800 Perimeter Park Drive suite 140,CRT100039,59168342,ATC,aayushigoyal27071997@gmail.com,3348.34,,1800 Perimeter Park Drive suite 140,Morrisville,North Carolina,United States,US,27560,Stephanie Bailey,Y4M7Q1P,Net 7
+36,5859606593,123 Booth Street,CRT100040,37621498,,wihyjoby@denipl.net,0.0,,123 Booth Street,Hempstead,New York,United States,US,11550,,,No Payment Terms
+37,5859901505,4001 Dorchester Road,CRT100041,84751623,Academia,,0.0,,"4001 Dorchester Road, Nava varachha",North Charleston,South Carolina,United States,US,29405,Kayla Richardson,S3K5T7M,Net 7
+38,5860130881,test qa,CRT100042,69382147,Academia,,0.0,,,,,,,,Jonathan Cox,U1Q4R8X,No Payment Terms
+39,5859934273,456 South Jacana Lane,CRT100043,25897431,ATC,sandhyakumari1987@gmail.com,10576.85,,456 South Jacana Lane,Gilbert,Arizona,United States,US,85296,Amber Ward,G6P2A9L,Net 7
+40,5859967041,12098 Springwood Drive,CRT100044,71439285,,sandhyakumari1987@gmail.com,3049.99,,123 6 Ave SW,Calgary,Alberta,Canada,CA,T2P 0P6,,,Net 7
+41,5859999809,100 Queen St W,CRT100045,98614572,ATC,sandhyakumari1987@gmail.com,3124.26,,100 Queen St W,Toronto,Ontario,Canada,CA,M5H 2N2,Erin Gray,E8M1T4R,Net 7
+42,5860032577,10 Market Street,CRT100046,53176894,Academia,sandhyakumari1987@gmail.com,0.0,,10 Market Street,Sydney,New South Wales,Australia,AU,2000,Kyle Ramirez,Z2X6P9K,No Payment Terms
+43,5860491329,5801 N Pima Rd,CRT100047,46281359,,sandhyakumari1987@gmail.com,1820949.82,,5801 N Pima Rd,Scottsdale,Arizona,United States,US,85250,,,Net 7
+44,5860524097,5801 N Pima Rd,CRT100048,77925416,ATC,sandhyakumari1987@gmail.com,2436.38,,5801 N Pima Rd,Scottsdale,Arizona,United States,US,85250,Sean Price,K4Q8N2T,Net 7
+45,5860065345,Faber Place Drive,CRT100049,32478195,Academia,merebappu1@gmail.com,4177.03,,Faber Place Drive,Charleston,South Carolina,United States,US,29405,Alexis Bennett,P9X1M6C,Net 7
+46,5860098113,2130 Melnick Drive,CRT100050,61834752,,merebappu1@gmail.com,3807.37,,2130 Melnick Drive,North Charleston,South Carolina,United States,US,29406,,,Net 15
+47,5877170241,3101 Meridian St N,CRT100051,89561234,ATC,merebappu1@gmail.com,0.0,,3101 Meridian St N,Huntsville,Alabama,United States,US,35811,Heather Barnes,M7A2K4X,No Payment Terms
+48,5877203009,896 Foley Rd,CRT100052,74392861,,merebappu1@gmail.com,0.0,,896 Foley Rd,Tilly,Arkansas,United States,US,72679,,,No Payment Terms
+49,5860360257,Tax Test,CRT100053,25648179,Academia,gargee.pawar@eccouncil.org,3782.32,,6 MetroTech Center,Brooklyn,New York,United States,US,11201,Lauren Kelly,Q2L9T5M,No Payment Terms
+50,5860393025,123 New Mexico 161,CRT100054,58123964,ATC,gargee.pawar@eccouncil.org,0.0,,123 New Mexico 161,Buena Vista,New Mexico,United States,US,87712,Charles Henderson,A4K7R3P,No Payment Terms
+51,5860556865,West 66th street (Net 7 terms) Academia,CRT100055,93756428,Academia,,12148.04,,"77 West 66th Street, 13",New York,New York,United States,US,10023,Chelsea Coleman,N1X8Q6L,Net 7
+52,5860589633,176th Street (No Payment Terms ) Authorized Training Center,CRT100056,46219583,ATC,,8234.37,264.17,"701 W 050 N, Apt #1E",Lagrange,Indiana,United States,US,46761,,,Net 7
+53,5860622401,Hudson Street ( Manual Payment ) Reseller,CRT100057,81459627,ATC,,21997.22,,Tara Allen,Saint Maries,Idaho,United States,US,83861,,,Net 7
+54,5866553409,Alley 2,CRT100058,37921854,ATC,,0.0,,Alley 2,Centerville,Missouri,United States,US,63633,Aaron Patterson,F6L1X9Q,No Payment Terms
+55,5874253889,4546 Jasper Ave,CRT100059,62578391,Academia,,3646.86,212.94,A B Carter Rd,Fayetteville,North Carolina,United States,US,28312,Morgan Simmons,H8R2M5N,Net 7
+56,5991366721,Township,CRT100060,94837215,,,0.0,,Abca Ln,Louisburg,North Carolina,United States,US,27549,,,Net 7
+57,5991563329,Midtown,CRT100061,15786429,ATC,"sameer.singh.corp@gmail.com, cehasip923@herojp.com, sameer.singh@eccouncil.org",3395.91,,"XY Carter Rd 7, 302, A-wing Fupdate2",Hallsville,Texas,United States,US,75650,Natalie Foster,D5Q9A6X,Net 7
+58,6008176705,82 Labadie Rd (Canada),CRT100062,73254186,Academia,sameer.singh@eccouncil.org,12994.62,,82 Labadie Rd,Windsor,Ontario,Canada,CA,N8W 4J7,Logan Bryant,S2L8R3M,Net 7
+59,6055395393,W 12th St NE,CRT100063,58642973,,,0.0,,"W 12th St NE, 123",Rome,Georgia,United States,US,30165,,,Net 7
+60,6059294785,California 49,CRT100064,29163745,ATC,,0.0,,California 49,Sutter Creek,California,United States,US,95685,Ethan Griffin,G1X6T9Q,Net 30
+61,5865111617,Abc test exampt,CRT100065,86349517,,mistrisuraj2@gmail.com,0.0,,555 N 5TH AVE APT 731,PHOENIX,Arizona,United States,US,85003,,,No Payment Terms
+62,5866586177,Arizona,CRT100066,41758263,Academia,anandprakash.prasad@eccouncil.org,1572.09,,555 N 5th Ave APT 731,Phoenix,Arizona,United States,US,85003,Noah Hayes,E5P7R1K,Net 7
+63,5872222273,Carolina,CRT100067,95471826,ATC,anandprakash.prasad@eccouncil.org,1777.27,1000.0,1520 Old Trolley Rd,Summerville,South Carolina,United States,US,29485,Anna Sanders,Z9Q4N6T,Net 7
+64,5884870721,Mt Abernathy Ave,CRT100068,63821497,Academia,radicalnaksha@gmail.com,15996.89,,Mt Abernathy Ave,San Diego,California,United States,US,92117,Christian Myers,R2L5X8M,Net 7
+65,5884903489,Mexico Ave,CRT100069,72536981,,radicalnaksha@gmail.com,3808.23,734.16,Mexico Ave,Laredo,Texas,United States,US,78046,,,Net 7
+66,5951619137,896 Foley Rd,CRT100070,18495732,ATC,radicalnaksha@gmail.com,32613.16,,896 Foley Rd,Tilly,Arkansas,United States,US,72679,Robert Hughes,P4T9M6R,Net 7
+67,5951651905,8614 Hollyhock Grv,CRT100071,57214368,ATC,radicalnaksha@gmail.com,4964.9,,8614 Hollyhock Grv,Avon,Indiana,United States,US,46123,,,Net 7
+68,6156222529,305 Jarvis St,CRT100072,84672159,Academia,radicalnaksha@gmail.com,0.0,,"305 Jarvis St, 305 Jarvis St",Whitehorse,Yukon,Canada,CA,Y1A 2H3,Joseph Bell,M1Q7N4A,Net 30
+69,6156484673,123 6 Ave SW,CRT100073,39184572,Academia,radicalnaksha@gmail.com,0.0,,"123 6 Ave SW, 123 6 Ave SW",Calgary,Alberta,Canada,CA,T2P 0P6,Elizabeth Murphy,X5R3P8K,Net 30
+70,6668582977,Albea Rd,CRT100074,65729318,ATC,radicalnaksha@gmail.com,385.82,,Albea Rd,Campbell River,British Columbia,Canada,CA,V9W 6E6,Nicholas Rivera,Q9L6T2M,Net 7
+71,5951389761,336 Park Rd,CRT100075,91867425,,,0.0,,336 Park Rd,Pleasant Grove,Alabama,United States,US,35127,,,Net 7
+72,6063980609,Texas 144,CRT100076,24356987,ATC,,0.0,,,,,,,,Alexander Morris,N6K4Q7P,
+73,5967118401,Lacation 1,CRT100077,78412396,Academia,,1935.74,70.19,NY 2,Cropseyville,New York,United States,US,12052,Mackenzie Reed,C2M9A5L,Net 7
+74,5991268417,Test Tax Exempt,CRT100078,52681743,,,0.0,,1505 Barrington St,Halifax,Nova Scotia,Canada,CA,B3J 3K5,,,Net 7
+75,6003687489,Billing moxi,CRT100079,86934251,ATC,,0.0,,12098 Springwood Dr,Madison,Alabama,United States,US,35756,Brooke Jenkins,F4P7K3Q,No Payment Terms
+76,6003851329,billing moxi 2,CRT100080,43579862,Academia,,0.0,,1091 Pebble Dr,Bristol,Virginia,United States,US,24201,Cameron Foster,H9L2M8N,No Payment Terms
+77,6003884097,Add 3 USA,CRT100081,71248635,,eccouncilwork@gmail.com,0.0,,2419 Toccata Ln,Cabot,Arkansas,United States,US,72023,,,No Payment Terms
+78,6004047937,Add 1,CRT100082,95823174,Academia,eccouncilwork@gmail.com,47785.75,,800 Robson St,Vancouver,British Columbia,Canada,CA,V6Z 3B7,,,Net 45
+79,6009847873,Add 2,CRT100083,36497528,ATC,eccouncilwork@gmail.com,0.0,,110 Ouellette Ave,Windsor,Ontario,Canada,CA,N9A 6T3,Emily Cooper,S8P2L9M,No Payment Terms
+80,6003916865,12098 Springwood Dr,CRT100084,82561497,Academia,,0.0,,12098 Springwood Dr,Madison,Alabama,United States,US,35756,Jacob Ramirez,U3K5N1X,No Payment Terms
+81,6009356353,Usa address,CRT100085,47183925,ATC,,0.0,,55 N Arizona Pl,Chandler,Arizona,United States,US,85225,Haley Peterson,G9A7T4Q,No Payment Terms
+82,6009913409,Location 1,CRT100086,69315784,,kileji@denipl.net,0.0,,100 Ilsley Ave,Dartmouth,Nova Scotia,Canada,CA,B3B 1L3,,,No Payment Terms
+83,6039699521,123 Madison Ave,CRT100087,28654319,Academia,,0.0,,123 Madison Ave,Horseshoe Bend,Idaho,United States,US,83629,Olivia Butler,E1X5P3K,Net 7
+84,6039732289,Moxi- academia,CRT100088,54792863,Academia,moxi.patel.ctr@eccouncil.org,677.49,14000.0,123 Madison Ave,Amityville,New York,United States,US,11701,,,Net 7
+85,6039765057,Moxi- ATC,CRT100089,83176425,ATC,moxi.patel.ctr@eccouncil.org,6553.2,4168.24,123 Madison Ave,Amityville,New York,United States,US,11701,Mia Carter,R4N2K8T,Net 7
+86,6039928897,Moxi- reseller,CRT100090,29541876,Academia,moxi.patel.ctr@eccouncil.org,6966.48,,123 Madison Ave,Amityville,New York,United States,US,11701,Tyler Gray,K5M1X9P,Net 7
+87,6039994433,123 Madison Ave,CRT100091,67432951,Academia,,645.84,,123 Madison Ave,Albany,New York,United States,US,12202,,,Net 7
+88,6040059969,Test CANADA Entity,CRT100092,91825364,ATC,,0.0,,,,,,,,Connor Kelly,T2A8R4M,Net 7
+89,6040158273,250 Yonge St,CRT100093,45278613,ATC,,0.0,,250 Yonge St,Rockford,Illinois,United States,US,61103,,,Net 7
+90,6040191041,Moxi-ATC,CRT100094,76359128,Academia,,0.0,4000.0,250 Yonge St,Bonfield,Ontario,Canada,CA,P0H 1E0,Brandon Simmons,X3Q7N2L,Net 7
+91,6040223809,Moxi-academia,CRT100095,58413297,ATC,,0.0,,250 Yonge St,Bonfield,Ontario,Canada,CA,P0H 1E0,Lily Richardson,Q8T4L6A,Net 7
+92,6040256577,Moxi-reseller,CRT100096,12784569,Academia,,0.0,,250 Yonge St,Bonfield,Ontario,Canada,CA,P0H 1E0,Evan Adams,A1R9M5K,Net 7
+93,6040125505,20 Cooper Sq,CRT100097,94631825,,penyzu@denipl.net,0.0,,20 Cooper Sq,New York,New York,United States,US,10003,,,Net 7
+94,6051233857,Pooja - Academia,CRT100098,57382461,,damlunolta@necub.com,3421.09,0.0,3000 Damani Ct,Danville,California,United States,US,94506,,,Net 7
+95,6075842625,Brookhaven Ave,CRT100099,21895734,ATC,wugizufo@denipl.net,7969.26,2391.41,"Brookhaven Ave, abc",Bellport,New York,United States,US,11713,Isabella Mitchell,J5K9A1M,Net 7
+96,6075875393,NY 7,CRT100100,68714523,Academia,,0.0,,NY 7,Johnsonville,New York,United States,US,12094,Austin Baker,F2Q8P7X,Net 7
+97,6272811073,A B Carter Rd,CRT100101,35967281,ATC,gargeepawarecc@gmail.com,74.74,500.0,A B Carter Rd,Hallsville,Texas,United States,US,75650,,,
+98,6277529665,Minnesota Pl,CRT100102,82459317,ATC,gargeepawarecc@gmail.com,1405.39,1000.0,Minnesota Pl,Loveland,Colorado,United States,US,80538,Christian Walker,Y9M1R5K,
+99,6287851585,D F G W Ln,CRT100103,76123845,Academia,"gargeepawarecc@gmail.com, Kurakula.Chaya@eccouncil.org",318835.44,1.0,D F G W Ln,Cheraw,South Carolina,United States,US,29520,Rachel Cox,D3X7Q2P,Net 7
