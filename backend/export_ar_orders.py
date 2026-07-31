@@ -7,6 +7,7 @@ import requests
 import time
 import argparse
 from datetime import datetime, timezone
+from report_utils import write_report_info
 
 SHOP = os.getenv("SHOPIFY_STORE")
 TOKEN = os.getenv("SHOPIFY_ACCESS_TOKEN")
@@ -340,6 +341,11 @@ def generate_ar_report( end_date=None):
 
         writer = csv.writer(csvfile)
 
+        write_report_info(
+            writer,
+            "AR report"
+        )
+
         writer.writerow([
 
             "Sr. No.",
@@ -365,6 +371,7 @@ def generate_ar_report( end_date=None):
             "Entity",
             "Division Name",
             "Division Code",
+            "Order Age",
             "upto 30 Days",
             "31-60 Days",
             "61-90 Days",
@@ -504,6 +511,7 @@ def generate_ar_report( end_date=None):
                 "createdAt",
                 ""
             )
+            order_age =0
 
             upto_30 = 0
             days_31_60 = 0
@@ -516,17 +524,18 @@ def generate_ar_report( end_date=None):
 
             if created_at:
 
-                order_date = datetime.fromisoformat(
-                    created_at.replace(
-                        "Z",
-                        "+00:00"
-                    )
+                order_datetime = datetime.fromisoformat(
+                    created_at.replace("Z", "+00:00")
                 )
 
+                order_date = order_datetime.date()
+
                 days_old = (
-                    datetime.now(timezone.utc)
+                    datetime.now().date()
                     - order_date
                 ).days
+
+                order_age =days_old
 
                 if days_old <= 30:
                     upto_30 = grand_total
@@ -551,14 +560,20 @@ def generate_ar_report( end_date=None):
 
                 else:
                     days_365_above = grand_total
+
+
+                order_date_display = ""
+
+                if created_at:
+                    order_date_display = datetime.fromisoformat(
+                        created_at.replace("Z", "+00:00")
+                    ).strftime("%d-%b-%Y")
+
             writer.writerow([
 
                 row_no,
 
-                order.get(
-                    "createdAt",
-                    ""
-                ),
+                order_date_display,
 
                 order.get(
                     "name",
@@ -657,6 +672,7 @@ def generate_ar_report( end_date=None):
                     "value",
                     ""
                 ),
+                order_age,
 
                 round(upto_30, 2),
 
