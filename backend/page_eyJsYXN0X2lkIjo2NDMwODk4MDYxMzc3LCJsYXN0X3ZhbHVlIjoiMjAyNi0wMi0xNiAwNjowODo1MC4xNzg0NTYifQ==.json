@@ -1,0 +1,4121 @@
+{
+  "data": {
+    "orders": {
+      "pageInfo": {
+        "hasNextPage": false,
+        "endCursor": "eyJsYXN0X2lkIjo2NDMwODkwMjI5ODI1LCJsYXN0X3ZhbHVlIjoiMjAyNi0wMi0xNiAwNjowMjozMi4wNTU3NDYifQ=="
+      },
+      "nodes": [
+        {
+          "id": "gid://shopify/Order/6430897963073",
+          "name": "#1272",
+          "createdAt": "2026-02-16T06:08:45Z",
+          "displayFinancialStatus": "PENDING",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "BANN6645"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "EHE(ECL)-V1-DRM-VID-RPSEV-LAB-ATC",
+                "name": "Ethical Hacking Essentials (EHE) courseware, video, Exam Voucher (RPS), lab",
+                "quantity": 3,
+                "product": {
+                  "zohoId": null,
+                  "productTypeMeta": null,
+                  "productCategoryMeta": null
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "199.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "597.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430897832001",
+          "name": "#1271",
+          "createdAt": "2026-02-16T06:08:40Z",
+          "displayFinancialStatus": "PENDING",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "BANN6645"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "DFE(ECL)-V1-DRM-VID-RPSEV-LAB-ATC",
+                "name": "Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab",
+                "quantity": 3,
+                "product": {
+                  "zohoId": null,
+                  "productTypeMeta": null,
+                  "productCategoryMeta": null
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "199.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "597.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430897733697",
+          "name": "#1270",
+          "createdAt": "2026-02-16T06:08:35Z",
+          "displayFinancialStatus": "PENDING",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "BANN6645"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "CND-V03-DRM",
+                "name": "Computer Hacking Forensic Investigator (CHFI) V11 e-Courseware",
+                "quantity": 3,
+                "product": {
+                  "zohoId": {
+                    "value": "CHFI-V11-DRM"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM"
+                  },
+                  "productCategoryMeta": {
+                    "value": "CHFI"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "275.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "825.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430897700929",
+          "name": "#1269",
+          "createdAt": "2026-02-16T06:08:30Z",
+          "displayFinancialStatus": "PENDING",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "BANN6645"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "EHE(ECL)-V1-DRM-VID-RPSEV-LAB-ATC",
+                "name": "Ethical Hacking Essentials (EHE) courseware, video, Exam Voucher (RPS), lab",
+                "quantity": 2,
+                "product": {
+                  "zohoId": null,
+                  "productTypeMeta": null,
+                  "productCategoryMeta": null
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "199.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "398.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430897668161",
+          "name": "#1268",
+          "createdAt": "2026-02-16T06:08:26Z",
+          "displayFinancialStatus": "PENDING",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "BANN6645"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "DFE(ECL)-V1-DRM-VID-RPSEV-LAB-ATC",
+                "name": "Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab",
+                "quantity": 2,
+                "product": {
+                  "zohoId": null,
+                  "productTypeMeta": null,
+                  "productCategoryMeta": null
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "199.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "398.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430897602625",
+          "name": "#1267",
+          "createdAt": "2026-02-16T06:08:21Z",
+          "displayFinancialStatus": "REFUNDED",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "867.64",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "867.64",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "BANN6645"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "EHE(ECL)-V1-DRM-VID-RPSEV-LAB-ATC",
+                "name": "Ethical Hacking Essentials (EHE) courseware, video, Exam Voucher (RPS), lab",
+                "quantity": 4,
+                "product": {
+                  "zohoId": null,
+                  "productTypeMeta": null,
+                  "productCategoryMeta": null
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "199.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "796.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430897537089",
+          "name": "#1266",
+          "createdAt": "2026-02-16T06:08:16Z",
+          "displayFinancialStatus": "PENDING",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "BANN6645"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "DFE(ECL)-V1-DRM-VID-RPSEV-LAB-ATC",
+                "name": "Digital Forensics Essentials (DFE) courseware, video, Exam Voucher (RPS), lab",
+                "quantity": 5,
+                "product": {
+                  "zohoId": null,
+                  "productTypeMeta": null,
+                  "productCategoryMeta": null
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "199.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "995.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430897209409",
+          "name": "#1250",
+          "createdAt": "2026-02-16T06:07:57Z",
+          "displayFinancialStatus": "PENDING",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "Ayprm"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "CND-V03-DRM",
+                "name": "Certified Network Defender (CND) V3 e-Courseware",
+                "quantity": 5,
+                "product": {
+                  "zohoId": {
+                    "value": "CND-V03-DRM"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM"
+                  },
+                  "productCategoryMeta": {
+                    "value": "CND"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "200.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "1000.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430897143873",
+          "name": "#1249",
+          "createdAt": "2026-02-16T06:07:53Z",
+          "displayFinancialStatus": "PENDING",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "Ayprm"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "CND-V03-DRM",
+                "name": "Computer Hacking Forensic Investigator (CHFI) V11 e-Courseware",
+                "quantity": 3,
+                "product": {
+                  "zohoId": {
+                    "value": "CHFI-V11-DRM"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM"
+                  },
+                  "productCategoryMeta": {
+                    "value": "CHFI"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "275.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "825.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430897012801",
+          "name": "#1248",
+          "createdAt": "2026-02-16T06:07:48Z",
+          "displayFinancialStatus": "PENDING",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "Ayprm"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "NDE(ECL)-V1-DRM-VID-RPSEV-LAB-ATC",
+                "name": "Network Defense Essentials (NDE) courseware, video, Exam Voucher (RPS), lab",
+                "quantity": 2,
+                "product": {
+                  "zohoId": null,
+                  "productTypeMeta": null,
+                  "productCategoryMeta": null
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "199.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "398.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430896914497",
+          "name": "#1247",
+          "createdAt": "2026-02-16T06:07:43Z",
+          "displayFinancialStatus": "PENDING",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "OwnerEXTYDT"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "ECDE-V02-DRM-iLAB-EV-RPS",
+                "name": "EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook (Volume 1 - 3) w/ Labs + ECC Exam Voucher (w/ Remote Proctoring Service)",
+                "quantity": 2,
+                "product": {
+                  "zohoId": {
+                    "value": "ECDE-V02-DRM-iLAB-EV-RPS"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM W/PU EV + iLabs"
+                  },
+                  "productCategoryMeta": {
+                    "value": "CDE"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "638.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "1276.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430896848961",
+          "name": "#1246",
+          "createdAt": "2026-02-16T06:07:38Z",
+          "displayFinancialStatus": "PENDING",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "OwnerEXTYDT"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "CEH-V13-DRM-iLAB-EV-RPS",
+                "name": "C2SI: CEH Version 13 (Volumes 1 - 4) eBook w/ Labs + ECC Exam Voucher (RPS)",
+                "quantity": 1,
+                "product": {
+                  "zohoId": {
+                    "value": "CEH-V13-DRM-iLAB-EV-RPS"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM W/PU EV + iLabs"
+                  },
+                  "productCategoryMeta": {
+                    "value": "CEH"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "579.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "579.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430896783425",
+          "name": "#1245",
+          "createdAt": "2026-02-16T06:07:33Z",
+          "displayFinancialStatus": "PENDING",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "OwnerEXTYDT"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "CEH-V13-DRM-iLAB-EV-RPS",
+                "name": "C2SI: CEH Version 13 (Volumes 1 - 4) eBook w/ Labs + ECC Exam Voucher (RPS)",
+                "quantity": 2,
+                "product": {
+                  "zohoId": {
+                    "value": "CEH-V13-DRM-iLAB-EV-RPS"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM W/PU EV + iLabs"
+                  },
+                  "productCategoryMeta": {
+                    "value": "CEH"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "579.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "1158.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430896685121",
+          "name": "#1244",
+          "createdAt": "2026-02-16T06:07:28Z",
+          "displayFinancialStatus": "PENDING",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "OwnerEXTYDT"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "ACCISO-V03-DRM-v04",
+                "name": "Associate CCISOv3 Volume 4 eBook (Information Systems Core Competencies)",
+                "quantity": 2,
+                "product": {
+                  "zohoId": {
+                    "value": "ACCISO-V03-DRM-v04"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM"
+                  },
+                  "productCategoryMeta": {
+                    "value": "ACCISO"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "49.99",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "99.98",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430896586817",
+          "name": "#1243",
+          "createdAt": "2026-02-16T06:07:23Z",
+          "displayFinancialStatus": "PENDING",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "OwnerEXTYDT"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "CEH-V13-DRM-iLAB-EV-RPS",
+                "name": "C2SI: CEH Version 13 (Volumes 1 - 4) eBook w/ Labs + ECC Exam Voucher (RPS)",
+                "quantity": 4,
+                "product": {
+                  "zohoId": {
+                    "value": "CEH-V13-DRM-iLAB-EV-RPS"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM W/PU EV + iLabs"
+                  },
+                  "productCategoryMeta": {
+                    "value": "CEH"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "579.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "2316.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430896521281",
+          "name": "#1242",
+          "createdAt": "2026-02-16T06:07:18Z",
+          "displayFinancialStatus": "PENDING",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "OwnerEXTYDT"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "ECDE-V02-iLAB",
+                "name": "EC-Council Certified DevSecOps Engineer (ECDE) Version 2 Labs",
+                "quantity": 5,
+                "product": {
+                  "zohoId": {
+                    "value": "ECDE-V02-iLAB"
+                  },
+                  "productTypeMeta": {
+                    "value": "iLabs"
+                  },
+                  "productCategoryMeta": {
+                    "value": "CDE"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "99.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "495.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430896455745",
+          "name": "#1241",
+          "createdAt": "2026-02-16T06:07:13Z",
+          "displayFinancialStatus": "PENDING",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "OwnerEXTYDT"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "ACCISO-V03-DRM",
+                "name": "C2SI: Associate CCISOv3 Volumes 1 - 5 eBook",
+                "quantity": 6,
+                "product": {
+                  "zohoId": {
+                    "value": "ACCISO-V03-DRM"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM"
+                  },
+                  "productCategoryMeta": {
+                    "value": "ACCISO"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "150.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "900.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430896422977",
+          "name": "#1240",
+          "createdAt": "2026-02-16T06:07:08Z",
+          "displayFinancialStatus": "PENDING",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "OwnerEXTYDT"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "ACCISO-V03-DRM",
+                "name": "C2SI: Associate CCISOv3 Volumes 1 - 5 eBook",
+                "quantity": 5,
+                "product": {
+                  "zohoId": {
+                    "value": "ACCISO-V03-DRM"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM"
+                  },
+                  "productCategoryMeta": {
+                    "value": "ACCISO"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "150.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "750.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430896193601",
+          "name": "#1239",
+          "createdAt": "2026-02-16T06:07:04Z",
+          "displayFinancialStatus": "PENDING",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "OwnerEXTYDT"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "CEH-V13-DRM-iLAB-v01&02",
+                "name": "C2SI: CEH Version 13 (Volumes 1 & 2) eBook w/ Labs",
+                "quantity": 2,
+                "product": {
+                  "zohoId": {
+                    "value": "CEH-V13-DRM-iLAB-v01&02"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM + iLabs"
+                  },
+                  "productCategoryMeta": {
+                    "value": "CEH"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "125.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "250.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430896095297",
+          "name": "#1238",
+          "createdAt": "2026-02-16T06:06:59Z",
+          "displayFinancialStatus": "PENDING",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "Get_location_data_1.metafields.custom.sales_rep_owner_code.value"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "CEH-V13-DRM-iLAB-v01&02",
+                "name": "C2SI: CEH Version 13 (Volumes 1 & 2) eBook w/ Labs",
+                "quantity": 2,
+                "product": {
+                  "zohoId": {
+                    "value": "CEH-V13-DRM-iLAB-v01&02"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM + iLabs"
+                  },
+                  "productCategoryMeta": {
+                    "value": "CEH"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "125.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "250.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430895865921",
+          "name": "#1237",
+          "createdAt": "2026-02-16T06:06:54Z",
+          "displayFinancialStatus": "PENDING",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "Get_location_data_1.metafields.custom.sales_rep_owner_code"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "CEH-V13-DRM-iLAB-v01&02",
+                "name": "C2SI: CEH Version 13 (Volumes 1 & 2) eBook w/ Labs",
+                "quantity": 2,
+                "product": {
+                  "zohoId": {
+                    "value": "CEH-V13-DRM-iLAB-v01&02"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM + iLabs"
+                  },
+                  "productCategoryMeta": {
+                    "value": "CEH"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "125.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "250.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430895603777",
+          "name": "#1236",
+          "createdAt": "2026-02-16T06:06:49Z",
+          "displayFinancialStatus": "PENDING",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "Erhpm"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "ACCISO-V03-DRM",
+                "name": "C2SI: Associate CCISOv3 Volumes 1 - 5 eBook",
+                "quantity": 1,
+                "product": {
+                  "zohoId": {
+                    "value": "ACCISO-V03-DRM"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM"
+                  },
+                  "productCategoryMeta": {
+                    "value": "ACCISO"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "150.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "150.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430895407169",
+          "name": "#1235",
+          "createdAt": "2026-02-16T06:06:44Z",
+          "displayFinancialStatus": "PENDING",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "Erhpm"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "CEH-V13-DRM-iLAB-EV-RPS",
+                "name": "C2SI: CEH Version 13 (Volumes 1 - 4) eBook w/ Labs + ECC Exam Voucher (RPS)",
+                "quantity": 1,
+                "product": {
+                  "zohoId": {
+                    "value": "CEH-V13-DRM-iLAB-EV-RPS"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM W/PU EV + iLabs"
+                  },
+                  "productCategoryMeta": {
+                    "value": "CEH"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "579.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "579.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430895243329",
+          "name": "#1234",
+          "createdAt": "2026-02-16T06:06:39Z",
+          "displayFinancialStatus": "PENDING",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "Get_location_data_1.metafields.custom.sales_rep_owner_code"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "CEH-V13-DRM-iLAB-v01&02",
+                "name": "C2SI: CEH Version 13 (Volumes 1 & 2) eBook w/ Labs",
+                "quantity": 4,
+                "product": {
+                  "zohoId": {
+                    "value": "CEH-V13-DRM-iLAB-v01&02"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM + iLabs"
+                  },
+                  "productCategoryMeta": {
+                    "value": "CEH"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "125.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "500.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430895079489",
+          "name": "#1233",
+          "createdAt": "2026-02-16T06:06:34Z",
+          "displayFinancialStatus": "PENDING",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "Erhpm"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "CEH-V13-DRM-iLAB-EV-RPS",
+                "name": "C2SI: CEH Version 13 (Volumes 1 - 4) eBook w/ Labs + ECC Exam Voucher (RPS)",
+                "quantity": 6,
+                "product": {
+                  "zohoId": {
+                    "value": "CEH-V13-DRM-iLAB-EV-RPS"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM W/PU EV + iLabs"
+                  },
+                  "productCategoryMeta": {
+                    "value": "CEH"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "579.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "3474.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430894948417",
+          "name": "#1232",
+          "createdAt": "2026-02-16T06:06:30Z",
+          "displayFinancialStatus": "PENDING",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "Erhpm"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "CEH-V13-DRM-iLAB-v01&02",
+                "name": "C2SI: CEH Version 13 (Volumes 1 & 2) eBook w/ Labs",
+                "quantity": 6,
+                "product": {
+                  "zohoId": {
+                    "value": "CEH-V13-DRM-iLAB-v01&02"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM + iLabs"
+                  },
+                  "productCategoryMeta": {
+                    "value": "CEH"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "125.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "750.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430893080641",
+          "name": "#1195",
+          "createdAt": "2026-02-16T06:05:19Z",
+          "displayFinancialStatus": "REFUNDED",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": {
+            "email": "eccouncilwork@gmail.com"
+          },
+          "purchasingEntity": {
+            "company": {
+              "name": "Sample Company",
+              "certId": {
+                "value": "SAP7A92KX4M1"
+              },
+              "sapId": {
+                "value": "784592316048"
+              }
+            }
+          },
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "650.73",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "650.73",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "Get_location_data_1.metafields.custom.sales_rep_owner_code"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "EHE(ECL)-V1-DRM-VID-RPSEV-LAB-ATC",
+                "name": "Ethical Hacking Essentials (EHE) courseware, video, Exam Voucher (RPS), lab",
+                "quantity": 3,
+                "product": {
+                  "zohoId": null,
+                  "productTypeMeta": null,
+                  "productCategoryMeta": null
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "199.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "597.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430891245633",
+          "name": "#1150",
+          "createdAt": "2026-02-16T06:03:24Z",
+          "displayFinancialStatus": "REFUNDED",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": null,
+          "purchasingEntity": null,
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "69.99",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "69.99",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "Get_location_data_1.metafields.custom.sales_rep_owner_code"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "ACCISO-RM-VID",
+                "name": "Associate CCISOv3 Risk Management Video Add-on",
+                "quantity": 1,
+                "product": {
+                  "zohoId": {
+                    "value": "ACCISO-RM-VID"
+                  },
+                  "productTypeMeta": {
+                    "value": "iVideo"
+                  },
+                  "productCategoryMeta": {
+                    "value": "ACCISO"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "69.99",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "69.99",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430891180097",
+          "name": "#1148",
+          "createdAt": "2026-02-16T06:03:20Z",
+          "displayFinancialStatus": "REFUNDED",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": null,
+          "purchasingEntity": null,
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "29.99",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "29.99",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "Get_location_data_1.metafields.custom.sales_rep_owner_code"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "ACCISO-V03-DRM-v05",
+                "name": "C2SI: Associate CCISOv3 Volume 5 eBook (Strategic Planning and Finance)",
+                "quantity": 1,
+                "product": {
+                  "zohoId": {
+                    "value": "ACCISO-V03-DRM-v05"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM"
+                  },
+                  "productCategoryMeta": {
+                    "value": "ACCISO"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "29.99",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "29.99",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430891049025",
+          "name": "#1147",
+          "createdAt": "2026-02-16T06:03:16Z",
+          "displayFinancialStatus": "REFUNDED",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": null,
+          "purchasingEntity": null,
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "49.99",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "49.99",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "Get_location_data_1.metafields.custom.sales_rep_owner_code"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "ACCISO-RM-VID",
+                "name": "C2SI: Associate CCISOv3 Risk Management Video Add-on",
+                "quantity": 1,
+                "product": {
+                  "zohoId": {
+                    "value": "ACCISO-RM-VID"
+                  },
+                  "productTypeMeta": {
+                    "value": "iVideo"
+                  },
+                  "productCategoryMeta": {
+                    "value": "ACCISO"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "49.99",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "49.99",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430890983489",
+          "name": "#1146",
+          "createdAt": "2026-02-16T06:03:12Z",
+          "displayFinancialStatus": "REFUNDED",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": null,
+          "purchasingEntity": null,
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "69.99",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "69.99",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "Get_location_data_1.metafields.custom.sales_rep_owner_code"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "ACCISO-RM-VID",
+                "name": "Associate CCISOv3 Risk Management Video Add-on",
+                "quantity": 1,
+                "product": {
+                  "zohoId": {
+                    "value": "ACCISO-RM-VID"
+                  },
+                  "productTypeMeta": {
+                    "value": "iVideo"
+                  },
+                  "productCategoryMeta": {
+                    "value": "ACCISO"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "69.99",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "69.99",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430890950721",
+          "name": "#1145",
+          "createdAt": "2026-02-16T06:03:09Z",
+          "displayFinancialStatus": "REFUNDED",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": null,
+          "purchasingEntity": null,
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "49.99",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "49.99",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "Get_location_data_1.metafields.custom.sales_rep_owner_code"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "ACCISO-V03-DRM-v05",
+                "name": "Associate CCISOv3 Volume 5 eBook (Strategic Planning and Finance)",
+                "quantity": 1,
+                "product": {
+                  "zohoId": {
+                    "value": "ACCISO-V03-DRM-v05"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM"
+                  },
+                  "productCategoryMeta": {
+                    "value": "ACCISO"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "49.99",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "49.99",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430890885185",
+          "name": "#1144",
+          "createdAt": "2026-02-16T06:03:05Z",
+          "displayFinancialStatus": "REFUNDED",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": null,
+          "purchasingEntity": null,
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "125.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "125.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "Get_location_data_1.metafields.custom.sales_rep_owner_code"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "CEH-V13-DRM-iLAB-v03&04",
+                "name": "C2SI: CEH Version 13 (Volumes 3 & 4) eBook w/ Labs",
+                "quantity": 1,
+                "product": {
+                  "zohoId": {
+                    "value": "CEH-V13-DRM-iLAB-v03&04"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM + iLabs"
+                  },
+                  "productCategoryMeta": {
+                    "value": "CEH"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "125.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "125.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430890754113",
+          "name": "#1143",
+          "createdAt": "2026-02-16T06:03:01Z",
+          "displayFinancialStatus": "REFUNDED",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": null,
+          "purchasingEntity": null,
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "579.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "579.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "Get_location_data_1.metafields.custom.sales_rep_owner_code"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "CEH-V13-DRM-iLAB-EV-RPS",
+                "name": "C2SI: CEH Version 13 (Volumes 1 - 4) eBook w/ Labs + ECC Exam Voucher (RPS)",
+                "quantity": 1,
+                "product": {
+                  "zohoId": {
+                    "value": "CEH-V13-DRM-iLAB-EV-RPS"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM W/PU EV + iLabs"
+                  },
+                  "productCategoryMeta": {
+                    "value": "CEH"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "579.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "579.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430890721345",
+          "name": "#1142",
+          "createdAt": "2026-02-16T06:02:58Z",
+          "displayFinancialStatus": "REFUNDED",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": null,
+          "purchasingEntity": null,
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "29.99",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "29.99",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "Get_location_data_1.metafields.custom.sales_rep_owner_code"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "ACCISO-V03-DRM-v01",
+                "name": "C2SI: Associate CCISOv3 Volume 1 eBook (Information Systems Governance)",
+                "quantity": 1,
+                "product": {
+                  "zohoId": {
+                    "value": "ACCISO-V03-DRM-v01"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM"
+                  },
+                  "productCategoryMeta": {
+                    "value": "ACCISO"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "29.99",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "29.99",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430890623041",
+          "name": "#1141",
+          "createdAt": "2026-02-16T06:02:54Z",
+          "displayFinancialStatus": "REFUNDED",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": null,
+          "purchasingEntity": null,
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "150.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "150.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "Get_location_data_1.metafields.custom.sales_rep_owner_code"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "ACCISO-V03-DRM",
+                "name": "C2SI: Associate CCISOv3 Volumes 1 - 5 eBook",
+                "quantity": 1,
+                "product": {
+                  "zohoId": {
+                    "value": "ACCISO-V03-DRM"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM"
+                  },
+                  "productCategoryMeta": {
+                    "value": "ACCISO"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "150.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "150.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430890524737",
+          "name": "#1140",
+          "createdAt": "2026-02-16T06:02:50Z",
+          "displayFinancialStatus": "REFUNDED",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": null,
+          "purchasingEntity": null,
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "479.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "479.0",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "Get_location_data_1.metafields.custom.sales_rep_owner_code"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "CEH-V13-DRM-iLAB-EV-ECC",
+                "name": "C2SI: CEH Version 13 (Volumes 1 - 4) eBook w/ Labs + ECC Exam Voucher",
+                "quantity": 1,
+                "product": {
+                  "zohoId": {
+                    "value": "CEH-V13-DRM-iLAB-EV-ECC"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM W/ECC EV + iLabs"
+                  },
+                  "productCategoryMeta": {
+                    "value": "CEH"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "479.0",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "479.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430890459201",
+          "name": "#1139",
+          "createdAt": "2026-02-16T06:02:46Z",
+          "displayFinancialStatus": "REFUNDED",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": null,
+          "purchasingEntity": null,
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "49.99",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "49.99",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "Get_location_data_1.metafields.custom.sales_rep_owner_code"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "ACCISO-RM-VID",
+                "name": "C2SI: Associate CCISOv3 Risk Management Video Add-on",
+                "quantity": 1,
+                "product": {
+                  "zohoId": {
+                    "value": "ACCISO-RM-VID"
+                  },
+                  "productTypeMeta": {
+                    "value": "iVideo"
+                  },
+                  "productCategoryMeta": {
+                    "value": "ACCISO"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "49.99",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "49.99",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430890393665",
+          "name": "#1138",
+          "createdAt": "2026-02-16T06:02:42Z",
+          "displayFinancialStatus": "REFUNDED",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": null,
+          "purchasingEntity": null,
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "49.99",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "49.99",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "Get_location_data_1.metafields.custom.sales_rep_owner_code"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "ACCISO-V03-DRM-v04",
+                "name": "Associate CCISOv3 Volume 4 eBook (Information Systems Core Competencies)",
+                "quantity": 1,
+                "product": {
+                  "zohoId": {
+                    "value": "ACCISO-V03-DRM-v04"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM"
+                  },
+                  "productCategoryMeta": {
+                    "value": "ACCISO"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "49.99",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "49.99",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430890360897",
+          "name": "#1137",
+          "createdAt": "2026-02-16T06:02:39Z",
+          "displayFinancialStatus": "REFUNDED",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": null,
+          "purchasingEntity": null,
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "49.99",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "49.99",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "Get_location_data_1.metafields.custom.sales_rep_owner_code"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "ACCISO-V03-DRM-v02",
+                "name": "Associate CCISOv3 Volume 2 eBook (Information Systems Risk Controls and Auditing Management)",
+                "quantity": 1,
+                "product": {
+                  "zohoId": {
+                    "value": "ACCISO-V03-DRM-v02"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM"
+                  },
+                  "productCategoryMeta": {
+                    "value": "ACCISO"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "49.99",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "49.99",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430890295361",
+          "name": "#1136",
+          "createdAt": "2026-02-16T06:02:35Z",
+          "displayFinancialStatus": "REFUNDED",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": null,
+          "purchasingEntity": null,
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "49.99",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "49.99",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "Get_location_data_1.metafields.custom.sales_rep_owner_code"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "ACCISO-V03-DRM-v01",
+                "name": "Associate CCISOv3 Volume 1 eBook (Information Systems Governance)",
+                "quantity": 1,
+                "product": {
+                  "zohoId": {
+                    "value": "ACCISO-V03-DRM-v01"
+                  },
+                  "productTypeMeta": {
+                    "value": "DRM"
+                  },
+                  "productCategoryMeta": {
+                    "value": "ACCISO"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "49.99",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "49.99",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6430890229825",
+          "name": "#1135",
+          "createdAt": "2026-02-16T06:02:32Z",
+          "displayFinancialStatus": "REFUNDED",
+          "presentmentCurrencyCode": "USD",
+          "totalShippingPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "customer": null,
+          "purchasingEntity": null,
+          "currentSubtotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalTaxSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "currentTotalPriceSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalOutstandingSet": {
+            "presentmentMoney": {
+              "amount": "0.0",
+              "currencyCode": "USD"
+            }
+          },
+          "totalReceivedSet": {
+            "presentmentMoney": {
+              "amount": "69.99",
+              "currencyCode": "USD"
+            }
+          },
+          "totalRefundedSet": {
+            "presentmentMoney": {
+              "amount": "69.99",
+              "currencyCode": "USD"
+            }
+          },
+          "salesRepOwnerCode": {
+            "value": "Get_location_data_1.metafields.custom.sales_rep_owner_code"
+          },
+          "salesRepFullName": null,
+          "divisionName": null,
+          "divisionCode": null,
+          "entityName": null,
+          "assignPartnerType": null,
+          "lineItems": {
+            "nodes": [
+              {
+                "sku": "ACCISO-RM-VID",
+                "name": "Associate CCISOv3 Risk Management Video Add-on",
+                "quantity": 1,
+                "product": {
+                  "zohoId": {
+                    "value": "ACCISO-RM-VID"
+                  },
+                  "productTypeMeta": {
+                    "value": "iVideo"
+                  },
+                  "productCategoryMeta": {
+                    "value": "ACCISO"
+                  }
+                },
+                "originalUnitPriceSet": {
+                  "presentmentMoney": {
+                    "amount": "69.99",
+                    "currencyCode": "USD"
+                  }
+                },
+                "originalTotalSet": {
+                  "presentmentMoney": {
+                    "amount": "69.99",
+                    "currencyCode": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "extensions": {
+    "cost": {
+      "requestedQueryCost": 211,
+      "actualQueryCost": 32,
+      "throttleStatus": {
+        "maximumAvailable": 20000.0,
+        "currentlyAvailable": 19968,
+        "restoreRate": 1000.0
+      }
+    }
+  }
+}

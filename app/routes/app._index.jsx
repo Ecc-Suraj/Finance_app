@@ -23,6 +23,7 @@ export default function ReportsPage() {
       download: "/api/ar-download",
       filename: "ar_aging_report.csv",
       requiresDates: true,
+      onlyEndDate: true,
       successMessage: "AR Report generated successfully.",
     },
 
@@ -83,14 +84,23 @@ export default function ReportsPage() {
     }
 
     if (config.requiresDates) {
-      if (!startDate || !endDate) {
-        alert("Please select both Start Date and End Date.");
-        return;
-      }
 
-      if (startDate > endDate) {
-        alert("Start Date cannot be greater than End Date.");
-        return;
+      if (config.onlyEndDate){
+        if(!endDate){
+          aleart("Please select the End Date.")
+          return;
+        }
+      }
+      else{
+        if (!startDate || !endDate) {
+          alert("Please select both Start Date and End Date.");
+          return;
+        }
+
+        if (startDate > endDate) {
+          alert("Start Date cannot be greater than End Date.");
+          return;
+        }
       }
     }
 
@@ -102,7 +112,10 @@ export default function ReportsPage() {
       setIsGenerating(true);
 
       const body = config.requiresDates
-        ? {
+      ?config.onlyEndDate?{
+        endDate,
+      }
+      : {
             startDate,
             endDate,
           }
@@ -232,27 +245,29 @@ export default function ReportsPage() {
 
       {requiresDates && (
         <>
-          <div style={{ marginBottom: "15px" }}>
-            <label
-              style={{
-                display: "block",
-                marginBottom: "5px",
-              }}
-            >
-              Start Date
-            </label>
+          {!REPORT_CONFIG[selectedReport]?.onlyEndDate && (
+            <div style={{ marginBottom: "15px" }}>
+              <label
+                style={{
+                  display: "block",
+                  marginBottom: "5px",
+                }}
+              >
+                Start Date
+              </label>
 
-            <input
-              type="date"
-              value={startDate}
-              disabled={isGenerating}
-              onChange={(e) => setStartDate(e.target.value)}
-              style={{
-                width: "100%",
-                padding: "8px",
-              }}
-            />
-          </div>
+              <input
+                type="date"
+                value={startDate}
+                disabled={isGenerating}
+                onChange={(e) => setStartDate(e.target.value)}
+                style={{
+                  width: "100%",
+                  padding: "8px",
+                }}
+              />
+            </div>
+          )}
 
           <div style={{ marginBottom: "20px" }}>
             <label
