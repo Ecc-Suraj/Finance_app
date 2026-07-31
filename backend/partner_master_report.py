@@ -5,6 +5,7 @@ import os
 import csv
 import time
 import requests
+from report_utils import write_report_info
 
 SHOP = os.getenv("SHOPIFY_STORE")
 TOKEN = os.getenv("SHOPIFY_ACCESS_TOKEN")
@@ -63,6 +64,34 @@ query GetCompanies($cursor: String){
       ){
         value
       }
+
+      overrideOrderCapping: metafield(
+        namespace: "balance-check"
+        key: "override_order_capping"
+    ) {
+        value
+    }
+
+    partnerOutstanding: metafield(
+        namespace: "balance-check"
+        key: "total_outstanding"
+    ) {
+        value
+    }
+
+    partnerStoreCredit: metafield(
+        namespace: "balance-check"
+        key: "total_store_credit_used"
+    ) {
+        value
+    }
+
+    partnerCreditLimit: metafield(
+        namespace: "balance-check"
+        key: "credit_limit"
+    ) {
+        value
+    }
 
     }
 
@@ -125,17 +154,26 @@ def generate_partner_master_report():
         newline="",
         encoding="utf-8-sig"
     ) as csvfile:
-
+    
         writer = csv.writer(csvfile)
+
+        write_report_info(
+            writer,
+            "Partner Master Report"
+        )
 
         writer.writerow([
 
             "S. No.",
-            "Shopify Partner ID",
+            "Partner ID (shopify)",
             "Partner Name",
-            "Cert ID",
-            "SAP ID",
-            "Partner Type"
+            "Partner Cert ID",
+            "Partner SAP ID",
+            "Partner Type",
+            "Partner Capping",
+            "Partner Outstanding",
+            "Partner Store Credit",
+            "Partner Credit Limit"
 
         ])
 
@@ -160,6 +198,22 @@ def generate_partner_master_report():
                 company.get("partnerType") or {}
             ).get("value", "")
 
+            override_order_capping = (
+                company.get("overrideOrderCapping") or {}
+            ).get("value", "")
+
+            partner_outstanding = (
+                company.get("partnerOutstanding") or {}
+            ).get("value", "")
+
+            partner_store_credit = (
+                company.get("partnerStoreCredit") or {}
+            ).get("value", "")
+
+            partner_credit_limit = (
+                company.get("partnerCreditLimit") or {}
+            ).get("value", "")
+
             writer.writerow([
 
                 row_no,
@@ -172,10 +226,17 @@ def generate_partner_master_report():
 
                 sap_id,
 
-                partner_type
+                partner_type,
+
+                override_order_capping,
+
+                partner_outstanding,
+
+                partner_store_credit,
+
+                partner_credit_limit
 
             ])
-
             row_no += 1
 
     print(

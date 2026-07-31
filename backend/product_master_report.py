@@ -5,6 +5,7 @@ import os
 import csv
 import time
 import requests
+from report_utils import write_report_info
 
 
 # ---------------------------------------------------------
@@ -141,6 +142,7 @@ CATALOG_QUERY = """
         priceList {
           id
           name
+          currency
         }
 
       }
@@ -405,7 +407,8 @@ def generate_product_master_report():
         catalog_price_lists[title] = {
             "catalog_id": catalog["id"],
             "price_list_id": price_list["id"],
-            "price_list_name": price_list["name"]
+            "price_list_name": price_list["name"],
+            "currency": price_list.get("currency", "")
         }
 
         print(f"Found Catalog : {title}")
@@ -493,6 +496,15 @@ def generate_product_master_report():
 
         writer = csv.writer(csvfile)
 
+
+        # -------------------------------------------------
+        # REPORT INFORMATION
+        # -------------------------------------------------
+
+        write_report_info(
+            writer,
+            "Product Master Report"
+        )
         # -------------------------------------------------
         # HEADER
         # -------------------------------------------------
@@ -501,18 +513,26 @@ def generate_product_master_report():
             "S. No.",
             "Shopify ID",
             "Product Code",
-            "SKU",
-            "Zoho ID",
+            "Product SKU",
+            "Product Zoho ID",
             "Product Name",
             "Product Type",
             "Product Category"
         ]
 
-        catalog_names = sorted(
-            catalog_price_lists.keys()
-        )
+        catalog_names = sorted(catalog_price_lists.keys())
 
-        headers.extend(catalog_names)
+        for catalog_name in catalog_names:
+
+            currency = catalog_price_lists[catalog_name].get(
+                "currency",
+                ""
+            )
+
+            if currency:
+                headers.append(f"{catalog_name} ({currency})")
+            else:
+                headers.append(catalog_name)
 
         writer.writerow(headers)
 

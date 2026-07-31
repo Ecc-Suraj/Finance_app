@@ -69,7 +69,6 @@ def download_payment_report():
 def ar_report(request: ReportRequest):
 
     filename = generate_ar_report(
-        start_date=request.startDate,
         end_date=request.endDate
     )
 

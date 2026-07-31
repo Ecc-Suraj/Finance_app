@@ -7,6 +7,7 @@ import time
 import argparse
 import requests
 from datetime import datetime
+from report_utils import write_report_info
 
 SHOP = os.getenv("SHOPIFY_STORE")
 TOKEN = os.getenv("SHOPIFY_ACCESS_TOKEN")
@@ -211,6 +212,13 @@ def generate_payment_report(start_date=None, end_date=None):
 
         writer = csv.writer(csvfile)
 
+        write_report_info(
+            writer,
+            "Payment Report",
+            start_date,
+            end_date
+        )
+
         writer.writerow([
             "S. No.",
             "Payment Date",
@@ -220,9 +228,9 @@ def generate_payment_report(start_date=None, end_date=None):
             "Payment Received Amount",
             "Currency",
             "Original Invoice Number",
-            "Payment/Order Status",
-            "Partner Code",
-            "Partner Shopify ID",
+            "Payment Status",
+            "Partner SAP ID",
+            "Partner Cert ID",
             "Partner Name",
             "Partner Country"
         ])

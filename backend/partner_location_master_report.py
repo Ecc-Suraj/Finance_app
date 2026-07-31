@@ -6,6 +6,7 @@ import csv
 import time
 import argparse
 import requests
+from report_utils import write_report_info
 
 SHOP = os.getenv("SHOPIFY_STORE")
 TOKEN = os.getenv("SHOPIFY_ACCESS_TOKEN")
@@ -37,6 +38,20 @@ query GetCompanies($cursor: String) {
     }
 
     nodes {
+    
+        certId: metafield(
+            namespace: "custom"
+            key: "cert_id"
+        ) {
+                value
+        }
+
+        sapId: metafield(
+            namespace: "custom"
+            key: "sap_id"
+        ) {
+            value
+        }
 
       locations(first: 10) {
 
@@ -284,6 +299,11 @@ def generate_partner_location_master_report():
 
         writer = csv.writer(csvfile)
 
+        write_report_info(
+            writer,
+            "Partner Master Report"
+        )
+
         writer.writerow([
 
             "S. No.",
@@ -292,15 +312,13 @@ def generate_partner_location_master_report():
 
             "Location Name",
 
-            "Cert ID",
+            "Partner Cert ID",
 
-            "SAP ID",
+            "Partner SAP ID",
 
             "Partner Type",
 
             "Email ID",
-
-            "Amount",
 
             "Store Credits",
 
@@ -318,7 +336,7 @@ def generate_partner_location_master_report():
 
             "Sales Rep. Name",
 
-            "Sales Rep. Emp Code",
+            "Sales Rep. Code",
 
             "Payment Terms"
 
@@ -330,6 +348,16 @@ def generate_partner_location_master_report():
         # Process every company and every location
         #
         for company in all_companies:
+
+            company_cert_id = get_metafield_value(
+                company,
+                "certId"
+            )
+
+            company_sap_id = get_metafield_value(
+                company,
+                "sapId"
+            )
 
             locations = (
                 company.get("locations") or {}
@@ -348,9 +376,6 @@ def generate_partner_location_master_report():
                     "name",
                     ""
                 )
-                total_spent = (
-                    location.get("totalSpent") or {}
-                ).get("amount", "")
 
                 store_credit = ""
 
@@ -403,14 +428,14 @@ def generate_partner_location_master_report():
                 #
                 # Metafields
                 #
-                cert_id = get_metafield_value(
-                    location,
-                    "certId"
+                cert_id = (
+                    get_metafield_value(location, "certId")
+                    or company_cert_id
                 )
 
-                sap_id = get_metafield_value(
-                    location,
-                    "sapId"
+                sap_id = (
+                    get_metafield_value(location, "sapId")
+                    or company_sap_id
                 )
 
                 partner_type = get_metafield_value(
@@ -462,8 +487,6 @@ def generate_partner_location_master_report():
                     partner_type,
 
                     emails,
-
-                    total_spent,
 
                     store_credit,
 

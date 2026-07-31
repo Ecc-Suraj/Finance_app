@@ -216,74 +216,11 @@ query GetOrders($cursor: String, $query: String) {
 """
 
 
-def generate_ar_report(start_date=None, end_date=None):
+def generate_ar_report( end_date=None):
 
-    search_query = ""
+    search_query = ""    
 
-    if start_date and end_date:
-
-        if isinstance(start_date, str):
-            start_date = datetime.strptime(
-                start_date,
-                "%Y-%m-%d"
-            ).date()
-
-        if isinstance(end_date, str):
-            end_date = datetime.strptime(
-                end_date,
-                "%Y-%m-%d"
-            ).date()
-
-        if start_date > end_date:
-            raise Exception(
-                "Start Date cannot be greater than End Date"
-            )
-
-        start_iso = (
-            datetime.combine(
-                start_date,
-                datetime.min.time()
-            )
-            .replace(tzinfo=timezone.utc)
-            .isoformat()
-        )
-
-        end_iso = (
-            datetime.combine(
-                end_date,
-                datetime.max.time()
-            )
-            .replace(tzinfo=timezone.utc)
-            .isoformat()
-        )
-
-        search_query = ""
-
-        # search_query = (
-        #     f"created_at:>={start_iso} "
-        #     f"created_at:<={end_iso}"
-        # )
-
-    elif start_date:
-
-        if isinstance(start_date, str):
-            start_date = datetime.strptime(
-                start_date,
-                "%Y-%m-%d"
-            ).date()
-
-        start_iso = (
-            datetime.combine(
-                start_date,
-                datetime.min.time()
-            )
-            .replace(tzinfo=timezone.utc)
-            .isoformat()
-        )
-
-        search_query = f"created_at:>={start_iso}"
-
-    elif end_date:
+    if end_date:
 
         if isinstance(end_date, str):
             end_date = datetime.strptime(
@@ -404,7 +341,8 @@ def generate_ar_report(start_date=None, end_date=None):
         writer = csv.writer(csvfile)
 
         writer.writerow([
-            "S. No",
+
+            "Sr. No.",
             "Order Date",
             "Order Number",
             "Email ID",
@@ -418,9 +356,9 @@ def generate_ar_report(start_date=None, end_date=None):
             "Paid",
             "Outstanding",
             "Currency",
-            "Company / Partner Name",
-            "Cert ID",
-            "SAP ID",
+            "Partner Name",
+            "Partner Cert ID",
+            "Partner SAP ID",
             "Partner Type",
             "Sales Rep. Name",
             "Sales Rep. Emp Code",
@@ -428,13 +366,14 @@ def generate_ar_report(start_date=None, end_date=None):
             "Division Name",
             "Division Code",
             "upto 30 Days",
-            "31-60 days",
-            "61-90 days",
-            "91-120 days",
-            "121-150 days",
-            "151-360 days"
+            "31-60 Days",
+            "61-90 Days",
+            "91-120 Days",
+            "121-150 Days",
+            "151-180 Days",
+            "181-365 Days",
+            "365 Above"
         ])
-
         row_no = 1
 
         for order in all_orders:
@@ -566,60 +505,52 @@ def generate_ar_report(start_date=None, end_date=None):
                 ""
             )
 
-            upto_30 = "No"
-            days_31_60 = "No"
-            days_61_90 = "No"
-            days_91_120 = "No"
-            days_121_150 = "No"
-            days_151_360 = "No"
+            upto_30 = 0
+            days_31_60 = 0
+            days_61_90 = 0
+            days_91_120 = 0
+            days_121_150 = 0
+            days_151_180 = 0
+            days_181_365 = 0
+            days_365_above = 0
 
             if created_at:
 
                 order_date = datetime.fromisoformat(
-                        created_at.replace(
-                            "Z",
-                            "+00:00"
-                        )
+                    created_at.replace(
+                        "Z",
+                        "+00:00"
                     )
+                )
+
                 days_old = (
-                        datetime.now(timezone.utc)
-                        - order_date
-                    ).days
-                upto_30 = (
-                        "Yes"
-                        if days_old <= 30
-                        else "No"
-                    )
-                days_31_60 = (
-                    "Yes"
-                    if 31 <= days_old <= 60
-                    else "No"
-                )
+                    datetime.now(timezone.utc)
+                    - order_date
+                ).days
 
-                days_61_90 = (
-                    "Yes"
-                    if 61 <= days_old <= 90
-                    else "No"
-                )
+                if days_old <= 30:
+                    upto_30 = grand_total
 
-                days_91_120 = (
-                    "Yes"
-                    if 91 <= days_old <= 120
-                    else "No"
-                )
+                elif days_old <= 60:
+                    days_31_60 = grand_total
 
-                days_121_150 = (
-                    "Yes"
-                    if 121 <= days_old <= 150
-                    else "No"
-                )
+                elif days_old <= 90:
+                    days_61_90 = grand_total
 
-                days_151_360 = (
-                    "Yes"
-                    if days_old >= 151
-                    else "No"
-                )
+                elif days_old <= 120:
+                    days_91_120 = grand_total
 
+                elif days_old <= 150:
+                    days_121_150 = grand_total
+
+                elif days_old <= 180:
+                    days_151_180 = grand_total
+
+                elif days_old <= 365:
+                    days_181_365 = grand_total
+
+                else:
+                    days_365_above = grand_total
             writer.writerow([
 
                 row_no,
@@ -727,17 +658,21 @@ def generate_ar_report(start_date=None, end_date=None):
                     ""
                 ),
 
-                upto_30,
+                round(upto_30, 2),
 
-                days_31_60,
+                round(days_31_60, 2),
 
-                days_61_90,
+                round(days_61_90, 2),
 
-                days_91_120,
+                round(days_91_120, 2),
 
-                days_121_150,
+                round(days_121_150, 2),
 
-                days_151_360
+                round(days_151_180, 2),
+
+                round(days_181_365, 2),
+
+                round(days_365_above, 2)
 
             ])
 
@@ -758,11 +693,6 @@ if __name__ == "__main__":
     )
 
     parser.add_argument(
-        "--start-date",
-        help="Start Date (YYYY-MM-DD)"
-    )
-
-    parser.add_argument(
         "--end-date",
         help="End Date (YYYY-MM-DD)"
     )
@@ -770,6 +700,5 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     generate_ar_report(
-        start_date=args.start_date,
         end_date=args.end_date
     )

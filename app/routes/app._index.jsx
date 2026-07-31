@@ -224,7 +224,7 @@ export default function ReportsPage() {
 
           <option value="partner_master">Partner Master - Company</option>
 
-          <option value="partner_master_ll">Partner Master- location</option>
+          <option value="partner_master_ll">Partner Master - Location</option>
 
           <option value="product_master">Product Master</option>
         </select>
