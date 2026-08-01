@@ -1,6 +1,11 @@
 ﻿Report Name,AR report
 Store Name,b2b-uat.myshopify.com
+<<<<<<< HEAD
 Generated On,31-Jul-2026 07:25:53 PM
+=======
+Generated On,31-Jul-2026 04:41:11 PM
+Export Till Date,31-Jul-2026
+>>>>>>> 1a977d565e8527156a4c66bb9c0f458ce6043a7b
 
 Sr. No.,Order Date,Order Number,Email ID,Payment Status,Product Type,Product Category,Subtotal,Tax Value,Shipping Charge,Grand Total,Paid,Outstanding,Currency,Partner Name,Partner Cert ID,Partner SAP ID,Partner Type,Sales Rep. Name,Sales Rep. Emp Code,Entity,Division Name,Division Code,Order Age,upto 30 Days,31-60 Days,61-90 Days,91-120 Days,121-150 Days,151-180 Days,181-365 Days,365 Above
 1,21-Jul-2026,#1595,gargeepawarecc@gmail.com,PENDING,DRM W/PU EV,CTIA,810.0,40.5,0.0,850.5,0.0,850.5,USD,Order Cap Test,P6Q9M2K7AXTW,491726835607,ATC,,,ICEC,Channel US,017,10,850.5,0,0,0,0,0,0,0
