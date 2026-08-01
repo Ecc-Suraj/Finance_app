@@ -1,8 +1,8 @@
 ﻿Report Name,Partner Master Report
 Store Name,b2b-uat.myshopify.com
-Generated On,29-Jul-2026 07:05:35 PM
+Generated On,31-Jul-2026 07:27:29 PM
 
-S. No.,Shopify Partner ID,Partner Name,Partner Cert ID,Partner SAP ID,Partner Type,Order Capping,Partner Outstanding,Partner Store Credit,Partner Credit Limit
+S. No.,Partner ID (shopify),Partner Name,Partner Cert ID,Partner SAP ID,Partner Type,Partner Capping,Partner Outstanding,Partner Store Credit,Partner Credit Limit
 1,4870144065,Order Cap Test,P6Q9M2K7AXTW,491726835607,Reseller,No,246714.87,1501.0,10000.0
 2,4674617409,Dell,R8SAP1L4X2QM,753914268180,Academia,No,4672.98,2391.41,
 3,4651024449,Test Finance,K5M7X3P9QARL,618359427905,ATC,No,0.0,0.0,

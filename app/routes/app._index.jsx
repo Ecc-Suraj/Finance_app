@@ -41,6 +41,7 @@ export default function ReportsPage() {
       requiresDates: false,
       successMessage: "Partner Master generated successfully.",
     },
+
     partner_master_ll: {
       generate: "/api/partner-location-master",
       download: "/api/partner-location-master-download",
@@ -59,15 +60,10 @@ export default function ReportsPage() {
   };
 
   const [selectedReport, setSelectedReport] = React.useState("");
-
   const [isGenerating, setIsGenerating] = React.useState(false);
-
   const [downloadReady, setDownloadReady] = React.useState(false);
-
   const [statusMessage, setStatusMessage] = React.useState("");
-
   const [startDate, setStartDate] = React.useState("");
-
   const [endDate, setEndDate] = React.useState("");
 
   const handleGenerate = async () => {
@@ -83,30 +79,44 @@ export default function ReportsPage() {
     }
 
     if (config.requiresDates) {
-      if (!startDate || !endDate) {
-        alert("Please select both Start Date and End Date.");
-        return;
-      }
+      if (selectedReport === "ar_report") {
+        if (!endDate) {
+          alert("Please select As On Date.");
+          return;
+        }
+      } else {
+        if (!startDate || !endDate) {
+          alert("Please select both Start Date and End Date.");
+          return;
+        }
 
-      if (startDate > endDate) {
-        alert("Start Date cannot be greater than End Date.");
-        return;
+        if (startDate > endDate) {
+          alert("Start Date cannot be greater than End Date.");
+          return;
+        }
       }
     }
 
     setDownloadReady(false);
-
     setStatusMessage("");
 
     try {
       setIsGenerating(true);
 
-      const body = config.requiresDates
-        ? {
+      let body = {};
+
+      if (config.requiresDates) {
+        if (selectedReport === "ar_report") {
+          body = {
+            endDate,
+          };
+        } else {
+          body = {
             startDate,
             endDate,
-          }
-        : {};
+          };
+        }
+      }
 
       const response = await fetch(config.generate, {
         method: "POST",
@@ -118,16 +128,13 @@ export default function ReportsPage() {
 
       if (!response.ok) {
         const err = await response.json().catch(() => null);
-
         throw new Error(err?.error || "Unable to generate report.");
       }
 
       setDownloadReady(true);
-
       setStatusMessage(`${config.successMessage} Click Download Report.`);
     } catch (error) {
       console.error(error);
-
       alert(error.message);
     } finally {
       setIsGenerating(false);
@@ -151,35 +158,30 @@ export default function ReportsPage() {
 
       if (!response.ok) {
         const err = await response.json().catch(() => null);
-
         throw new Error(err?.error || "Unable to download report.");
       }
 
       const blob = await response.blob();
-
       const url = window.URL.createObjectURL(blob);
 
       const link = document.createElement("a");
-
       link.href = url;
-
       link.download = config.filename;
 
       document.body.appendChild(link);
-
       link.click();
-
       link.remove();
 
       window.URL.revokeObjectURL(url);
     } catch (error) {
       console.error(error);
-
       alert(error.message);
     }
   };
 
-  const requiresDates = REPORT_CONFIG[selectedReport]?.requiresDates || false;
+  const requiresDates =
+    REPORT_CONFIG[selectedReport]?.requiresDates || false;
+
   return (
     <div style={{ padding: "1.5rem", maxWidth: 500 }}>
       <h1 style={{ marginBottom: "20px" }}>Finance Reports</h1>
@@ -187,7 +189,10 @@ export default function ReportsPage() {
       <div style={{ marginBottom: "20px" }}>
         <label
           htmlFor="report-select"
-          style={{ display: "block", marginBottom: "5px" }}
+          style={{
+            display: "block",
+            marginBottom: "5px",
+          }}
         >
           Report Name
         </label>
@@ -200,11 +205,9 @@ export default function ReportsPage() {
             setSelectedReport(e.target.value);
 
             setDownloadReady(false);
-
             setStatusMessage("");
 
             setStartDate("");
-
             setEndDate("");
           }}
           style={{
@@ -222,37 +225,47 @@ export default function ReportsPage() {
 
           <option value="refund_report">Refund Report</option>
 
-          <option value="partner_master">Partner Master - Company</option>
+          <option value="partner_master">
+            Partner Master - Company
+          </option>
 
-          <option value="partner_master_ll">Partner Master - Location</option>
+          <option value="partner_master_ll">
+            Partner Master - Location
+          </option>
 
-          <option value="product_master">Product Master</option>
+          <option value="product_master">
+            Product Master
+          </option>
         </select>
       </div>
 
       {requiresDates && (
         <>
-          <div style={{ marginBottom: "15px" }}>
-            <label
-              style={{
-                display: "block",
-                marginBottom: "5px",
-              }}
-            >
-              Start Date
-            </label>
+          {selectedReport !== "ar_report" && (
+            <div style={{ marginBottom: "15px" }}>
+              <label
+                style={{
+                  display: "block",
+                  marginBottom: "5px",
+                }}
+              >
+                Start Date
+              </label>
 
-            <input
-              type="date"
-              value={startDate}
-              disabled={isGenerating}
-              onChange={(e) => setStartDate(e.target.value)}
-              style={{
-                width: "100%",
-                padding: "8px",
-              }}
-            />
-          </div>
+              <input
+                type="date"
+                value={startDate}
+                disabled={isGenerating}
+                onChange={(e) =>
+                  setStartDate(e.target.value)
+                }
+                style={{
+                  width: "100%",
+                  padding: "8px",
+                }}
+              />
+            </div>
+          )}
 
           <div style={{ marginBottom: "20px" }}>
             <label
@@ -261,14 +274,18 @@ export default function ReportsPage() {
                 marginBottom: "5px",
               }}
             >
-              End Date
+              {selectedReport === "ar_report"
+                ? "As On Date"
+                : "End Date"}
             </label>
 
             <input
               type="date"
               value={endDate}
               disabled={isGenerating}
-              onChange={(e) => setEndDate(e.target.value)}
+              onChange={(e) =>
+                setEndDate(e.target.value)
+              }
               style={{
                 width: "100%",
                 padding: "8px",
